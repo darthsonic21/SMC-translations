@@ -25,7 +25,7 @@
                 "unlock": "Dissere",
                 "hide": "Reconde",
                 "view": "Vide",
-                "create": "Face",
+                "create": "Facie",
                 "edit": "Muta",
                 "remove": "Remove",
                 "exit": "Exi",
@@ -194,7 +194,7 @@
         "level-select": {
             "labels": {
                 "level-select": "SPECTALUCUM ELIGE",
-                "pick-gamestyle": "FORMA LUDI ELIGE",
+                "pick-gamestyle": "FORMAM LUDI ELIGE",
                 "pick-theme": "THEMA ELIGE",
                 "empty-card": "CHARTA IANIS SPECTACULI",
                 "level-name": "Nomen spectaculi",
@@ -210,22 +210,22 @@
             },
             "tooltips": {
                 "play": "Lude",
-                "restore-points": "Restore points",
+                "restore-points": "Puncta restitutionum",
                 "open-editor": "Mutatorem spectaculi aperi",
                 "view-code": "Codicem observa",
                 "delete": "Dele"
             },
             "html": {
-                "level-name-placeholder": "You can always change this later",
-                "level-size-presets": "Horizontal (no extra Y)|Horizontal (with Y-space)|Vertical|Metroidvania|One-screen",
-                "import-code-placeholder": "Paste your level code here, then press the LOAD button."
+                "level-name-placeholder": "Postea, semper hoc mutare potes",
+                "level-size-presets": "Horizontalis (sine plure altitudine)|Horizontalis (cum altitudine)|Verticalis|Metroidvania|Unum quadrum",
+                "import-code-placeholder": "Pone codicem tuum spectaculi, tunc botonem EXPORTA pulsa. "
             },
             "text": {
-                "gamestyle-notice": "Pick a style! In this game, each gamestyle aims to closely replicate the source material. Therefore gamestyles aren't compatible, so think about which one you'd like to use now.",
-                "theme-notice": "Now just decide on a theme and a name for your level!\nYou can change these later. Themes can be customized in-editor.",
-                "delete-warning": "Are you sure you want to delete this level?\nIn case you want to play or edit it again later, be sure to save the level code to your computer first.",
-                "code-notice": "You can share this level code with others, so they can play your level! It's also recommended to keep level codes stored as a back-up.",
-                "compact-notice": "Compact codes only contain all the data needed to construct your level, stripping out data stored for the level designers only.",
+                "gamestyle-notice": "Formam elige! In ludo hoc, uterque forma petit ut originem similet. Ergo, formae ludorum non sunt consociabiles, sic cogita de forma qua tu uti volas.",
+                "theme-notice": "Nunc, elige thema et nomen spectaculi tui!\nPostea hos mutare potes. Thema in mutatore mutare potitur.",
+                "delete-warning": "Hoc spectaculum delere volas?\nSi contingat ut hoc ludere vel mutare voles postea, serva codicem spectaculi in computatro tuo primum.",
+                "code-notice": "Hunc codicem spectaculi cum aliis partire potes! Et monitus est ut codices serves pro asservatione.",
+                "compact-notice": "Codices arti habet solas informationes quas egentur ut spectaculum tuum faciat, sine informationibus quibus servavit pro factoribus spectaculum.",
                 "production-notice": "The production code saves extra data that is handy during level designing, such as what items are in the favorites bar.",
                 "import-code-notice": "Paste a level code here, and the level will be saved within the game. It is still recommended to make regular backups of your level by saving the code on your device and/or on Level Share Square.",
                 "first-paste-code": "You first have to paste in your level code.",
