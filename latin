@@ -2,35 +2,35 @@
     "locale": "Latina",
     "strings": {
         "constants": {
-            "1_map-palettes": "Ordinarius/Terra|Subterraneus (sapphirus)|Arx (canus)|Subaqueanus (viridis)|Caelum (prasinus)|Glacies (asurea)|Vulcanus (ruber)|Domus phasmatum (purpureus)|Stimulatio (flavus)|Acta (brunnea)|Mundus Stellarum (caesius)|Silva (fusca)",
+            "1_map-palettes": "Ordinarius/Terra|Subterraneus (sapphirus)|Arx (canus)|Subaqueanus (viridis)|Caelum (prasinus)|Glacies (aeria)|Vulcanus (ruber)|Domus phasmatum (purpureus)|Stimulatio (flavus)|Acta (brunnea)|Mundus Stellarum (caesius)|Silva (fusca)",
             "2_map-palettes": "Ordinarius"
         },
         "common": {
             "buttons": {
                 "yes": "Ita",
                 "no": "Minime",
-                "close": "Clodo",
-                "download": "Importo",
+                "close": "Clode",
+                "download": "Importa",
                 "next": "Sequens",
-				"confirm": "Sancio",
-                "confirm-click": "Click again to confirm",
-                "proceed": "Procedo",
-				"cancel": "Retexo",
-				"play": "Ludo",
-				"load": "Exporto",
-                "go-back": "Redeo",
-                "delete": "Deleo",
-                "rename": "Rename",
-                "lock": "Lock",
-                "unlock": "Unlock",
-                "hide": "Recondo",
-                "view": "Video",
-                "create": "Facio",
-                "edit": "Immuto",
-                "remove": "Removeo",
-                "exit": "Exeo",
-                "editor": "Immutator",
-                "click-configure": "Click to configure"
+				"confirm": "Sanci",
+                "confirm-click": "Pulsa iterum ut sancias",
+                "proceed": "Procede",
+				"cancel": "Retexe",
+				"play": "Lude",
+				"load": "Exporta",
+                "go-back": "Redi",
+                "delete": "Dele",
+                "rename": "Transnomina",
+                "lock": "Obfirma",
+                "unlock": "Dissere",
+                "hide": "Reconde",
+                "view": "Vide",
+                "create": "Face",
+                "edit": "Muta",
+                "remove": "Remove",
+                "exit": "Exi",
+                "editor": "Mutator",
+                "click-configure": "Pulsa ut configuras"
             },
             "time": {
                 "days": {
@@ -42,23 +42,23 @@
                     "other": "horae"
                 },
                 "minutes": {
-                    "one": "minuta",
-                    "other": "minutae"
+                    "one": "pars minuta prima",
+                    "other": "partes minutae primae"
                 },
                 "seconds": {
-                    "one": "secunda",
-                    "other": "secundae"
+                    "one": "pars minuta secunda",
+                    "other": "partes minutae secundae"
                 },
                 "ago": "abhinc",
                 "just-now": "Nunc",
                 "notation": "{0} {1}"
             },
             "words": {
-                "keyboard": "keyboard",
+                "keyboard": "plectrologium",
                 "controller": "controller",
-                "language": "language",
+                "language": "lingua",
                 "characters": "characters",
-                "music": "music",
+                "music": "musica",
                 "decibels": "decibels",
                 "volume": "volume",
                 "frequency": "frequency",
@@ -68,13 +68,13 @@
                 "inactive": "inactive",
                 "unavailable": "unavailable",
                 "paused": "paused",
-                "name": "name",
+                "name": "nomen",
                 "wait": "wait",
                 "main": "main",
                 "custom": "custom",
-                "left": "left",
-                "middle": "middle",
-                "right": "right",
+                "left": "sinister",
+                "middle": "medius",
+                "right": "dexter",
                 "up": "up",
                 "down": "down",
                 "width": "width",
@@ -82,85 +82,85 @@
                 "opacity": "opacity",
                 "stationary": "stationary",
                 "layers": {
-                    "one": "layer",
-                    "other": "layers"
+                    "one": "stratum",
+                    "other": "strata"
                 },
                 "effects": {
-                    "one": "effect",
-                    "other": "effects"
+                    "one": "effectus",
+                    "other": "effectus"
                 },
 				"filters": {
-                    "one": "filter",
-                    "other": "filters"
+                    "one": "filtrum",
+                    "other": "filtra"
                 },
 				"generators": {
                     "one": "generator",
-                    "other": "generators"
+                    "other": "generatores"
                 },
                 "objects": {
-                    "one": "object",
-                    "other": "objects"
+                    "one": "obiectum",
+                    "other": "obiecta"
                 },
                 "tiles": {
-                    "one": "tile",
-                    "other": "tiles"
+                    "one": "tegula",
+                    "other": "tegulae"
                 },
                 "destination": {
-                    "one": "destination",
-                    "other": "destinations"
+                    "one": "destinatio",
+                    "other": "destinationes"
                 },
                 "entryway": {
-                    "one": "entryway",
-                    "other": "entryways"
+                    "one": "ostium",
+                    "other": "ostia"
                 },
                 "maps": {
-                    "one": "map",
-                    "other": "maps"
+                    "one": "scaena",
+                    "other": "scaenae"
                 },
                 "themes": {
-                    "one": "theme",
-                    "other": "themes"
+                    "one": "thema",
+                    "other": "themata"
                 },
                 "tags": {
-                    "one": "tag",
-                    "other": "tags"
+                    "one": "pittacium",
+                    "other": "pittacia"
                 },
                 "degrees": {
-                    "one": "degree",
-                    "other": "degrees"
+                    "one": "gradus",
+                    "other": "gradus"
                 }
             },
             "labels": {
-                "press-again-to-confirm": "Press again to confirm",
-                "press-x-again-to-confirm": "Press {0} again to confirm",
-                "x-settings": "{0} settings",
-                "x-tags": "{0} tags",
+                "press-again-to-confirm": "Pulsa iterum ut sancias",
+                "press-x-again-to-confirm": "Pulsa {0} iterum ut sancias",
+                "x-settings": "{0} optiones",
+                "x-tags": "{0} pittacia",
                 "active-on-start": "Active on start",
 				"additional-x-settings": "Additional {0} settings",
-                "above-all-layers": "above all layers",
-                "on-layer": "on layer",
-                "puts-player": "Puts player",
-                "warps-to": "Warps to",
+                "above-all-layers": "super omnia stratis",
+                "on-layer": "in strato",
+                "puts-player": "ludionem ponat",
+                "warps-to": "movet ad",
                 "this-map": "Haec scaena",
-                "new-x-name": "New {0} name",
-                "one-screen": "one screen",
-                "surface-area": "Surface area",
-                "max-tiles": "{0} tiles max",
-                "min-tiles": "Minimum size is {0}",
-                "current-map-size": "Current map size",
-                "select-x": "Select {0}",
-                "mode": "Mode",
-                "appearance": "Appearance",
-                "activity": "Activity",
-                "activation": "Activation",
-                "advanced": "Advanced",
+                "new-x-name": "Novus nomen {0}",
+                "one-screen": "unum quadrum",
+                "surface-area": "Area superficiei",
+                "max-tiles": "maxima quantitas tegularum est {0}",
+                "min-tiles": "Minima quantitas est {0}",
+                "current-map-size": "amplitudo scaenae in praesenti",
+                "select-x": "{0} elige",
+                "mode": "Modus",
+                "appearance": "Species",
+                "activity": "Actio",
+                "activation": "Actus",
+                "advanced": "Provectus",
                 "tagging": "Tagging",
-                "behavior": "Behavior",
+                "behavior": "Mos",
                 "how-it-works": "How it works",
-                "duration": "Duration",
+                "duration": "Tempus",
                 "repeats": "Repeats",
 				"delay": "Delay",
-                "other": "Other"
+                "other": "Aliud"
             },
             "menu-options": {
                 "default": "Default",
@@ -169,51 +169,51 @@
 				"disabled": "Disabled",
 				"empty": "Empty",
                 "none": "Nihil",
-                "horizontal": "Horizontal",
-                "vertical": "Vertical",
-                "both-axes": "Both axes",
-                "standard": "Standard",
-                "custom-music-url": "Custom music URL",
-                "more-buttons": "More buttons",
-                "reset-to-default": "Reset to default",
-                "unapplicable": "Unapplicable"
+                "horizontal": "Horizontalis",
+                "vertical": "Verticalis",
+                "both-axes": "Ambo axes",
+                "standard": "Ordinarius",
+                "custom-music-url": "Vinculum musicae tuae",
+                "more-buttons": "Alii botones",
+                "reset-to-default": "Redi ad defaltam",
+                "unapplicable": "Indignus"
             }
         },
         "title-screen": {
             "buttons": {
-                "play-level": "[scale=0.8]Spectaculum ludo[/scale]",
-                "level-editor": "[scale=0.8]Level Editor[/scale]",
-                "extras": "[scale=0.8]Minigames[/scale][scale=0.5]\n[color=#CCCCCC]Under construction[/color][/scale]"
+                "play-level": "[scale=0.8]Spectaculum lude[/scale]",
+                "level-editor": "[scale=0.8]Mutator Spectaculi[/scale]",
+                "extras": "[scale=0.8]Parvi ludi[/scale][scale=0.5]\n[color=#CCCCCC]Under construction[/color][/scale]"
             },
             "tooltips": {
                 "join-lss": "Level Share Square visita!",
                 "lss-yt": "Subscribe ad Level Share Square!",
-                "smc-discord": "Discord noster coniunge!"
+                "smc-discord": "Discord nostrum coniunge!"
             }
         },
         "level-select": {
             "labels": {
-                "level-select": "LEVEL SELECT",
-                "pick-gamestyle": "PICK A GAMESTYLE",
-                "pick-theme": "PICK A THEME",
-                "empty-card": "EMPTY LEVEL CARD",
+                "level-select": "SPECTALUCUM ELIGE",
+                "pick-gamestyle": "FORMA LUDI ELIGE",
+                "pick-theme": "THEMA ELIGE",
+                "empty-card": "CHARTA IANIS SPECTACULI",
                 "level-name": "Nomen spectaculi",
-                "size-preset": "Size preset"
+                "size-preset": "Statutae amplitudines"
             },
             "buttons": {
-                "create-new": "SPECTACULUM NOVUM FACIO",
-                "import-code": "CODICEM SPECTACULI IMPORTO",
-                "compact": "Compact",
-                "production": "Production",
+                "create-new": "SPECTACULUM NOVUM FACIE",
+                "import-code": "CODICEM SPECTACULI IMPORTA",
+                "compact": "Artus",
+                "production": "Productio",
                 "create-level": "Spectaculum facie!",
-                "create-lss-entry": "Also create a private LSS-entry"
+                "create-lss-entry": "Et privatam rem in LSS facie"
             },
             "tooltips": {
-                "play": "Ludo",
+                "play": "Lude",
                 "restore-points": "Restore points",
-                "open-editor": "Open level editor",
-                "view-code": "Codicem observo",
-                "delete": "Deleo"
+                "open-editor": "Mutatorem spectaculi aperi",
+                "view-code": "Codicem observa",
+                "delete": "Dele"
             },
             "html": {
                 "level-name-placeholder": "You can always change this later",
@@ -949,8 +949,8 @@
             "sines": {
                 "select-target-position": "Select a target position",
                 "magnitude": "Magnitude\n[color=#CCCCCC](in tiles)[/color]",
-                "period": "Sine period",
-                "period-offset": "Period offset",
+                "period": "Tempus sinui",
+                "period-offset": "Compenso tempi",
                 "magnitude-info": "Distance {0} will sine towards, before heading back.\n[sub]Positive values move {1}\nNegative values move {2}[/sub]",
                 "cycle-duration-info": "Time (in seconds) it takes for a full {0} sine cycle (includes time travelling back).\n[sub](This cannot be smaller than half of the magnitude)[/sub]",
                 "period-offset-example": "Skip ahead to a specific point in the sine cycle, e.g. entering half of the period here will make {0} start on the opposing end of the sine.",
@@ -962,9 +962,9 @@
                 "text-formatting": "Text formatting",
                 "previewing-text": "Previewing text\n[sub]Close preview to edit[/sub]",
                 "red-text": "Scriptio rubra",
-                "blue-background": "Blue background",
+                "blue-background": "Murus caeruleus",
                 "small-text": "Scriptio parva",
-                "appearance-separator": "Text appearance options",
+                "appearance-separator": "Optiones speciei scriptionis",
                 "text-orientation": "Text orientation",
                 "display-text-at": "Scriptionem ostende in",
                 "text-area-options": "Center of the screen|Customised area (range editor)"
