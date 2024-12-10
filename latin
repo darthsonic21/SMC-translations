@@ -13,7 +13,7 @@
                 "download": "Importa",
                 "next": "Sequens",
 				"confirm": "Sanci",
-                "confirm-click": "Pulsa iterum ut sanciam",
+                "confirm-click": "Pulsa iterum ut sancias",
                 "proceed": "Procede",
 				"cancel": "Retexe",
 				"play": "Lude",
@@ -30,7 +30,7 @@
                 "remove": "Remove",
                 "exit": "Exi",
                 "editor": "Mutator",
-                "click-configure": "Pulsa ut configurem"
+                "click-configure": "Pulsa ut configures"
             },
             "time": {
                 "days": {
