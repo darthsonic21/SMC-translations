@@ -157,7 +157,7 @@
                 "tagging": "Dinotare",
                 "behavior": "Mos",
                 "how-it-works": "facultas eius",
-                "duration": "Tempus",
+                "duration": "Aetas",
                 "repeats": "Dittat",
 				"delay": "Mora",
                 "other": "Aliud"
@@ -165,7 +165,7 @@
             "menu-options": {
                 "default": "Defalta",
                 "no-power-up": "Nullae potestates",
-                "enabled": "Activus",
+                "enabled": "Habilitatus",
 				"disabled": "Debilis",
 				"empty": "Vacivus",
                 "none": "Nihil",
