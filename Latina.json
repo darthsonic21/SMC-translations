@@ -193,7 +193,7 @@
         },
         "level-select": {
             "labels": {
-                "level-select": "SPECTALUCUM ELIGE",
+                "level-select": "SPECTACULUM ELIGE",
                 "pick-gamestyle": "FORMAM LUDI ELIGE",
                 "pick-theme": "THEMA ELIGE",
                 "empty-card": "CHARTA VACIVA SPECTACULI",
@@ -210,7 +210,7 @@
             },
             "tooltips": {
                 "play": "Lude",
-                "restore-points": "Puncta restitutionum",
+                "restore-points": "Puncta restitutionis",
                 "open-editor": "Fabricam spectaculi aperi",
                 "view-code": "Codicem observa",
                 "delete": "Dele"
