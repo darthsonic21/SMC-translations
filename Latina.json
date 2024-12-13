@@ -1098,12 +1098,12 @@
                     "screenwrap-v": "Screenwrap vertically"
                 },
                 "npc": {
-                    "skins": "Skins",
-                    "pop-up-msg": "Pop-up message",
-                    "keep-this-short": "(Keep this short!)",
-                    "keep-this-short-too": "(Keep this short too!)",
-                    "speech-bubble-info": "Short bit of text, that will be shown in a speech bubble when nearby the NPC.",
-                    "after-dialogue": "After dialogue...\n[scale=0.5](Set dialogue in 🗨 tab)[/scale]",
+                    "skins": "Species",
+                    "pop-up-msg": "Nuntium Praesentarium",
+                    "keep-this-short": "(Scribe breviculum!)",
+                    "keep-this-short-too": "(Et scribe breviculum!)",
+                    "speech-bubble-info": "Scriptio brevis, quae in bullitu orationis ostendetur cum prope histrione es.",
+                    "after-dialogue": "Post diverbio...\n[scale=0.5](Diverbium statue in 🗨 pagina)[/scale]",
                     "second-pop-up-msg": "Speech bubble text after the player interacted with the NPC.",
                     "pop-up-options": "Remove pop-up|Keep pop-up|Replace pop-up",
                     "pop-up-update-info": "Remove, keep or replace the existing pop-up message when the player interacts with the NPC.",
