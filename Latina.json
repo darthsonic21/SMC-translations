@@ -173,7 +173,7 @@
                 "vertical": "Verticalis",
                 "both-axes": "Ambo axes",
                 "standard": "Ordinarius",
-                "custom-music-url": "Vinculum musicae specialis",
+                "custom-music-url": "Coniunctio musicae specialis",
                 "more-buttons": "Alii botones",
                 "reset-to-default": "Redi ad defaltam",
                 "unapplicable": "Indignus"
@@ -206,7 +206,7 @@
                 "compact": "Artus",
                 "production": "Productio",
                 "create-level": "Spectaculum crea!",
-                "create-lss-entry": "Et privatam rem in LSS face"
+                "create-lss-entry": "Et privatam perscriptionem in LSS fac"
             },
             "tooltips": {
                 "play": "Lude",
@@ -357,7 +357,7 @@
                 "currently-offline": "Est inconexus in praesenti",
                 "not-logged-in": "Non es intratus",
                 "restore-point-header": "Optiones punctorum restutionis",
-                "restore-point-info": "[scale=0.5][color=#CCCCCC]Puncta restutionis sunt subsidiarii spectaculi tui, qui automaticus creatur cum spectaculum servatur post tempore statuto.\nAd priori versione spectaculi tui a puncto restutionis eare potes.[/background][/scale]",
+                "restore-point-info": "[scale=0.5][color=#CCCCCC]Puncta restutionis sunt subsidiarii spectaculi tui, qui automatice creatur cum spectaculum servatur post tempore statuto.\nAd priori versione spectaculi tui a puncto restutionis eare potes.[/background][/scale]",
                 "restore-point-interval": "[scale=0.75]Intervallum facturae puncti restutionis[/scale]"
             },
             "buttons": {
@@ -366,7 +366,7 @@
                 "map-code": "Codex scaenae",
                 "delete-map": "Scaenam dele",
                 "rename-map": "Scaenam transnomina",
-                "create-new-map": "Scaenam novam face",
+                "create-new-map": "Scaenam novam crea",
                 "import-map": "Scaenam importa",
                 "reset-startpoint": "Punctum principii instaura",
                 "foreground": "Murus princeps",
@@ -393,7 +393,7 @@
                 "autosave-notif": "Note me\nde servando automatico",
                 "edit-sync-settings": "Optiones synchronizationis muta",
                 "prompt-backup-notice": "[scale=0.75]Note omnibus ... ut subsidiarium importes[/scale]\n[scale=0.5][color=#CCCCCC](Suadetur in SMC interretis)[/color][/scale]",
-                "create-restore-point": "[scale=0.75]Manibus tuis face\npunctum restutionis[/scale]",
+                "create-restore-point": "[scale=0.75]Manibus tuis fac\npunctum restutionis[/scale]",
                 "view-restore-points": "[scale=0.75]Vide/Ute\npunctum restutionis[/scale]",
                 "download-level": "[scale=0.75]Spectaculum hoc importa[/scale]"
             },
@@ -418,7 +418,7 @@
                 "favorites-bar": "Talea dilectorum te indulget ut res consuetas confisces et sumas. Semper in talea instrumentorum est, sed eam removere potes cum spectaculi fabricas.\n[scale=0.75][color=#CCCCCC]Boto pro habilitando/debilitando: F[/color][/scale]",
                 "mini-toolbar": "Haec minor talea instrumentorum est semper visibilis cum habilitatur, et mutandum celere stratorum indulget.\n[scale=0.75][color=#CCCCCC]Boto pro habilitando/debilitando: M[/color][/scale]",
                 "inactive-layer-opacity": "Cum stratum tegularum mutas, tegulae aliae translucidae erunt. Ponere 100 hoc debilitabit, ponere 0 strata invisibiles faciet.",
-                "trail-tool-frame-count": "Cum spectaculum pertemptas, Mario vestigium visibilem relinquere potest. Hoc est quantitas imaginum quam Mario relinquit.\nHoc adjunctum vestigii in talea instrumentorum est, in solo sinistero. (in pertemptando).",
+                "trail-tool-frame-count": "Cum spectaculum pertemptas, Mario vestigium visibilem relinquere potest. Hoc est quantitas imaginum quam Mario relinquit.\nHoc adiunctum vestigii in talea instrumentorum est, in solo sinistero. (in pertemptando).",
                 "last-sync": "Synchronizatio proxuma",
                 "backup-interval-notice": "Monitus es: Hoc non est in tempore reali, sed in tempore insumptus est in fabrica."
             },
@@ -442,7 +442,7 @@
                 "advanced-platform": "Pegma Provectum\n[scale=0.75]Haec pegmata multimodis mutari possunt! Tegulae a eis conversationem eorum afflectare possunt.[/scale]",
                 "persistent-area-tile": "Res in una area existitae servat",
                 "area-object-loader": "Res antecedenter creat in una area",
-                "tag-tile": "Actiones adjunctorum et rerum dinotatae gerit",
+                "tag-tile": "Actiones adiunctorum et rerum dinotatae gerit",
                 "light-caster": "Aream in tenebris illuminat",
                 "darkness-caster": "In area tenebras facit",
                 "invis-sprite-spawner": "Generator invisibilis rerum, qui in tubos devexari potest",
@@ -1100,14 +1100,14 @@
                 "npc": {
                     "skins": "Species",
                     "pop-up-msg": "Nuntium Praesentarium",
-                    "keep-this-short": "(Scribe breviculum!)",
-                    "keep-this-short-too": "(Et scribe breviculum!)",
+                    "keep-this-short": "(Scribe breviculum hic!)",
+                    "keep-this-short-too": "(Et scribe breviculum hic!)",
                     "speech-bubble-info": "Scriptio brevis, quae in bullitu orationis ostendetur cum prope histrione es.",
                     "after-dialogue": "Post diverbio...\n[scale=0.5](Diverbium statue in 🗨 pagina)[/scale]",
-                    "second-pop-up-msg": "Speech bubble text after the player interacted with the NPC.",
-                    "pop-up-options": "Remove pop-up|Keep pop-up|Replace pop-up",
-                    "pop-up-update-info": "Remove, keep or replace the existing pop-up message when the player interacts with the NPC.",
-                    "npc-attributes": "NPC attributes",
+                    "second-pop-up-msg": "Scriptio bullitus orationis post interactione cum histrione.",
+                    "pop-up-options": "Ostendendum dele|Ostendendum serva|Ostendendum substitue",
+                    "pop-up-update-info": "Dele, serva aut substitue nuntium ostentum cum ludio interactionem cum histrione facit.",
+                    "npc-attributes": "Adiuncta histrionis",
                     "item-stock-info": "Either give an item just once, or give the NPC infinite stock to respawn an item when it gets used up or destroyed.",
                     "give-item": "Give item...",
                     "item-options": "Just once|When item is used or destroyed",
@@ -1232,7 +1232,7 @@
                 "game-paused": "LUDUS PAUSATUR",
                 "close-menu-to-return": "Tabulam clode ut redeas",
                 "editing-control-keybinds": "Botones regiminis mutas",
-                "viewing-debugger": "Refectorem videas",
+                "viewing-debugger": "Menda emendatorem videas",
                 "control-config-k": "Configuratio regiminis",
                 "control-config-g": "Configuratio regiminis\n[scale=0.65][color=#CCCCCC]Botones tabellae ludi identifiactionem numerorum utuntur[/color][/scale]",
                 "graphics-settings": "Optiones celeritudinis ludi et visorum",
@@ -1243,11 +1243,11 @@
                 "account-settings": "Level Share Square account linking",
                 "email": "Epistula electronica",
                 "password": "Signum",
-                "logout": "Egrede",
+                "logout": "Exi",
                 "logged-in-as": "Intraris ut {0}",
                 "x-levels-on-lss": "{0} specutaculi in Level Share Square",
                 "log-out-confirmation": "Egredi vis?",
-                "offline-notice": "Inconexus es, sic adjuncta LSS uti non potes.",
+                "offline-notice": "Inconexus es, sic adiuncta LSS uti non potes.",
                 "accessibility": "accessibilitas"
             },
             "buttons": {
@@ -1339,7 +1339,7 @@
                 "movement-speed": "Velocitas agitatus particulae/operimenti (in abaculis/p. m. secundis)\n[scale=0.75][color=CCCCCC]Quaeque tegula est 16 abaculi[/color][/scale]",
                 "flash-type": "Murus solus est: stratum coloris muris fulge. Creat effectus bonum in muris cum fenestris.\nOmnia strata: fulgere visibilis in omnia strata erit.",
                 "toggle-sfx": "Habilita aut debilita effectus soni.",
-                "opacity": "Intensitas effectus, a effectu translucidissima usque ad effectus opacissimam.",
+                "opacity": "Intensitas effectus, ab effectu translucidissima usque ad effectus opacissimam.",
                 "fade-duration": "Tempus (in p. m. secundis) necesarius pro apparendo/vanescendo effectus cum unam tegulam eius afflectatur.",
                 "additive-blend": "Temperare additivum addit colorem operimenti super abaculis quos operimentum tegit. Hic effectus visibilissimus est cum coloribus lucidis.",
                 "color-hex": "Color specialis in HEX format.\n\nExempla:\n[scale=0.75][color=#C8C8C8]C8C8C8 pro cano[/color]\n[color=#F8C0F0]F8C0F0 pro rosee[/color][scale=0.5][/scale]\n\nSuademus ut colorem elector utaris ut valorem HEX optatum invenias.[/scale]",
@@ -1354,13 +1354,13 @@
                 "wind-repeats": "Quantitas repetitionum cycli venti. Mora inter cyclis definiri potest infra."
             },
             "palettes": {
-                "1_rain": "Pluvia ordinaria|Relica Radioactiva|Charisma Candida|Adorea Arborarum|Cataclysmus Cloacae|Ad Abysso",
+                "1_rain": "Pluvia ordinaria|Relica Radioactiva|Charisma Candida|Adorea Arborarum|Cataclysmus Cloacae|Ab Abysso",
                 "2_rain": "Pluvia ordinaria|Acidum Toxicum|Benedictio Brunnea|Aquilicium Algidum|Paradisus Socolatae|Pluvia Petrolei|Alluvio Aureola|Aqua Argenti|Impluere Infectum|Unus Color",
                 "1_snow": "Nives ordinaria",
                 "2_snow": "Nives ordinaria|Bruma Smaragdina|Frigus Frigidus|Albedo Algida|Refrigescare Rubrum|Hiemps Tenebricosa|Crystallus Citri",
                 "1_sand": "Cataegis harenarum ordinaria|Scorching Spice|Dusty Draft|Golden Gagle|Somber Sand|Abundant Ashes",
                 "2_sand": "Cataegis harenarum ordinaria|Felicitas Flava|Album Nivis|Afflatus Aethon|Procella Paludis|Violaceus Ventus",
-                "1_embers": "Default Embers|Glowing Blight|Violet Void|Searing Sapphire|Ceaseless Crimson|Treacherous Tar",
+                "1_embers": "Candores ordinarii|Lumen Aurantium|Essentia Amethysti|Sapphirus Sublucens|Ceaseless Crimson|Treacherous Tar",
                 "2_embers": "Default Embers|Murky Black|Venomous Purple|Void Substance|Inky Blue|Royal Gold",
                 "1_leaf": "Default Green|Red Autumn|Yellow Dryness|White Winter|Green Summer|Lime Spring",
                 "2_leaf": "Default Green|Default Autumn|Outrageous Leafage|Illusionary Grey|Chrunchy Chocolate|Funky Purple|Ashy Brush|Garish Grey|Murky Swamp|Golden Delight|Winter's Early|Crispy Cocoa|Serene Sunset",
@@ -1372,71 +1372,71 @@
         },
         "screen-menus": {
             "restore-points": {
-                "code-size": "Code size",
-                "restore": "Restore",
-                "download": "Download restore point\nlevel code",
-                "header": "In this menu, you can restore or download a backup of a past version of your level.",
-				"none-found": "There are no restore points yet for this level.\nWhen you work on your level, restore points will be automatically made over time.",
-				"confirm-prompt": "Restore from this date?"
+                "code-size": "Magnitudo codicis",
+                "restore": "Recrea",
+                "download": "Punctum restutionis importa\nlevel code",
+                "header": "In hac tabula, subsidiarium versionis prioris spectaculi tui recreare aut importare potes.",
+				"none-found": "Sunt nulla puncta restutionis pro hoc spectaculo.\nDum spectaculum fabricas, puncta restutionis creabuntur automatice per tempore.",
+				"confirm-prompt": "Recrea ab hoc die?"
             },
             "startpoint-missing": {
-                "message-edit": "Hold up - this level doesn't have a startpoint at the moment! This is likely due to the map containing the startpoint having been deleted.\n\nDo you want to set a new startpoint now?",
-                "message-play": "Hold up! This level has no valid startpoint - go into the editor, open the settings menu, and place one from there.",
-                "open-editor": "Open editor"
+                "message-edit": "Heus! Hoc spectaculum punctum principii non habet! Fortasse, scaena quae punctum continet deletus est.\n\nPunctum principii novum creare vis?",
+                "message-play": "Heus! Hoc spectaculum punctum principii efficax non habet. In fabricam i, tabulam optionum aperi, et ab illa punctum pone.",
+                "open-editor": "Fabricam aperi"
             },
             "level-sync-new": {
-                "enter-link": "Enter the link to your level on Level Share Square that you want to synchronize the level code with.",
-                "info-label-1": "With this feature enabled, when you save your level in-game, it will also be updated on the Level Share Square website automatically.",
-                "info-label-2": "When opening up the editor, the game will also alert you if the level code on the site is newer, which is useful when editing on multiple devices.",
-                "sync-success": "Your level is synchronized with its entry on Level Share Square! Huzzah!"
+                "enter-link": "Pone coniunctionem spectaculi tui in LSS, cum quo codicem spectaculi synchronizare vis.",
+                "info-label-1": "Hoc adiuncto habilitato, cum spectaculum tuum servas in ludo, id mutabitur automatice in Level Share Square quoque.",
+                "info-label-2": "Cum fabricam aperis, ludus te monebit si codex in situ interretialis novior est. Hoc adiunctum ute cum fabricas in multis computatris!",
+                "sync-success": "Spectaculum tuum synchronizatur cum perscriptione eo in Level Share Square! Euax!"
             },
             "level-sync-edit": {
-                "sync-select": "Select when you want to synchronize.",
-                "cooldown-notice": "Note: synchronizations have a 20-second cooldown.",
-                "sync-options": "Pause synchronization|Whenever the game saves|When I exit out of the editor",
-                "desync": "Desynchronize",
-                "cancel-sync": "Cancel synchronization",
-                "cancel-notice-1": "When you cancel synchronization, the game will stop communication between Level Share Square for this specific level.",
-                "cancel-notice-2": "De-synchronizing does not delete your level either in-game or on Level Share Square. You can always re-enable synchronization at a later date.",
-                "sync-cancelled": "This level is no longer being synchronized with Level Share Square."
+                "sync-select": "Quando synchronizare vis?",
+                "cooldown-notice": "Monitus est: synchronizationes refrigerium (20 p. m. secundae) habet.",
+                "sync-options": "Pausa synchronizationem|Quotienscumque ludus servat|Cum a fabrica exeo",
+                "desync": "Synchronizationem debilita",
+                "cancel-sync": "Synchronizationem interrumpe",
+                "cancel-notice-1": "Cum synchronizationem interrumpis, ludus communicationem cum Level Share Square intermittet pro hoc spectaculo.",
+                "cancel-notice-2": "Interrumpere synchronizationis spectaculum tuum non delet aut in ludo aut in Level Share Square. Postea, synchronizationem iterum habilitare potes.",
+                "sync-cancelled": "Hoc spectaculum non est synchronizatur cum Level Share Square."
             },
             "level-sync-compare": {
-                "new-ver-on-site": "It looks like a newer version of this level is on Level Share Square. Would you like to synchronize?",
-                "restore-point-notice": "A local restore point will be made in case you want to go back.",
-                "local-version": "Local version",
-                "cloud-version": "Cloud version",
-                "last-edited": "Last edited",
-                "keep-local-version": "Keep local version",
-                "use-cloud-version": "Use cloud version",
-                "download-copy": "Download a copy"
+                "new-ver-on-site": "Versio novior huius spectaculi in Level Share Square est. Synchronizare vis?",
+                "restore-point-notice": "Punctum restutionis locale creabitur si contingat revertere vis.",
+                "local-version": "Versio localis",
+                "cloud-version": "Versio nubis",
+                "last-edited": "Proxume mutatur in",
+                "keep-local-version": "Versionem localis serva",
+                "use-cloud-version": "Versionem nubis ute",
+                "download-copy": "Exemplarem importa"
             }
         },
         "misc-labels": {
             "controls": {
-                "move-left": "Move left",
-                "move-right": "Move right",
-                "jump": "Jump",
-                "duck": "Duck",
-                "spinjump": "Spinjump",
-                "hold": "Hold item",
-                "run": "Run",
-                "use-power-up": "Use powerup",
-                "look-up": "Look up",
-                "inventory": "Inventory",
-                "pause": "Pause",
-                "toolbox": "Toolbox"
+                "move-left": "Ad sinistram",
+                "move-right": "Ad dextrum",
+                "jump": "Saltare",
+                "duck": "Conquiniscere",
+                "spinjump": "circumversari",
+                "hold": "Rem tenere",
+                "run": "Currere",
+                "use-power-up": "Potestatem fac",
+                "look-up": "Spectare sursum",
+                "inventory": "Inventarium",
+                "pause": "Pausare",
+                "toolbox": "Arca instrumentorum"
             },
             "toolbox": {
-                "camera": "Take screenshot",
-                "record": "Record",
-                "invincibility": "Invincibility",
-                "moonjump": "Moonjump",
-                "flashlight": "Fullbright",
-                "spyglass": "Spyglass",
-                "trail": "Player trail",
-                "clock": "Slow time",
-                "frameadvance": "Frame Advance",
-                "debug": "Debugger"
+                "camera": "Photographema capere",
+                "record": "Recipere",
+                "invincibility": "Invincibilis",
+                "moonjump": "Saltus magnus",
+                "flashlight": "Illumina!",
+                "spyglass": "Perspicillum",
+                "trail": "Vestigium ludionis",
+                "clock": "Tempus modera",
+                "frameadvance": "Progressus imaginum",
+                "debug": "Menda emendator"
             }
         }
     }
