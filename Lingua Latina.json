@@ -451,7 +451,7 @@
                 "cheep-cheeps": "Cora-Cora\n[scale=0.75]Cora-Corae multos agitatus AR (artificiosae rationis) habent. Pone cursorem tuum super illas ut gnoscas![/scale]",
 				"more-aquatic-enemies": "Alii hostes aquae",
                 "stretch-tiles": "[scale=0.75]Replica deorsum ut alias tegulas Porriga invenias![/scale]",
-                "artillery-tiles": "Aliae tegulae cognatae\n[scale=0.75]Illae sunt tegulae arbitrariae quae partes rerum super imitant.[/scale]",
+                "artillery-tiles": "Aliae tegulae cognatae\n[scale=0.75]Illae sunt tegulae arbitrariae quae partes rerum superarum imitant.[/scale]",
                 "king-bill": "Rex Regulus\n[scale=0.75]Hoc magnum telum cubos doros in semita eius facile delere potest, et indissolubile est![/scale]",
                 "view-map-code": "Hic est codex scaenae: Is informationes omnes de scaena tua habet. Tu codicem hunc utere potes ut exemplarem identicum spectaculo alio addas, vel ut duplicatum pro hoc spectaculo crees.",
                 "import-map-code": "Pone codicem scaenae. Codices spectaculorum acquiri potest pulsando iconem PARTI in charta scaenae."
@@ -876,7 +876,7 @@
                 "tooltips": {
                     "movement-speed": "Velocitas agitatus in abaculis/p. m. secundas.\n[sub]Una tegula est 16 abaculi.[/sub]",
                     "jump-strength": "Velocitas initialis verticitatis, in abaculis/p m. secundas, in principio saltandi",
-                    "blend-modes": "ADDITIVUS\n[sub]Colores {0} super abaculos convergentibus aliis addit.[/sub]\n\nSUPER REBUS APPARET\n[sub]{0} tantummodo in rebus post eum apperebit (e.g. in tegula depressiore).[/sub]\n\nCAMOUFLAGE\n[sub]Same, but is completely invisible and 'cuts through' tiles and sprites![/sub]",
+                    "blend-modes": "ADDITIVUS\n[sub]Colores {0} super abaculos appropinquantes alios addit.[/sub]\n\nSUPER REBUS APPARET\n[sub]{0} tantummodo in rebus post eum apperebit (e.g. in strata depressioribus).[/sub]\n\nOCCULTATUR\n[sub]Similis est, sed invisibilis est et but is completely invisible and 'cuts through' tiles and sprites![/sub]",
                     "expanding-obj-cycle-info": "Expand and shrink over time, with customization options over the length & durations.",
                     "expanding-obj-size-change-tiles": "The amount of tiles to expand/shrink.",
                     "expanding-obj-size-change-duration": "The time (in seconds) it takes for the expansion/shrinking to complete.",
@@ -1223,8 +1223,8 @@
 				"info": "Instrumentum MapSnap - Optiones subtilitatis",
 				"default-button": "Defalta",
 				"fixed-button": "Definitus",
-				"default-info": "Rarioria errata habet, sed saepe subtilitatem meliorem et magnitudinem fili maiorem habet. \n\n Photograohemata scaenarum quarum longitudo aut altitudo super 510 cubos est informationes inabsolutas habebit.",
-				"fixed-info": "Pluriora errata habet, sed saepe subtilitatem minorem et magnitudinem fili minorem habet. \n\n Photograohemata scaenarum quarum longitudo aut altitudo super 1020 cubos est subtilitatem minoratam habebit."
+				"default-info": "Rarioria errata habet, sed saepe subtilitatem meliorem et magnitudinem fili maiorem habet. \n\n Photographemata scaenarum, quarum longitudo aut altitudo super 510 cubos est, informationes inabsolutas habebunt.",
+				"fixed-info": "Pluriora errata habet, sed saepe subtilitatem minorem et magnitudinem fili minorem habet. \n\n Photographemata scaenarum, quarum longitudo aut altitudo super 1020 cubos est, subtilitatem minoratam habebunt."
 			}
         },
         "pause-options": {
