@@ -853,7 +853,7 @@
                     "firing-rate": "Celeritudo sagittandi",
                     "size-changing": "Magnitudis mutare",
                     "size-change-tiles": "Magnitudis mutare (in tegulis)",
-                    "grow-shrink-duration": "Duratio grandescendi/attenuandi",
+                    "grow-shrink-duration": "Duratio auctendi/attenuandi",
                     "attached-to": "Attachitur ad",
                     "tag-is-active": "Pittacium est activus cum incipiendo",
                     "period": "Tempestas",
@@ -861,7 +861,7 @@
                 },
                 "separators": {
                     "spawn-intervals": "Intervallum creandi",
-                    "grow-and-shrink": "Grandescere et attenuare",
+                    "grow-and-shrink": "Auctare et attenuare",
                     "sinewave-movement": "Agitatus sinus"
                 },
                 "buttons": {
@@ -876,34 +876,34 @@
                 "tooltips": {
                     "movement-speed": "Velocitas agitatus in abaculis/p. m. secundas.\n[sub]Una tegula est 16 abaculi.[/sub]",
                     "jump-strength": "Velocitas initialis verticitatis, in abaculis/p m. secundas, in principio saltandi",
-                    "blend-modes": "ADDITIVUS\n[sub]Colores {0} super abaculos appropinquantes alios addit.[/sub]\n\nSUPER REBUS APPARET\n[sub]{0} tantummodo in rebus post eum apperebit (e.g. in strata depressioribus).[/sub]\n\nOCCULTATUR\n[sub]Similis est, sed invisibilis est et but is completely invisible and 'cuts through' tiles and sprites![/sub]",
-                    "expanding-obj-cycle-info": "Expand and shrink over time, with customization options over the length & durations.",
-                    "expanding-obj-size-change-tiles": "The amount of tiles to expand/shrink.",
-                    "expanding-obj-size-change-duration": "The time (in seconds) it takes for the expansion/shrinking to complete.",
-                    "expanding-obj-size-change-delay": "When it has grown or shrunk, wait this time out before growing/shrinking again",
-                    "period": "Time (in seconds) for a complete sine-wave cycle.",
-                    "opacity": "Lower opacities can make the sprite less obvious to spot."
+                    "blend-modes": "ADDITIVUS\n[sub]Colores {0} super abaculos linentes alios addit.[/sub]\n\nSUPER REBUS APPARET\n[sub]{0} tantummodo in rebus post eum apperebit (e.g. in strata depressioribus).[/sub]\n\nOCCULTATUR\n[sub]Similis est, sed invisibilis est et per tegulas et res eunt![/sub]",
+                    "expanding-obj-cycle-info": "Grandescit et attenuat per tempus, cum optionibus longitudinis et durationis.",
+                    "expanding-obj-size-change-tiles": "Quantitas tegularum pro auctando/attenuando.",
+                    "expanding-obj-size-change-duration": "Tempus (in p. m. secundis) quod egetur pro absolutione auctendi/attenuandi.",
+                    "expanding-obj-size-change-delay": "Duratio ante auctendum/attenuandum cum auctavit aut attenuavit",
+                    "period": "Tempus (in p. m. secundis) pro cyclo completo sinus.",
+                    "opacity": "Opacitates minisculiores rem obfuscare possunt."
                 },
                 "html": {
-                    "additive": "Additive",
-                    "appear-above-objects": "Appear above objects",
-                    "camouflage": "Camouflage",
-                    "size-change-modes": "Disabled|Expand|Shrink",
-                    "attachment-options": "Nothing|Floor|Left wall|Ceiling|Right wall",
-                    "linear": "Linear",
-                    "linear-dynamic": "Linear (dynamic)",
-                    "chase-player": "Chase player",
-                    "evade-player": "Evade player"
+                    "additive": "Additivus",
+                    "appear-above-objects": "Super res apparet",
+                    "camouflage": "Occultatur",
+                    "size-change-modes": "Debilis|Aucta|Attenua",
+                    "attachment-options": "Nihil|Pavimentum|Murus sinistrus|Tectum|Murus dextrus",
+                    "linear": "Linearis",
+                    "linear-dynamic": "Linearis (dynamicus)",
+                    "chase-player": "Ludionem subsequitur",
+                    "evade-player": "Ludionem evadit"
                 },
                 "text": {
-                    "tagging-notice": "When ticked off, the spawner can be made active by calling any of its tags (e.g. through a Tag Tile).",
-                    "sinewave-tool": "The sinewave angle & amplitude can be set up by dragging the \\[---] tool."
+                    "tagging-notice": "Cum debilitatur, generator habilitari potest vocando pittacio eius (e.g. per Tegulam Pittacii).",
+                    "sinewave-tool": "Angulus et amplitudo sinus statui possunt devexando instrumento \\[---]."
                 }
             },
             "startpoint": {
                 "labels": {
-                    "start-layer": "Start layer",
-                    "start-powerup": "Start [scale=0.7]power-up[/scale]"
+                    "start-layer": "Stratum principii",
+                    "start-powerup": "Potestas [scale=0.7]principii[/scale]"
                 },
                 "tooltips": {
                     "start-layer": "The layer where the player will start on.",
@@ -1341,15 +1341,15 @@
                 "toggle-sfx": "Habilita aut debilita effectus soni.",
                 "opacity": "Intensitas effectus, ab effectu translucidissima usque ad effectus opacissimam.",
                 "fade-duration": "Tempus (in p. m. secundis) necesarius pro apparendo/vanescendo effectus cum unam tegulam eius afflectatur.",
-                "additive-blend": "Temperare additivum addit colorem operimenti super abaculos quos operimentum tegit. Hic effectus visibilissimus est cum coloribus lucidis.",
+                "additive-blend": "Permixtio additiva addit colorem operimenti super abaculos quos operimentum tegit. Hic effectus visibilissimus est cum coloribus lucidis.",
                 "color-hex": "Color specialis in HEX format.\n\nExempla:\n[scale=0.75][color=#C8C8C8]C8C8C8 pro cano[/color]\n[color=#F8C0F0]F8C0F0 pro rosee[/color][scale=0.5][/scale]\n\nSuademus ut colorem elector utaris ut valorem HEX optatum invenias.[/scale]",
                 "palette": "Color effectus, qui cosmeticus est.",
 				"two-way-movement": "Particulas permittit ut ad angulum oppositum eant.",
 				"water-check": "Quaeque particula effectus pertemptabit utrum in aqua est an non est. Si non est in aqua, ea aut vanescet aut ibit alio.",
                 "wind-strength": "Fortitudo venti. Fortitudo fortimior res repellet potenter.",
-                "wind-buildup": "Tempus (in p. m. secundis) egetur ut ventus fortitudinem fortimamam perveniat.",
+                "wind-buildup": "Tempus (in p. m. secundis) quod egetur ut ventus fortitudinem fortimamam perveniat.",
                 "wind-duration": "Duratio flandi venti (monitus es: haec tempum immutationis non complectit.)",
-				"wind-cooldown": "Tempus (in p. m. secundis) egetur ut ventus refrigescat ad zerum.",
+				"wind-cooldown": "Tempus (in p. m. secundis) quod egetur ut ventus refrigescat ad zerum.",
 				"wind-cycle-delay": "Tempus (in p. m. secundis) in cyclo venti (finis refrigerii - principium immutationi)",
                 "wind-repeats": "Quantitas repetitionum cycli venti. Mora inter cyclos definiri potest infra."
             },
