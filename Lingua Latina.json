@@ -143,7 +143,7 @@
                 "warps-to": "itinerat ad",
                 "this-map": "Haec scaena",
                 "new-x-name": "Novus nomen {0}",
-                "one-screen": "unum quadrum",
+                "one-screen": "unum scrinium",
                 "surface-area": "Area superficiei",
                 "max-tiles": "maxima quantitas tegularum est {0}",
                 "min-tiles": "Minima quantitas est {0}",
@@ -217,7 +217,7 @@
             },
             "html": {
                 "level-name-placeholder": "Postea, semper hoc mutare potes",
-                "level-size-presets": "Horizontalis (sine plure altitudine)|Horizontalis (cum altitudine)|Verticalis|Metroidvania|Unum quadrum",
+                "level-size-presets": "Horizontalis (sine plure altitudine)|Horizontalis (cum altitudine)|Verticalis|Metroidvania|Unum scrinium",
                 "import-code-placeholder": "Pone codicem tuum spectaculi, tunc botonem EXPORTA pulsa. "
             },
             "text": {
@@ -329,7 +329,7 @@
                 "level-name": "Nomen spectaculi",
                 "authors": "Creator(es)",
                 "water-mode": "Modus aquae",
-                "screenwrap": "Quadrum infinitum",
+                "screenwrap": "Scrinium infinitum",
                 "map-palette": "Colores scaenae",
                 "origin": "Origo",
                 "scroll-loop-method": "Replicandi/Iterandi\nmodus",
@@ -918,32 +918,32 @@
                     "door-type-list": "Ordinaria|Clausa|P-Ianua|P-Ianua clausa"
                 },
                 "buttons": {
-                    "warp-type": "[scale=0.75]Classis itineris muta[/scale]",
+                    "warp-type": "[scale=0.75]Classem itineris muta[/scale]",
                     "reset-warp-toggle": "Scaenam hanc instaura cum intratur"
                 },
                 "tooltips": {
-                    "warp-name-tips": "Huic {0} nomen da. Varias {1} facile identificare poteris.",
-                    "destination-own-layer": "Stratum in quo destinatio est, tamquam stratum in quo tegulae et res sunt.\nWith pipes, the player will be on this layer during the animation.",
-                    "destination-output-layer": "This is the layer where the player will be put on once the warp animation has finished and they regain controls.",
-                    "entryway-layer": "The layer the entryway is on, like how tiles and objects are on a layer. The player will be on this layer during the entry animation."
+                    "warp-name-tips": "{0} nomen eget. Varias {1} facile identificare poteris.",
+                    "destination-own-layer": "Stratum in quo destinatio est, ut stratum in quo tegulae et res sunt.\nCum tubis, ludio in hoc strato erit dum animatio occurat.",
+                    "destination-output-layer": "Hoc est stratum in quo ludio ponetur cum animatio itineris perficitur et ludio regimen recipit.",
+                    "entryway-layer": "Stratum in quo ostium est, ut stratum in quo tegulae et res sunt. Ludio in hoc strato erit dum animatio accessae occurat."
                 }
             },
             "music": {
                 "headers": {
-                    "boss-start-common": "When the fight begins...\n[scale=0.75][color=#CCCCCC]This music will play as soon as {0} is on-screen[/color][/scale]",
-                    "boss-start-kb": "When the fight begins...\n[scale=0.75][color=#CCCCCC]This music will play after King Boo's appearance animation[/color][/scale]",
-                    "boss-defeat-common": "When the fight is over\n[scale=0.75][color=#CCCCCC]Music to play once {0} is defeated[/color][/scale]"
+                    "boss-start-common": "Cum pugna coepit...\n[scale=0.75][color=#CCCCCC]Haec musica modulabitur cum {0} in scrinio est.[/color][/scale]",
+                    "boss-start-kb": "Cum pugna coepit...\n[scale=0.75][color=#CCCCCC]Haec musica modulabitur post animationem apparendi Imperatoris Phasmatum.[/color][/scale]",
+                    "boss-defeat-common": "Cum pugna perficitur...\n[scale=0.75][color=#CCCCCC]Haec musica modulabitur cum {0} superatur.[/color][/scale]"
                 },
                 "labels": {
-                    "source-url": "Source URL",
-                    "loop-point-and-volume": "Loop point & volume"
+                    "source-url": "Coniunctio originis",
+                    "loop-point-and-volume": "Punctum iterandi et magnitudo soni"
                 },
                 "tooltips": {
-                    "music-to-pick": "Pick the music that you want to play. This can also be set to not update the music at all.",
-                    "cm-url-info": "With the Custom music option selected, enter a URL in this field to the location of the music file source.\n\n[sub]Note: it must lead directly to the music file, not the page it may be contained in.[/sub]"
+                    "music-to-pick": "Elige musicam quam modulari vis. Musica quoque manere potest, sine mutatione.",
+                    "cm-url-info": "Optione musicae specialis electa, pone coniunctionem ad originem musicae.\n\n[sub]Monitus es: id ad plicam musicae conectere debet, non ad paginam in qua est.[/sub]"
                 },
                 "html": {
-                    "misc-music-options": "Don't change|Map default|Silent|Custom"
+                    "misc-music-options": "Noli mutare|Defalta scaenae|Silentium|Specialis"
                 }
             },
             "sines": {
@@ -971,10 +971,10 @@
             },
             "blocks": {
                 "labels": {
-                    "object-count": "Object count",
-                    "timer-optional": "Timer [scale=0.5](Optional)[/scale]",
-                    "coins-before-item": "Coins before item appears",
-                    "tags-entered-below": "Tags entered below will trigger or pause when hit."
+                    "object-count": "Quantitas rerum",
+                    "timer-optional": "Horologium [scale=0.5](Arbitrarium)[/scale]",
+                    "coins-before-item": "Solidi ante apparendum rei",
+                    "tags-entered-below": "Pittacia quae ponitur afflecabitur aut pausabitur cum feritur."
                 },
                 "separators": {
                     "tag-toggling": "Tag toggling"
@@ -1223,8 +1223,8 @@
 				"info": "Instrumentum MapSnap - Optiones subtilitatis",
 				"default-button": "Defalta",
 				"fixed-button": "Definitus",
-				"default-info": "Rarioria errata habet, sed saepe subtilitatem meliorem et magnitudinem fili maiorem habet. \n\n Photographemata scaenarum, quarum longitudo aut altitudo super 510 cubos est, informationes inabsolutas habebunt.",
-				"fixed-info": "Pluriora errata habet, sed saepe subtilitatem minorem et magnitudinem fili minorem habet. \n\n Photographemata scaenarum, quarum longitudo aut altitudo super 1020 cubos est, subtilitatem minoratam habebunt."
+				"default-info": "Rarioria errata habet, sed saepe subtilitatem meliorem et magnitudinem plicae maiorem habet. \n\n Photographemata scaenarum, quarum longitudo aut altitudo super 510 cubos est, informationes inabsolutas habebunt.",
+				"fixed-info": "Pluriora errata habet, sed saepe subtilitatem minorem et magnitudinem plicae minorem habet. \n\n Photographemata scaenarum, quarum longitudo aut altitudo super 1020 cubos est, subtilitatem minoratam habebunt."
 			}
         },
         "pause-options": {
@@ -1237,8 +1237,8 @@
                 "control-config-g": "Configuratio regiminis\n[scale=0.65][color=#CCCCCC]Botones tabellae ludi identifiactionem numerorum utuntur[/color][/scale]",
                 "graphics-settings": "Optiones celeritudinis ludi et visorum",
                 "in-game-username": "Nomen in ludo",
-                "fullscreen-scaling": "Amplitudo quadri distenti",
-                "fill-screen": "Quadrum exple",
+                "fullscreen-scaling": "Amplitudo scrinii distenti",
+                "fill-screen": "Scrinium exple",
                 "perfect-resolution": "Subtilitas perfecta",
                 "account-settings": "Level Share Square account linking",
                 "email": "Epistula electronica",
@@ -1262,12 +1262,12 @@
                 "log-in": "Intra",
                 "lss-profile": "Informatio socialis personalis LSS",
                 "colorblind-mode": "Modus ablepsiae colorum",
-                "disable-screenshake": "Quatiendum quadri debilita",
+                "disable-screenshake": "Quatiendum scrinii debilita",
                 "visualized-timers": "Horologia visifica"
             },
             "tooltips": {
-                "enable-fullscreen": "Quadrum distentum habilita",
-                "disable-fullscreen": "Quadrum distentum debilita",
+                "enable-fullscreen": "Scrinium distentum habilita",
+                "disable-fullscreen": "Scrinium distentum debilita",
                 "skip-death-anim": "Animationem mortis debilita",
                 "play-death-anim": "Animationem mortis habilita",
                 "edit-keybinds": "Botones muta",
