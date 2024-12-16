@@ -60,7 +60,7 @@
                 "characters": "literulae",
                 "music": "musica",
                 "decibels": "decibel",
-                "volume": "magnitudo sonorum",
+                "volume": "magnitudo soni",
                 "frequency": "crebritas",
                 "rotation": "rotatio",
                 "movement": "agitatus",
@@ -298,7 +298,7 @@
 				"backup-settings": "Servare automaticum et subsidiarii"
             },
             "tileset-menu": {
-                "footer": "Iconem grupi tegularum pulsa ut paginam eius aperiias.[scale=0.5]\n\n[/scale]Iconem grupi tegularum devexa ad talea dilectorum ut id intres ab ubique in fabrica.",
+                "footer": "Iconem grupi tegularum pulsa ut paginam eius aperiias.[scale=0.5]\n\n[/scale]Iconem grupi tegularum trahe ad talea dilectorum ut id intres ab ubique in fabrica.",
                 "go-back": "Redi ad omnes tegulae"
             },
             "mini-toolbar": {
@@ -340,7 +340,7 @@
                 "custom-rgb": "Specialis\nRGB:",
                 "bg-gradient-header": "Vel colorem gradientem elige!",
                 "pick-gradient": "Elige\ncolorem gradientem",
-                "offset-y": "Compensare Y[scale=0.5]\nAbaculi ante principium coloris gradientis[/scale]",
+                "offset-y": "Compensare Y[scale=0.5]\nPixeles ante principium coloris gradientis[/scale]",
                 "gradient-scale": "Magnitudo[scale=0.5]\nAltitudo directi multiplicatus per:[/scale]",
                 "level-music-header": "Musica spectaculi (pro hac scaena)",
                 "other-music-header": "Alia musica (Appellitur pro omnibus scaenis)",
@@ -436,7 +436,7 @@
             },
             "text": {
                 "obj-pipe": "[scale=0.75]Tubi in hac pagina quasi [/scale]res[scale=0.75] agunt (non [/scale]tegulae[scale=0.75]), et in tegulas rerum eunt. Hi tubi porrigere possunt et mutari possunt ut porrigant et adtenuent per tempus.[/scale]",
-                "pipe-sprite-spawner": "[scale=0.75]Hic generator invisibilis rerum est. Si generator tubi creare vis, eum in tubum devexa! Primum eum statue.[/scale]",
+                "pipe-sprite-spawner": "[scale=0.75]Hic generator invisibilis rerum est. Si generator tubi creare vis, eum in tubum trahe! Primum eum statue.[/scale]",
                 "electric-tiles": "Eae sunt tegulae electricae quae plurimas creaturas animantes volnerare possunt. Res metallici, velut Mario Metallicus, electricitatem temporaliter conducere possunt!",
                 "scenery-doors": "Monitus es: hae ianuae decorandae. Si ianuas operatorias petis, ad tabulam ITINERA ire pulsando iconem TUBI in solo.",
                 "advanced-platform": "Pegma Provectum\n[scale=0.75]Haec pegmata multimodis mutari possunt! Tegulae a eis conversationem eorum afflectare possunt.[/scale]",
@@ -445,7 +445,7 @@
                 "tag-tile": "Actiones adiunctorum et rerum dinotatae gerit",
                 "light-caster": "Aream in tenebris illuminat",
                 "darkness-caster": "In area tenebras facit",
-                "invis-sprite-spawner": "Generator invisibilis rerum, qui in tubos devexari potest",
+                "invis-sprite-spawner": "Generator invisibilis rerum, qui in tubos trahi potest",
                 "current-gen": "Creat amnem qui res deflat aut desugit",
                 "tag-block": "Cubus qui pittacia habilitat aut debilitat",
                 "cheep-cheeps": "Cora-Cora\n[scale=0.75]Cora-Corae multos agitatus AR (artificiosae rationis) habent. Pone cursorem tuum super illas ut gnoscas![/scale]",
@@ -874,9 +874,9 @@
                     "enable-sinewave-motion": "Motionem sinus habilita"
                 },
                 "tooltips": {
-                    "movement-speed": "Velocitas agitatus in abaculis/p. m. secundas.\n[sub]Una tegula est 16 abaculi.[/sub]",
-                    "jump-strength": "Velocitas initialis verticitatis, in abaculis/p m. secundas, in principio saltandi",
-                    "blend-modes": "ADDITIVUS\n[sub]Colores {0} super abaculos linentes alios addit.[/sub]\n\nSUPER REBUS APPARET\n[sub]{0} tantummodo in rebus post eum apperebit (e.g. in strata depressioribus).[/sub]\n\nOCCULTATUR\n[sub]Similis est, sed invisibilis est et per tegulas et res eunt![/sub]",
+                    "movement-speed": "Velocitas agitatus in pixelibus/p. m. secundas.\n[sub]Una tegula est 16 pixeles.[/sub]",
+                    "jump-strength": "Velocitas initialis verticitatis, in pixelibus/p m. secundas, in principio saltandi",
+                    "blend-modes": "ADDITIVUS\n[sub]Colores {0} super pixeles linentes alios addit.[/sub]\n\nSUPER REBUS APPARET\n[sub]{0} tantummodo in rebus post eum apperebit (e.g. in strata depressioribus).[/sub]\n\nOCCULTATUR\n[sub]Similis est, sed invisibilis est et per tegulas et res eunt![/sub]",
                     "expanding-obj-cycle-info": "Grandescit et attenuat per tempus, cum optionibus longitudinis et durationis.",
                     "expanding-obj-size-change-tiles": "Quantitas tegularum pro auctando/attenuando.",
                     "expanding-obj-size-change-duration": "Tempus (in p. m. secundis) quod egetur pro absolutione auctendi/attenuandi.",
@@ -897,7 +897,7 @@
                 },
                 "text": {
                     "tagging-notice": "Cum debilitatur, generator habilitari potest vocando pittacio eius (e.g. per Tegulam Pittacii).",
-                    "sinewave-tool": "Angulus et amplitudo sinus statui possunt devexando instrumento \\[---]."
+                    "sinewave-tool": "Angulus et amplitudo sinus statui possunt trahendo instrumento \\[---]."
                 }
             },
             "startpoint": {
@@ -1293,7 +1293,7 @@
                 "heat-f": "Crispare caldoris",
                 "dark-f": "Tenebrae",
                 "echo-f": "Effectus repercussus",
-                "flash-f": "Fulgere",
+                "flash-f": "Coruscatio",
                 "fog-f": "Nebula",
                 "leaf-f": "Folia",
                 "sil-f": "Adumbrare",
@@ -1309,10 +1309,10 @@
                 "upwards-tilt": "Clive acclive",
                 "environment-collisions": "Non collide cum circumiecto",
                 "movement-speed": "Velocitas agitatus",
-                "flash-type": "Typus fulgendi",
+                "flash-type": "Classis coruscationis",
                 "flash-thunder": "Effectus tonitrus modula",
                 "fade-duration": "[scale=0.8]Duratio apparendi/vanescendi[/scale]",
-                "additive-blend": "Temperare additivum",
+                "additive-blend": "Permixtio additivum",
                 "color-hex": "Color specialis",
                 "palette": "Colores",
 				"two-way-movement": "Agitatus duarum regionum",
@@ -1336,12 +1336,12 @@
                 "downfall-tilt": "Decursum sinistre vel dextre move aliquantulo, ut effectus venti simulet",
                 "upwards-tilt": "Particulas ascendentes sinistre vel dextre move aliquantulo, ut effectus venti simulet.",
                 "environment-collisions": "Decursus per circumiectum (tegulas, cubos, aquam, etc) perfiget si haec arca habilitatur.",
-                "movement-speed": "Velocitas agitatus particulae/operimenti (in abaculis/p. m. secundas)\n[scale=0.75][color=CCCCCC]Quaeque tegula est 16 abaculi[/color][/scale]",
-                "flash-type": "Murus solus est: stratum coloris muris fulge. Creat effectus bonum in muris cum fenestris.\nOmnia strata: fulgere visibilis in omnia strata erit.",
+                "movement-speed": "Velocitas agitatus particulae/operimenti (in pixelibus/p. m. secundas)\n[scale=0.75][color=CCCCCC]Quaeque tegula est 16 pixeles[/color][/scale]",
+                "flash-type": "Murus solus est: stratum coloris muris fulge. Creat effectus bonum in muris cum fenestris.\nOmnia strata: coruscatio visibilis in omnia strata erit.",
                 "toggle-sfx": "Habilita aut debilita effectus soni.",
                 "opacity": "Intensitas effectus, ab effectu translucidissima usque ad effectus opacissimam.",
                 "fade-duration": "Tempus (in p. m. secundis) necesarius pro apparendo/vanescendo effectus cum unam tegulam eius afflectatur.",
-                "additive-blend": "Permixtio additiva addit colorem operimenti super abaculos quos operimentum tegit. Hic effectus visibilissimus est cum coloribus lucidis.",
+                "additive-blend": "Permixtio additiva addit colorem operimenti super pixeles quos operimentum tegit. Hic effectus visibilissimus est cum coloribus lucidis.",
                 "color-hex": "Color specialis in HEX format.\n\nExempla:\n[scale=0.75][color=#C8C8C8]C8C8C8 pro cano[/color]\n[color=#F8C0F0]F8C0F0 pro rosee[/color][scale=0.5][/scale]\n\nSuademus ut colorem elector utaris ut valorem HEX optatum invenias.[/scale]",
                 "palette": "Color effectus, qui cosmeticus est.",
 				"two-way-movement": "Particulas permittit ut ad angulum oppositum eant.",
