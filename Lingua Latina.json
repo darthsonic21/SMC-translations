@@ -906,24 +906,24 @@
                     "start-powerup": "Potestas [scale=0.7]principii[/scale]"
                 },
                 "tooltips": {
-                    "start-layer": "The layer where the player will start on.",
-                    "start-powerup": "The power-up the player will start with."
+                    "start-layer": "Stratum in quo ludio incipiet.",
+                    "start-powerup": "Potestas quocum ludio incipiet."
                 }
             },
             "warps": {
                 "labels": {
-                    "destination-own-layer": "[scale=0.65]Own[/scale]\nlayer",
-                    "destination-output-layer": "[scale=0.65]Output[/scale]\nlayer",
-                    "door-type": "Door type",
-                    "door-type-list": "Standard|Locked|P-Door|Locked P-Door"
+                    "destination-own-layer": "[scale=0.65]Stratum[/scale]\nsui",
+                    "destination-output-layer": "[scale=0.65]Stratum[/scale]\ngeniminis",
+                    "door-type": "Classis ianuae",
+                    "door-type-list": "Ordinaria|Clausa|P-Ianua|P-Ianua clausa"
                 },
                 "buttons": {
-                    "warp-type": "[scale=0.75]Edit warp type[/scale]",
-                    "reset-warp-toggle": "Reset current map on entry"
+                    "warp-type": "[scale=0.75]Classis itineris muta[/scale]",
+                    "reset-warp-toggle": "Scaenam hanc instaura cum intratur"
                 },
                 "tooltips": {
-                    "warp-name-tips": "Give this {0} a name of your choice. This will allow you to easily identify different {1}.",
-                    "destination-own-layer": "The layer the destination is on, like how tiles and objects are on a layer.\nWith pipes, the player will be on this layer during the animation.",
+                    "warp-name-tips": "Huic {0} nomen da. Varias {1} facile identificare poteris.",
+                    "destination-own-layer": "Stratum in quo destinatio est, tamquam stratum in quo tegulae et res sunt.\nWith pipes, the player will be on this layer during the animation.",
                     "destination-output-layer": "This is the layer where the player will be put on once the warp animation has finished and they regain controls.",
                     "entryway-layer": "The layer the entryway is on, like how tiles and objects are on a layer. The player will be on this layer during the entry animation."
                 }
