@@ -9,7 +9,7 @@
             "buttons": {
                 "yes": "Ita",
                 "no": "Minime",
-                "close": "Clode",
+                "close": "Oblittera",
                 "download": "Importa",
                 "next": "Sequens",
 				"confirm": "Sanci",
@@ -137,7 +137,7 @@
                 "x-tags": "{0} pittacia",
                 "active-on-start": "Activus cum incipiendo",
 				"additional-x-settings": "Additiciae optiones {0}",
-                "above-all-layers": "super omnibus stratorum",
+                "above-all-layers": "super omnia strata",
                 "on-layer": "in strato",
                 "puts-player": "ludionem ponat",
                 "warps-to": "itinerat ad",
@@ -266,11 +266,11 @@
                 "poison": "Toxicum",
                 "cryo": "Fluidus frigidus",
                 "spikes": "Hami et tegulae fatiferae",
-                "climbables": "Res ad ascendendum",
+                "climbables": "Res ascendendi",
 				"electricity": "Electricitas",
                 "doors": "Ianuae decorandae",
                 "mainObjects": "Res commiscuae",
-                "powerUps": "Potestates et creaturae ad equitandum",
+                "powerUps": "Potestates et creaturae equitandi",
                 "platforms": "Pegmata",
                 "switches": "Epitonia",
                 "goals": "Scopi et puncta media",
@@ -357,7 +357,7 @@
                 "currently-offline": "Est inconexus in praesenti",
                 "not-logged-in": "Non es intratus",
                 "restore-point-header": "Optiones punctorum restutionis",
-                "restore-point-info": "[scale=0.5][color=#CCCCCC]Puncta restutionis sunt subsidiarii spectaculi tui, qui automatice creatur cum spectaculum servatur post tempore statuto.\nAd priori versione spectaculi tui a puncto restutionis eare potes.[/background][/scale]",
+                "restore-point-info": "[scale=0.5][color=#CCCCCC]Puncta restutionis sunt subsidiarii spectaculi tui, qui automatice creatur cum spectaculum servatur post tempum statuto.\nAd priori versione spectaculi tui a puncto restutionis eare potes.[/background][/scale]",
                 "restore-point-interval": "[scale=0.75]Intervallum facturae puncti restutionis[/scale]"
             },
             "buttons": {
@@ -435,7 +435,7 @@
                 "editor-music": "Nihil (silens)|Musica spectaculi|Musica spectaculi (obfuscata)|★ Cotidie musica specialis muta|♪ Brothers At Home (Musica specialis #1)|♪ Morning Drive (Musica specialis #2)|♪ Lunch Break (Musica specialis #3)|♪ The Road is Full Of Dangers (SMRPG)|♪ Creative Exercise (Mario Paint)"
             },
             "text": {
-                "obj-pipe": "[scale=0.75]Tubi in hac pagina quasi [/scale]res[scale=0.75] agunt (non [/scale]tegulae[scale=0.75]), et in tegulas rerum eunt. Hi tubi porrigere possunt et mutari possunt ut porrigant et adtenuent per tempore.[/scale]",
+                "obj-pipe": "[scale=0.75]Tubi in hac pagina quasi [/scale]res[scale=0.75] agunt (non [/scale]tegulae[scale=0.75]), et in tegulas rerum eunt. Hi tubi porrigere possunt et mutari possunt ut porrigant et adtenuent per tempus.[/scale]",
                 "pipe-sprite-spawner": "[scale=0.75]Hic generator invisibilis rerum est. Si generator tubi creare vis, eum in tubum devexa! Primum eum statue.[/scale]",
                 "electric-tiles": "Eae sunt tegulae electricae quae plurimas creaturas animantes volnerare possunt. Res metallici, velut Mario Metallicus, electricitatem temporaliter conducere possunt!",
                 "scenery-doors": "Monitus es: hae ianuae decorandae. Si ianuas operatorias petis, ad tabulam ITINERA ire pulsando iconem TUBI in solo.",
@@ -448,7 +448,7 @@
                 "invis-sprite-spawner": "Generator invisibilis rerum, qui in tubos devexari potest",
                 "current-gen": "Creat amnem qui res deflat aut desugit",
                 "tag-block": "Cubus qui pittacia habilitat aut debilitat",
-                "cheep-cheeps": "Cora-Cora\n[scale=0.75]Cora-Corae multos agitatus AR (artificiosae rationis) habent. Pone cursorem tuum super illis ut gnoscas![/scale]",
+                "cheep-cheeps": "Cora-Cora\n[scale=0.75]Cora-Corae multos agitatus AR (artificiosae rationis) habent. Pone cursorem tuum super illas ut gnoscas![/scale]",
 				"more-aquatic-enemies": "Alii hostes aquae",
                 "stretch-tiles": "[scale=0.75]Replica deorsum ut alias tegulas Porriga invenias![/scale]",
                 "artillery-tiles": "Aliae tegulae cognatae\n[scale=0.75]Illae sunt tegulae arbitrariae quae partes rerum super imitant.[/scale]",
@@ -831,13 +831,13 @@
                 "boss-gate": "Foris ducis[s]Visibilis dum dux pugnatur est",
                 "boss-bridge": "Pons ducis[s]Collabit dum Securis tangitur",
                 "donut-block": "Anulus ordinarius[s]Soldus est, revertere et se corrigere potest",
-                "donut-block-red": "Anulus inconstabilitus[s]Soldus est, revertere potest, cadet post quatiendo",
+                "donut-block-red": "Anulus inconstabilitus[s]Soldus est, revertere potest, cadet post quatiendum",
                 "donut-block-wood": "Anulus lignoleus[s]Soldus est, revertere non potest, se corrigere potest",
-                "donut-block-metal": "Anulus auricalcinus[s]Soldus est, revertere non potest, cadet post quatiendo",
+                "donut-block-metal": "Anulus auricalcinus[s]Soldus est, revertere non potest, cadet post quatiendum",
                 "donut-block-semi": "Anulus ordinarius[s]Semisodlus est, revertere et se corrigere potest",
-                "donut-block-red-semi": "Anulus inconstabilitus[s]Semisoldus est, revertere potest, cadet post quatiendo",
+                "donut-block-red-semi": "Anulus inconstabilitus[s]Semisoldus est, revertere potest, cadet post quatiendum",
                 "donut-block-wood-semi": "Anulus lignoleus[s]Semisoldus est, revertere non potest, se corrigere potest",
-                "donut-block-metal-semi": "Anulus auricalcinus[s]Semisoldus est, revertere non potest, cadet post quatiendo",
+                "donut-block-metal-semi": "Anulus auricalcinus[s]Semisoldus est, revertere non potest, cadet post quatiendum",
 				"chomp-post": "Stipes Commorsicatenae[s]Pone Commorsicatenam in summo ut attachias"
             }
         },
@@ -874,9 +874,9 @@
                     "enable-sinewave-motion": "Motionem sinus habilita"
                 },
                 "tooltips": {
-                    "movement-speed": "Travel speed in pixels / sec.\n[sub]One tile equals 16 pixels.[/sub]",
-                    "jump-strength": "The initial vertical speed, in pixels / sec, at the start of the jump.",
-                    "blend-modes": "ADDITIVE\n[sub]Adds {0}'s colors on top of other overlapping pixels[/sub]\n\nAPPEAR ABOVE OBJECTS\n[sub]{0} will appear only on objects that are behind him (e.g. on a lower layer.)[/sub]\n\nCAMOUFLAGE\n[sub]Same, but is completely invisible and 'cuts through' tiles and sprites![/sub]",
+                    "movement-speed": "Velocitas agitatus in abaculis/p. m. secundas.\n[sub]Una tegula est 16 abaculi.[/sub]",
+                    "jump-strength": "Velocitas initialis verticitatis, in abaculis/p m. secundas, in principio saltandi",
+                    "blend-modes": "ADDITIVUS\n[sub]Colores {0} super abaculos convergentibus aliis addit.[/sub]\n\nSUPER REBUS APPARET\n[sub]{0} tantummodo in rebus post eum apperebit (e.g. in tegula depressiore).[/sub]\n\nCAMOUFLAGE\n[sub]Same, but is completely invisible and 'cuts through' tiles and sprites![/sub]",
                     "expanding-obj-cycle-info": "Expand and shrink over time, with customization options over the length & durations.",
                     "expanding-obj-size-change-tiles": "The amount of tiles to expand/shrink.",
                     "expanding-obj-size-change-duration": "The time (in seconds) it takes for the expansion/shrinking to complete.",
@@ -1103,24 +1103,24 @@
                     "keep-this-short": "(Scribe breviculum hic!)",
                     "keep-this-short-too": "(Et scribe breviculum hic!)",
                     "speech-bubble-info": "Scriptio brevis, quae in bullitu orationis ostendetur cum prope histrione es.",
-                    "after-dialogue": "Post diverbio...\n[scale=0.5](Diverbium statue in 🗨 pagina)[/scale]",
-                    "second-pop-up-msg": "Scriptio bullitus orationis post interactione cum histrione.",
+                    "after-dialogue": "Post diverbium...\n[scale=0.5](Diverbium statue in 🗨 pagina)[/scale]",
+                    "second-pop-up-msg": "Scriptio bullitus orationis post interactionem cum histrione.",
                     "pop-up-options": "Ostendendum dele|Ostendendum serva|Ostendendum substitue",
                     "pop-up-update-info": "Dele, serva aut substitue nuntium ostentum cum ludio interactionem cum histrione facit.",
                     "npc-attributes": "Adiuncta histrionis",
-                    "item-stock-info": "Either give an item just once, or give the NPC infinite stock to respawn an item when it gets used up or destroyed.",
-                    "give-item": "Give item...",
-                    "item-options": "Just once|When item is used or destroyed",
-                    "behavior-info": "The NPC's behavior, in movement and/or animation.\n[sub]Each NPC can have different behavioral options, but some can just stay idle only.[/sub]",
-                    "dialogue-placeholder": "What's your NPC got to say?",
-                    "stay-idle": "Stay idle",
-                    "hop-repeatedly": "Hop repeatedly",
-                    "peace-after-dialogue": "Peace after dialogue",
-                    "wander-around": "Wander around",
-                    "sit-face-left": "Sit (face left)",
-                    "sit-face-right": "Sit (face right)",
-                    "float-in-place": "Float (in place)",
-                    "glad": "Glad"
+                    "item-stock-info": "Aut rem dat semel, aut histrioni copiam infinitam dat ut rem recreet cum ea usus est aut deletur.",
+                    "give-item": "Rem dat...",
+                    "item-options": "Semel|Cum res usus est aut deletur",
+                    "behavior-info": "Conversatio histrionis, agitatus et/aut animationis.\n[sub]Quisque histrio optiones dissensas conversationis habere potest, sed nonnulli resides sunt.[/sub]",
+                    "dialogue-placeholder": "Quid histrio dicit?",
+                    "stay-idle": "Reses",
+                    "hop-repeatedly": "Saltat crebriter",
+                    "peace-after-dialogue": "Salutat post diverbium",
+                    "wander-around": "Vagatur",
+                    "sit-face-left": "Sedet (sinistre)",
+                    "sit-face-right": "Sedet (dextre)",
+                    "float-in-place": "Fluitat (statarius)",
+                    "glad": "Laetus"
                 }
             },
             "bosses": {
@@ -1220,11 +1220,11 @@
                 }
             },
 			"mapsnap":{
-				"info": "MapSnap Tool - Resolution Options",
-				"default-button": "Default",
-				"fixed-button": "Fixed",
-				"default-info": "Less errors, but usually has a larger image resolution and a larger filesize. \n\n Images taken of maps with a level width or level height above 510 blocks will have incomplete data.",
-				"fixed-info": "More errors, but usually has a smaller image resolution and a smaller filesize. \n\n Images taken of maps with a level width or level height above 1020 blocks will have reduced image quality."
+				"info": "Instrumentum MapSnap - Optiones subtilitatis",
+				"default-button": "Defalta",
+				"fixed-button": "Definitus",
+				"default-info": "Rarioria errata habet, sed saepe subtilitatem meliorem et magnitudinem fili maiorem habet. \n\n Photograohemata scaenarum quarum longitudo aut altitudo super 510 cubos est informationes inabsolutas habebit.",
+				"fixed-info": "Pluriora errata habet, sed saepe subtilitatem minorem et magnitudinem fili minorem habet. \n\n Photograohemata scaenarum quarum longitudo aut altitudo super 1020 cubos est subtilitatem minoratam habebit."
 			}
         },
         "pause-options": {
@@ -1335,13 +1335,13 @@
                 "movement-angle": "Angulus agitatus.",
                 "downfall-tilt": "Decursum sinistre vel dextre move aliquantulo, ut effectus venti simulet",
                 "upwards-tilt": "Particulas ascendentes sinistre vel dextre move aliquantulo, ut effectus venti simulet.",
-                "environment-collisions": "Decursus per circumiecto (tegulis, cubis, aqua, etc) perfiget si haec arca habilitatur.",
-                "movement-speed": "Velocitas agitatus particulae/operimenti (in abaculis/p. m. secundis)\n[scale=0.75][color=CCCCCC]Quaeque tegula est 16 abaculi[/color][/scale]",
+                "environment-collisions": "Decursus per circumiectum (tegulas, cubos, aquam, etc) perfiget si haec arca habilitatur.",
+                "movement-speed": "Velocitas agitatus particulae/operimenti (in abaculis/p. m. secundas)\n[scale=0.75][color=CCCCCC]Quaeque tegula est 16 abaculi[/color][/scale]",
                 "flash-type": "Murus solus est: stratum coloris muris fulge. Creat effectus bonum in muris cum fenestris.\nOmnia strata: fulgere visibilis in omnia strata erit.",
                 "toggle-sfx": "Habilita aut debilita effectus soni.",
                 "opacity": "Intensitas effectus, ab effectu translucidissima usque ad effectus opacissimam.",
                 "fade-duration": "Tempus (in p. m. secundis) necesarius pro apparendo/vanescendo effectus cum unam tegulam eius afflectatur.",
-                "additive-blend": "Temperare additivum addit colorem operimenti super abaculis quos operimentum tegit. Hic effectus visibilissimus est cum coloribus lucidis.",
+                "additive-blend": "Temperare additivum addit colorem operimenti super abaculos quos operimentum tegit. Hic effectus visibilissimus est cum coloribus lucidis.",
                 "color-hex": "Color specialis in HEX format.\n\nExempla:\n[scale=0.75][color=#C8C8C8]C8C8C8 pro cano[/color]\n[color=#F8C0F0]F8C0F0 pro rosee[/color][scale=0.5][/scale]\n\nSuademus ut colorem elector utaris ut valorem HEX optatum invenias.[/scale]",
                 "palette": "Color effectus, qui cosmeticus est.",
 				"two-way-movement": "Particulas permittit ut ad angulum oppositum eant.",
@@ -1351,7 +1351,7 @@
                 "wind-duration": "Duratio flandi venti (monitus es: haec tempum immutationis non complectit.)",
 				"wind-cooldown": "Tempus (in p. m. secundis) egetur ut ventus refrigescat ad zerum.",
 				"wind-cycle-delay": "Tempus (in p. m. secundis) in cyclo venti (finis refrigerii - principium immutationi)",
-                "wind-repeats": "Quantitas repetitionum cycli venti. Mora inter cyclis definiri potest infra."
+                "wind-repeats": "Quantitas repetitionum cycli venti. Mora inter cyclos definiri potest infra."
             },
             "palettes": {
                 "1_rain": "Pluvia ordinaria|Relica Radioactiva|Charisma Candida|Adorea Arborarum|Cataclysmus Cloacae|Ab Abysso",
@@ -1376,7 +1376,7 @@
                 "restore": "Recrea",
                 "download": "Punctum restutionis importa\nlevel code",
                 "header": "In hac tabula, subsidiarium versionis prioris spectaculi tui recreare aut importare potes.",
-				"none-found": "Sunt nulla puncta restutionis pro hoc spectaculo.\nDum spectaculum fabricas, puncta restutionis creabuntur automatice per tempore.",
+				"none-found": "Sunt nulla puncta restutionis pro hoc spectaculo.\nDum spectaculum fabricas, puncta restutionis creabuntur automatice per tempus.",
 				"confirm-prompt": "Recrea ab hoc die?"
             },
             "startpoint-missing": {
