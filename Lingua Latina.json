@@ -160,7 +160,7 @@
                 "duration": "Duratio",
                 "repeats": "Dittat",
 				"delay": "Mora",
-                "other": "Aliud"
+                "other": "Alius"
             },
             "menu-options": {
                 "default": "Defalta",
@@ -378,7 +378,7 @@
                 "starman-theme": "Stelluir",
                 "metal-theme": "Stetanus",
                 "editing": "Mutare",
-                "preview": "Videre maturum",
+                "preview": "Praevisum",
                 "main-stats": "[scale=0.8]Status princeps[/scale]",
                 "object-stats": "[scale=0.8]Res[/scale]",
                 "tilemap-stats": "[scale=0.8]Tegulae scaenae[/scale]",
@@ -856,7 +856,7 @@
                     "grow-shrink-duration": "Duratio auctendi/attenuandi",
                     "attached-to": "Attachitur ad",
                     "tag-is-active": "Pittacium est activus cum incipiendo",
-                    "period": "Tempestas",
+                    "period": "Tempus",
                     "movement-mode-sinewave-independent": "Modus agitatus\n[scale=0.5](Independens a sinu)[/scale]"
                 },
                 "separators": {
@@ -867,7 +867,7 @@
                 "buttons": {
                     "change-initial-direction": "Initialem directionem muta",
                     "playtest-from-here": "A hoc pertempta",
-                    "preview": "Videre maturum",
+                    "preview": "Praevisum",
                     "edit-range": "Aream convariandi muta",
                     "edit-palette": "Colores muta",
                     "edit-item": "Rem muta",
@@ -947,27 +947,27 @@
                 }
             },
             "sines": {
-                "select-target-position": "Select a target position",
-                "magnitude": "Magnitude\n[color=#CCCCCC](in tiles)[/color]",
+                "select-target-position": "Elige destinatum",
+                "magnitude": "Magnitudo\n[color=#CCCCCC](in tegulis)[/color]",
                 "period": "Tempus sinui",
                 "period-offset": "Compensare temporis",
-                "magnitude-info": "Distance {0} will sine towards, before heading back.\n[sub]Positive values move {1}\nNegative values move {2}[/sub]",
-                "cycle-duration-info": "Time (in seconds) it takes for a full {0} sine cycle (includes time travelling back).\n[sub](This cannot be smaller than half of the magnitude)[/sub]",
-                "period-offset-example": "Skip ahead to a specific point in the sine cycle, e.g. entering half of the period here will make {0} start on the opposing end of the sine.",
-                "the-platform": "the platform",
-                "the-amp": "the Amp"
+                "magnitude-info": "Abstantia per qua {0} promovebit, ante reversionem.\n[sub]Numeri positivi: {1}\nNumeri negativi: {2}[/sub]",
+                "cycle-duration-info": "Tempus (in p. m. secundis) quod egetur pro cyclo completo sinus ({0}) (cum reversione).\n[sub](Hoc minus quam dimidium magnitudinis esse non potest.)[/sub]",
+                "period-offset-example": "Ad punctum speciale in cyclo sinus, e.g. {0} in polo opposito sinus incipiet si ponis dimidium temporis.",
+                "the-platform": "pegma",
+                "the-amp": "Amp"
             },
             "text": {
-                "text-content": "Text content",
-                "text-formatting": "Text formatting",
-                "previewing-text": "Previewing text\n[sub]Close preview to edit[/sub]",
+                "text-content": "Scriptio",
+                "text-formatting": "Structura scriptionis",
+                "previewing-text": "Scriptionem praevides\n[sub]Praevisum oblittera fabricatum[/sub]",
                 "red-text": "Scriptio rubra",
                 "blue-background": "Murus caeruleus",
                 "small-text": "Scriptio parva",
                 "appearance-separator": "Optiones speciei scriptionis",
-                "text-orientation": "Text orientation",
+                "text-orientation": "Positio scriptionis",
                 "display-text-at": "Scriptionem ostende in",
-                "text-area-options": "Center of the screen|Customised area (range editor)"
+                "text-area-options": "Medio scrinii|Area specialis (range editor)"
             },
             "blocks": {
                 "labels": {
@@ -1255,7 +1255,7 @@
                 "restart-c": "Ad principium\n[scale=0.65](in puncto medio)[/scale]",
                 "extra-options-tools": "Optiones et instrumenta additicia",
                 "main-menu": "Tabula antica",
-                "frame-skip": "Neclegere imaginum",
+                "frame-skip": "Neglegere imaginum",
                 "reduced-particles": "Particulae minoratae",
                 "crt-filter": "Filtrum CRT",
                 "smooth-lighting": "Illuminatio bona",
@@ -1274,7 +1274,7 @@
                 "graphics-settings": "Optiones visorum",
                 "account-settings": "Optiones tabulaa sodalis LSS",
                 "accessibility-options": "Optiones accessibilitatis",
-                "frame-skip": "Neclege quada cum celeritudo ludi est segnis ut pigrescendum prohibeas.\n[scale=0.75][color=#CCCCCC]Monitus es: in celeritudine segnissima, problemae collisus fire possunt. Sine neclegendo imaginum, pigrescere fier sub 60 FPS.[/color][/scale=0.75]",
+                "frame-skip": "Neglege quada cum celeritudo ludi est segnis ut pigrescendum prohibeas.\n[scale=0.75][color=#CCCCCC]Monitus es: in celeritudine segnissima, problemae collisus fire possunt. Sine neglegendo imaginum, pigrescere fier sub 60 FPS.[/color][/scale=0.75]",
                 "reduced-particles": "Terminum destrictiorem forca pro particulis ut pigrescendum reducas."
             }
         },
@@ -1342,7 +1342,7 @@
                 "opacity": "Intensitas effectus, ab effectu translucidissima usque ad effectus opacissimam.",
                 "fade-duration": "Tempus (in p. m. secundis) necesarius pro apparendo/vanescendo effectus cum unam tegulam eius afflectatur.",
                 "additive-blend": "Permixtio additiva addit colorem operimenti super pixeles quos operimentum tegit. Hic effectus visibilissimus est cum coloribus lucidis.",
-                "color-hex": "Color specialis in HEX format.\n\nExempla:\n[scale=0.75][color=#C8C8C8]C8C8C8 pro cano[/color]\n[color=#F8C0F0]F8C0F0 pro rosee[/color][scale=0.5][/scale]\n\nSuademus ut colorem elector utaris ut valorem HEX optatum invenias.[/scale]",
+                "color-hex": "Color specialis in HEX format.\n\nExempla:\n[scale=0.75][color=#C8C8C8]C8C8C8 pro cano[/color]\n[color=#F8C0F0]F8C0F0 pro rosee[/color][scale=0.5][/scale]\n\nSuademus ut colorem elector utaris ut numerum HEX optatum invenias.[/scale]",
                 "palette": "Color effectus, qui cosmeticus est.",
 				"two-way-movement": "Particulas permittit ut ad angulum oppositum eant.",
 				"water-check": "Quaeque particula effectus pertemptabit utrum in aqua est an non est. Si non est in aqua, ea aut vanescet aut ibit alio.",
