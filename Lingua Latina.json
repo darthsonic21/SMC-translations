@@ -183,7 +183,7 @@
             "buttons": {
                 "play-level": "[scale=0.8]Spectaculum lude[/scale]",
                 "level-editor": "[scale=0.8]Fabrica Spectaculi[/scale]",
-                "extras": "[scale=0.8]Parvi ludi[/scale][scale=0.5]\n[color=#CCCCCC]Non est absolutum[/color][/scale]"
+                "extras": "[scale=0.8]Parvi ludi[/scale][scale=0.5]\n[color=#CCCCCC]Inabsoluti[/color][/scale]"
             },
             "tooltips": {
                 "join-lss": "Level Share Square visita!",
@@ -206,7 +206,7 @@
                 "compact": "Artus",
                 "production": "Productio",
                 "create-level": "Fabricamus!",
-                "create-lss-entry": "Et privatam perscriptionem in LSS fac"
+                "create-lss-entry": "Et privatam perscriptionem in LSS crea"
             },
             "tooltips": {
                 "play": "Lude",
@@ -216,18 +216,18 @@
                 "delete": "Dele"
             },
             "html": {
-                "level-name-placeholder": "Postea, semper hoc mutare potes",
+                "level-name-placeholder": "Postea semper hoc mutare potes",
                 "level-size-presets": "Horizontalis (sine plure altitudine)|Horizontalis (cum altitudine)|Verticalis|Metroidvania|Unum scrinium",
                 "import-code-placeholder": "Pone codicem tuum spectaculi, tunc botonem EXPORTA pulsa. "
             },
             "text": {
-                "gamestyle-notice": "Formam elige! In ludo hoc, uterque forma petit ut originem similet. Ergo, formae ludorum non sunt consociabiles, sic cogita de forma quam tu uti vis.",
-                "theme-notice": "Nunc, elige thema et nomen spectaculi tui!\nPostea hos mutare potes. Thema in fabrica mutari potest.",
+                "gamestyle-notice": "Formam elige! In ludo hoc, uterque forma petit ut originem similet. Ergo formae ludorum non sunt consociabiles, sic cogita de forma quam tu uti vis.",
+                "theme-notice": "Nunc elige thema et nomen spectaculi tui!\nPostea hos mutare potes. Thema in fabrica mutari potest.",
                 "delete-warning": "Hoc spectaculum delere vis?\nSi contingat ut hoc ludere vel mutare voles postea, serva codicem spectaculi in computatro tuo primum.",
                 "code-notice": "Hunc codicem spectaculi cum aliis partire potes! Et suademus ut codices serves pro asservatione.",
                 "compact-notice": "Codices arti habet solas informationes quae egentur ut spectaculum tuum faciat, sine informationibus quae servatus est pro factoribus spectaculum.",
                 "production-notice": "Codex productio servat informationes quae est adjutabilis dum spectaculum facis, e.g. res in talea dilectorum.",
-                "import-code-notice": "Pone codicem spectaculi, et spectaculum in ludo servabitur. Adhuc, suademus ut subsidiarios spectaculi tui saepe facias servando codicem in computatro tuo et/aut in LSS.",
+                "import-code-notice": "Pone codicem spectaculi, et spectaculum in ludo servabitur. Adhuc suademus ut subsidiarios spectaculi tui saepe facias servando codicem in computatro tuo et/aut in LSS.",
                 "first-paste-code": "Primum codicem spectaculi tuum pone debes.",
                 "unrecognized-code": "Me paenitet, hic codex spectaculi legi non potest.",
                 "outdated-version": "Hic codex spectaculi pro versione noviore Super Mario Construct factus est."
@@ -270,7 +270,7 @@
 				"electricity": "Electricitas",
                 "doors": "Ianuae decorandae",
                 "mainObjects": "Res commiscuae",
-                "powerUps": "Potestates et creaturae equitandi",
+                "powerUps": "Potestates et dracones",
                 "platforms": "Pegmata",
                 "switches": "Epitonia",
                 "goals": "Scopi et puncta media",
@@ -282,7 +282,7 @@
                 "ghostEnemies": "Hostes laruales",
                 "artillery": "Artilleria",
                 "plantEnemies": "Hostes virentes",
-                "dinoEnemies": "Hostes a dinosauris",
+                "dinoEnemies": "Hostes de dinosauris",
                 "fieryEnemies": "Hostes ignis et electricitatis",
 				"yiEnemies": "Hostes Yoshi's Island",
 				"poweredEnemies": "Hostes potentes",
@@ -476,7 +476,7 @@
                 "gray-brick-block": "Cubus laterum canus",
                 "standard-coin": "Solidus",
                 "goal-orb": "Sphaera victoriae",
-                "yoshi-egg": "Ovum Yoshi",
+                "yoshi-egg": "Ovum draconis",
                 "springboard": "Axulus saltans",
                 "springboard-static": "Axulus saltans (statarius)",
                 "springball": "Sphaera saltans",
@@ -794,11 +794,11 @@
 				"steethan": "Stetanus",
 				"one-up-mushroom": "Fungus vitae",
 				"three-up-moon": "Luna tritum vitarum",
-				"yoshi": "Yoshi",
-				"red-yoshi": "Yoshi ruber",
-				"blue-yoshi": "Yoshi caeruleus",
-				"yellow-yoshi": "Yoshi flavus",
-				"bombshell-yoshi": "Pyroyoshi",
+				"yoshi": "Draco",
+				"red-yoshi": "Draco ruber",
+				"blue-yoshi": "Draco caeruleus",
+				"yellow-yoshi": "Draco flavus",
+				"bombshell-yoshi": "Pyrodraco",
 				"lakitus-cloud": "Nubes Lakiti",
 				"persistant-area-tile": "Tegula perseverans areae",
 				"area-object-loader": "Creator rerum area",
@@ -820,7 +820,7 @@
 				"small-one-way-wall-right": "Murus Parvus Unae Regionis (Dexter)",
 				"small-one-way-wall-down": "Murus Parvus Unae Regionis (Deorsum)",
 				"small-one-way-wall-left": "Murus Parvus Unae Regionis (Sinistrer)",
-				"mount-blockade": "Yoshi obsessio"
+				"mount-blockade": "Obstructio draconum"
             },
             "tile-tooltips": {
                 "invisible-solid-tile": "Tegula solda invisibilis[s]Invisibilis in ludo est",
@@ -1125,9 +1125,9 @@
             },
             "bosses": {
                 "labels": {
-                    "attack-phase": "Attack phase",
-                    "attack-frequency": "Attack frequency",
-                    "traction": "Traction",
+                    "attack-phase": "Pars pugnandi",
+                    "attack-frequency": "Crebritudo pugnandi",
+                    "traction": "Frictio",
                     "takeoff-strength": "Takeoff strength",
                     "wings": "Wings",
                     "walking-mode": "Walking mode",
