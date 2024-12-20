@@ -420,7 +420,7 @@
                 "inactive-layer-opacity": "Cum stratum tegularum mutas, tegulae aliae translucidae erunt. Ponere 100 hoc debilitabit, ponere 0 strata invisibiles faciet.",
                 "trail-tool-frame-count": "Cum spectaculum pertemptas, Mario vestigium visibilem relinquere potest. Hoc est quantitas imaginum quam Mario relinquit.\nHoc adiunctum vestigii in talea instrumentorum est, in solo sinistero. (in pertemptando).",
                 "last-sync": "Synchronizatio proxuma",
-                "backup-interval-notice": "Monitus es: Hoc non est in tempore reali, sed in tempore insumptus est in fabrica."
+                "backup-interval-notice": "Notitus es: Hoc non est in tempore reali, sed in tempore insumptus est in fabrica."
             },
             "html": {
                 "destination-name-example": "E.g. 'a cavo'",
@@ -438,7 +438,7 @@
                 "obj-pipe": "[scale=0.75]Tubi in hac pagina quasi [/scale]res[scale=0.75] agunt (non [/scale]tegulae[scale=0.75]), et in tegulas rerum eunt. Hi tubi porrigere possunt et mutari possunt ut porrigant et adtenuent per tempus.[/scale]",
                 "pipe-sprite-spawner": "[scale=0.75]Hic generator invisibilis rerum est. Si generator tubi creare vis, eum in tubum trahe! Primum eum statue.[/scale]",
                 "electric-tiles": "Eae sunt tegulae electricae quae plurimas creaturas animantes volnerare possunt. Res metallici, velut Mario Metallicus, electricitatem temporaliter conducere possunt!",
-                "scenery-doors": "Monitus es: hae ianuae decorandae. Si ianuas operatorias petis, ad tabulam ITINERA ire pulsando iconem TUBI in solo.",
+                "scenery-doors": "Notitus es: hae ianuae decorandae. Si ianuas operatorias petis, ad tabulam ITINERA ire pulsando iconem TUBI in solo.",
                 "advanced-platform": "Pegma Provectum\n[scale=0.75]Haec pegmata multimodis mutari possunt! Tegulae a eis conversationem eorum afflectare possunt.[/scale]",
                 "persistent-area-tile": "Res in una area existitae servat",
                 "area-object-loader": "Res antecedenter creat in una area",
@@ -940,7 +940,7 @@
                 },
                 "tooltips": {
                     "music-to-pick": "Elige musicam quam modulari vis. Musica quoque manere potest, sine mutatione.",
-                    "cm-url-info": "Optione musicae specialis electa, pone coniunctionem ad originem musicae.\n\n[sub]Monitus es: id ad plicam musicae conectere debet, non ad paginam in qua est.[/sub]"
+                    "cm-url-info": "Optione musicae specialis electa, pone coniunctionem ad originem musicae.\n\n[sub]Notitus es: id ad plicam musicae conectere debet, non ad paginam in qua est.[/sub]"
                 },
                 "html": {
                     "misc-music-options": "Noli mutare|Defalta scaenae|Silentium|Specialis"
@@ -1125,57 +1125,57 @@
             },
             "bosses": {
                 "labels": {
-                    "attack-phase": "Pars pugnandi",
-                    "attack-frequency": "Crebritudo pugnandi",
+                    "attack-phase": "Pars impetus",
+                    "attack-frequency": "Crebritudo impetus",
                     "traction": "Frictio",
                     "takeoff-strength": "Fortitudo evectionis",
                     "wings": "Alae",
                     "walking-mode": "Modus ambulandi",
-                    "attacking": "Oppugnare",
-                    "min-attacks-for-jump": "Quantitas minima oppugnandi ante saltandum",
+                    "attacking": "Impetus",
+                    "min-attacks-for-jump": "Quantitas minima impetuum ante saltandum",
                     "chance-of-jumping-minimum": "Fors saltandi (post saltandum minimum)",
-                    "attack-speed": "Celeritas oppugnandi",
+                    "attack-speed": "Celeritas impetus",
                     "invincibility-period": "Duratio incolumitatis",
-                    "attack-delay": "Mora oppugnandi",
+                    "attack-delay": "Mora impetus",
                     "base-speed": "Velocitas initialis",
                     "darkness-boost": "Mobilitas tenebris",
                     "king-boo-blend-info": "Imperator Phasmatum cum circumiecto miscere potest multis facultatibus",
                     "when-hurt": "Cum doletur",
-                    "viewing-attack": "Oppugnandum vides",
-                    "attack-frequency-info": "Una oppugnatio saepe occurare potest! Me vide:",
+                    "viewing-attack": "Impetum vides",
+                    "attack-frequency-info": "Unus impetus saepe occurare potest! Me vide:",
                     "spew-flame": "Vome flammam",
                     "rocking-hammer": "Mallei Potentes",
                     "blazing-hammer": "Mallei Ardentes",
                     "mecha-wand": "Virga Robotorum",
-                    "shell-dash": "Shell Dash",
-                    "homing-dash": "Homing Dash",
-                    "pumpkins-and-pepper": "Pumpkins & Pepper",
-                    "magic-bottles": "Magic Bottles",
-                    "protective-flames": "Protective Flames",
-                    "projectile-count": "Projectile count",
-                    "extra-random-projectiles": "Extra random projectiles",
-                    "dash-duration": "Dash duration (in sec)",
-                    "random-dash-duration": "Extra random duration",
-                    "ring-count": "Ring count",
-                    "on-defeated": "On defeated"
+                    "shell-dash": "Chelium Circumversans",
+                    "homing-dash": "Impetus Petens",
+                    "pumpkins-and-pepper": "Citruli et Piper",
+                    "magic-bottles": "Ampullae Magicae",
+                    "protective-flames": "Flammae Protectionis",
+                    "projectile-count": "Quantitas Projectilium",
+                    "extra-random-projectiles": "Projectiles arbitrarii addititii",
+                    "dash-duration": "Duratio provolandi (in p.m. secundis)",
+                    "random-dash-duration": "Duratio arbitraria addititia",
+                    "ring-count": "Quantitas anulorum",
+                    "on-defeated": "Cum superatur"
                 },
                 "separators": {
-                    "chase-stats": "Chase stats",
-                    "jumping-stats": "Jumping stats",
-                    "environmental-blending": "Environmental blending",
-                    "attack-info": "Attack info",
-                    "browse-attacks": "Browse attacks",
-                    "set-animation": "Set animation",
-                    "disguised-enemy": "Disguised enemy"
+                    "chase-stats": "Status adurgendi",
+                    "jumping-stats": "Status saltandi",
+                    "environmental-blending": "Miscere circumiecto",
+                    "attack-info": "Informationes oppugnandi",
+                    "browse-attacks": "Index oppugnandi",
+                    "set-animation": "Animationem statue",
+                    "disguised-enemy": "Hostis dissimulatus"
                 },
                 "buttons": {
-                    "attacks": "Attacks"
+                    "attacks": "Impetus"
                 },
                 "tooltips": {
-                    "hp-info": "HP (Health Points) are the amount of hits needed to take out {0}.",
-                    "hp-info-fireball": "Note: 5 fireballs equates to 1 HP",
-                    "attack-delay-info": "Time (in seconds) between attacks.",
-                    "attack-cycle-info": "If multiple attacks are enabled, {0} will go through each attack in a random order. After that, a new attack cycle begins, where the attack order is randomized again.\n\n[sub]With the 'attack frequency' option, you can have one or more attacks play out multiple times per cycle![/sub]",
+                    "hp-info": "SP (Sospitatis Puncta) est quantitas vulnerum quae egetur pro clade ({0}).",
+                    "hp-info-fireball": "Notitus es: 5 sphaerae ignis idem quod 1 SP",
+                    "attack-delay-info": "Tempus (in p.m. secundis) inter impetus.",
+                    "attack-cycle-info": "Si impetus nonnulli habilitantur, {0} omnis impetus faciet in sequentia arbitraria. Postea, cyclus novus impetuum incipit, in quo sequentia impetuum iterum recombinatur.\n\n[sub]With the 'attack frequency' option, you can have one or more attacks play out multiple times per cycle![/sub]",
                     "bb-attack-phase": "Boom Boom can either increase his attack phase automatically as he loses HP, or he can stick to one specific phase during the fight.",
                     "bb-attack-frequency": "More frequent attacks can add more difficulty to the fight, and the stomp opportunity is shorter on the dash attack.\n[sub]Note that on the dash attack, even when set to 'Near instant', there is a 1 second opportunity for the player to stomp the boss.[/sub]",
                     "bb-movement-speed": "Maximum movement speed, in pixels / sec.\n[sub]In the final phase (Pinch mode), this is multiplied by 50%[/sub]",
@@ -1274,7 +1274,7 @@
                 "graphics-settings": "Optiones visorum",
                 "account-settings": "Optiones inscriptionis LSS",
                 "accessibility-options": "Optiones accessibilitatis",
-                "frame-skip": "Neglege quada cum celeritudo ludi est segnis ut pigrescendum prohibeas.\n[scale=0.75][color=#CCCCCC]Monitus es: in celeritudine segnissima, problemae collisus fire possunt. Sine neglegendo imaginum, pigrescere fier sub 60 FPS.[/color][/scale=0.75]",
+                "frame-skip": "Neglege quada cum celeritudo ludi est segnis ut pigrescendum prohibeas.\n[scale=0.75][color=#CCCCCC]Notitus es: in celeritudine segnissima, problemae collisus fire possunt. Sine neglegendo imaginum, pigrescere fier sub 60 FPS.[/color][/scale=0.75]",
                 "reduced-particles": "Terminum destrictiorem forca pro particulis ut pigrescendum reducas."
             }
         },
@@ -1348,7 +1348,7 @@
 				"water-check": "Quaeque particula effectus pertemptabit utrum in aqua est an non est. Si non est in aqua, ea aut vanescet aut ibit alio.",
                 "wind-strength": "Fortitudo venti. Fortitudo fortimior res repellet potenter.",
                 "wind-buildup": "Tempus (in p. m. secundis) quod egetur ut ventus fortitudinem fortimamam perveniat.",
-                "wind-duration": "Duratio flandi venti (monitus es: haec tempum immutationis non complectit.)",
+                "wind-duration": "Duratio flandi venti (notitus es: haec tempum immutationis non complectit.)",
 				"wind-cooldown": "Tempus (in p. m. secundis) quod egetur ut ventus refrigescat ad zerum.",
 				"wind-cycle-delay": "Tempus (in p. m. secundis) in cyclo venti (finis refrigerii - principium immutationi)",
                 "wind-repeats": "Quantitas repetitionum cycli venti. Mora inter cyclos definiri potest infra."
@@ -1392,7 +1392,7 @@
             },
             "level-sync-edit": {
                 "sync-select": "Quando synchronizare vis?",
-                "cooldown-notice": "Monitus est: synchronizationes refrigerium (20 p. m. secundae) habet.",
+                "cooldown-notice": "Notitus es: synchronizationes refrigerium (20 p. m. secundae) habet.",
                 "sync-options": "Pausa synchronizationem|Quotienscumque ludus servat|Cum a fabrica exeo",
                 "desync": "Synchronizationem debilita",
                 "cancel-sync": "Synchronizationem interrumpe",
@@ -1413,8 +1413,8 @@
         },
         "misc-labels": {
             "controls": {
-                "move-left": "Ad sinistram",
-                "move-right": "Ad dextrum",
+                "move-left": "Sinister",
+                "move-right": "Dexter",
                 "jump": "Saltare",
                 "duck": "Conquiniscere",
                 "spinjump": "circumversari",
