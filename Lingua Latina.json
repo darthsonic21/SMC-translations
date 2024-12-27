@@ -136,7 +136,7 @@
             "labels": {
                 "press-again-to-confirm": "Pulsa iterum ut sancias",
                 "press-x-again-to-confirm": "Pulsa {0} iterum ut sancias",
-                "nothing-to-see": "[!]Nothing to see here!",
+                "nothing-to-see": "Nihil visu!",
                 "x-settings": "{0} optiones",
                 "x-tags": "{0} pittacia",
                 "active-on-start": "Activus in principio",
@@ -1010,7 +1010,7 @@
                     "boss-start-common": "Cum pugna coepit...\n[scale=0.75][color=#CCCCCC]Haec musica modulabitur cum {0} in scrinio est.[/color][/scale]",
                     "boss-start-kb": "Cum pugna coepit...\n[scale=0.75][color=#CCCCCC]Haec musica modulabitur post animationem apparendi Imperatoris Phasmatum.[/color][/scale]",
                     "boss-defeat-common": "Cum pugna perficitur...\n[scale=0.75][color=#CCCCCC]Haec musica modulabitur cum {0} superatur.[/color][/scale]",
-                    "music-changer": "[!]When the player gets in range...\n[scale=0.75][color=#CCCCCC]This music will play[/color][/scale]"
+                    "music-changer": "Cum ludio appropinquat...\n[scale=0.75][color=#CCCCCC]Haec musica modulabitur[/color][/scale]"
                 },
                 "labels": {
                     "source-url": "Coniunctio originis",
