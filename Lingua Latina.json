@@ -1433,7 +1433,7 @@
                 "water-check": "Omnis particula effectus pertemptabit utrum in aqua est an non. Si non est in aqua, ea aut vanescet aut ibit alio.",
                 "water-check-player": "Effectus differt si ludio in aqua est.",
                 "affected-audio": "Afflecta sonos, musicam, aut utrasque.",
-                "volume-reduction": "Quantitas decibelum per quos magnitudo soni minoratur.",
+                "volume-reduction": "Quantitas decibelum a qua magnitudo soni minoratur.",
                 "wind-strength": "Fortitudo venti. Fortitudo fortimior res repellet potenter.",
                 "wind-buildup": "Tempus (in p. m. secundis) quod egetur ut ventus fortitudinem fortimamam perveniat.",
                 "wind-duration": "Duratio flandi venti (notitus es: haec tempum immutationis non complectit.)",
