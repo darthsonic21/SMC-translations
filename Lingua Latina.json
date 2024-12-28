@@ -956,7 +956,7 @@
                     "blend-modes": "ADDITIVA\n[sub]Colores {0} super pixeles acervata alia addit.[/sub]\n\nSUPER RES APPARET\n[sub]{0} tantum in rebus post eum apperebit (e.g. in strato depressioribus).[/sub]\n\nOCCULTATUR\n[sub]Similis, sed invisibilis est, et per tegulas et res perfigit![/sub]",
                     "expanding-obj-cycle-info": "Auctat et attenuat paulatim, cum optionibus longitudinis et durationis.",
                     "expanding-obj-size-change-tiles": "Quantitas tegularum auctando/attenuando.",
-                    "expanding-obj-size-change-duration": "Tempus (in p.m. secundis) quod egetur absolutioni auctandi/attenuandi.",
+                    "expanding-obj-size-change-duration": "Tempus (in p.m. secundis) quod exspectatur absolutioni auctandi/attenuandi.",
                     "expanding-obj-size-change-delay": "Duratio ante auctandum/attenuandum cum auctavit aut attenuavit",
                     "period": "Tempus (in p.m. secundis) cyclo completo sinus.",
                     "opacity": "Opacitates minisculiores rem obfuscare possunt."
@@ -1030,7 +1030,7 @@
                 "period": "Periodus sinui",
                 "period-offset": "Compensatio periodi",
                 "magnitude-info": "Abstantia per quam {0} promovebit, ante reversionem.\n[sub]Numeri positivi: {1}\nNumeri negativi: {2}[/sub]",
-                "cycle-duration-info": "Tempus (in p.m. secundis) quod egetur cyclo completo sinus ({0}) (cum reversione).\n[sub](Hoc minus quam dimidium magnitudinis esse non potest.)[/sub]",
+                "cycle-duration-info": "Tempus (in p.m. secundis) quod exspectatur cyclo completo sinus ({0}) (cum reversione).\n[sub](Hoc minus quam dimidium magnitudinis esse non potest.)[/sub]",
                 "period-offset-example": "Ad punctum speciale in cyclo sinus, e.g. {0} in polo opposito sinus incipiet si ponis dimidium periodi.",
                 "the-platform": "pegma",
                 "the-amp": "Amp"
@@ -1088,7 +1088,7 @@
                     "random-vector": "+ velocitas fortuita {0}",
                     "cosmetic-notice": "Extra aream maiorem collisui, classes omnes cosmeticae sunt.",
                     "object-cap": "Quantitas maxima rerum, quae ab arca hostium creatur, et quae vivere possunt uno tempore. Si hostes, qui ab arca hac creantur, superantur, arca alios creabit.",
-                    "delays": "Mora creandi est tempus (in p.m. secundis) inter omnem cyclum creandi, mora incipiendi est tempus quod egetur inceptioni cycli creandi.",
+                    "delays": "Mora creandi est tempus (in p.m. secundis) inter omnem cyclum creandi, mora incipiendi est tempus quod exspectatur inceptioni cycli creandi.",
                     "launch-velocity": "Velocitas rei cum ab arca hostium manumittitur.",
                     "random-velocity": "Velocitas fortuita arbitraria quae additur in velocitatem initialem (ute numeros negativos subtractum).",
                     "appearances": "Arca hostium|Magna arca hostium|Arca praemiorum|Magna arca praemiorum"
@@ -1100,7 +1100,7 @@
                     "tagging-info": "Unum vel pluria pittacia (quae separantur a diastematibus) quae hoc generatorem adloquuntur in ludo.",
                     "spawning-objects": "Crea res...",
                     "spawn-conditions": "Cum legitur|Cum in scrinio|Cum ludio in amplitudine speciali est",
-                    "spawn-conditions-info": "Condicio quae egetur creando rerum novarum. P-Tegulae etiam operabit in optione 1."
+                    "spawn-conditions-info": "Condicio quae exspectatur creando rerum novarum. P-Tegulae etiam operabit in optione 1."
                 },
                 "goal-and-checkpoints": {
                     "rightwards-pole-layer": "Tegula dextri temonis",
@@ -1166,9 +1166,9 @@
                     "tagging-info": "Unum vel pluria pittacia (quae separantur a diastematibus) quae hoc pegma adloquuntur in ludo.\n[sub]Per pittacia, hoc pegma habilitare aut debilitare potes per e.g. cubos pittacii ON/OFF.[/sub]",
                     "optional-movement-notice": "Optiones agitatus inferae arbitrariae sunt.",
                     "acceleration-length": "Longinquitas accelerationis",
-                    "acceleration-info": "Tempus arbitrarium (in p.m. secundis) quod egetur ut pegma velocitatem maximam perveniat.\n[sub]Linque 0 ut acceleret cite.[/sub]",
+                    "acceleration-info": "Tempus arbitrarium (in p.m. secundis) quod exspectatur ut pegma velocitatem maximam perveniat.\n[sub]Linque 0 ut acceleret cite.[/sub]",
                     "deceleration-length": "Longinquitas pigrescendi",
-                    "deceleration-info": "Tempus arbitrarium (in p.m. secundis) quod egetur ut pegma consistat.\n[sub]Linque 0 ut pigrescat cite.[/sub]",
+                    "deceleration-info": "Tempus arbitrarium (in p.m. secundis) quod exspectatur ut pegma consistat.\n[sub]Linque 0 ut pigrescat cite.[/sub]",
                     "angle-change": "Mutatio anguli per p.m. secundam",
                     "angle-change-info": "Muta angulum agitatus per hunc numerum, per p.m. secundam.\n[sub]Numeri negativi etiam operant.[/sub]",
                     "only-move-with-player": "tantum move cum ludione",
@@ -1251,7 +1251,7 @@
                     "attacks": "Impetus"
                 },
                 "tooltips": {
-                    "hp-info": "SP (Sospitatis Puncta) est quantitas vulnerum quae egetur pro clade ({0}).",
+                    "hp-info": "SP (Sospitatis Puncta) est quantitas vulnerum quae exspectatur pro clade ({0}).",
                     "hp-info-fireball": "Notitus es: 5 sphaerae ignis idem quod 1 SP",
                     "attack-delay-info": "Tempus (in p.m. secundis) inter impetus.",
                     "attack-cycle-info": "Si impetus nonnulli habilitantur, {0} omnis impetus faciet in sequentia arbitraria. Postea, cyclus novus impetuum incipit, in quo sequentia impetuum iterum recombinatur.\n\n[sub]Cum optione 'crebritudo impetus', impetus aliquotiens occurare potest per cyclum![/sub]",
@@ -1425,7 +1425,7 @@
                 "flash-type": "Murus solus est: stratum coloris muri fulge. Creat effectus bonum in muris cum fenestris.\nOmnia strata: coruscatio visibilis in omnia strata erit.",
                 "toggle-sfx": "Habilita aut debilita effectus soni.",
                 "opacity": "Intensitas effectus, ab effectu translucidissima usque ad effectus opacissimam.",
-                "fade-duration": "Tempus (in p.m. secundis) quod egetur apparendo/vanescendo effectus cum unam pittaciam eius afflectatur.",
+                "fade-duration": "Tempus (in p.m. secundis) quod exspectatur apparendo/vanescendo effectus cum unam pittaciam eius afflectatur.",
                 "additive-blend": "Admistio additiva addit colorem operimenti super pixeles quos operimentum tegit. Hic effectus visibilissimus est cum coloribus lucidis.",
                 "color-hex": "Color specialis in HEX forma.\n\nExempla:\n[scale=0.75][color=#C8C8C8]C8C8C8 pro cano[/color]\n[color=#F8C0F0]F8C0F0 pro rosee[/color][scale=0.5][/scale]\n\nSuademus ut colorem elector utaris ut numerum HEX optatum invenias.[/scale]",
                 "palette": "Color effectus, qui cosmeticus est.",
@@ -1435,9 +1435,9 @@
                 "affected-audio": "Afflecta sonos, musicam, aut utrasque.",
                 "volume-reduction": "Quantitas decibelum a qua magnitudo soni minoratur.",
                 "wind-strength": "Fortitudo venti. Fortitudo fortimior res repellet potenter.",
-                "wind-buildup": "Tempus (in p.m. secundis) quod egetur ut ventus fortitudinem fortimamam perveniat.",
+                "wind-buildup": "Tempus (in p.m. secundis) quod exspectatur ut ventus fortitudinem fortimamam perveniat.",
                 "wind-duration": "Duratio flandi venti (notitus es: haec tempum immutationis non complectit.)",
-                "wind-cooldown": "Tempus (in p.m. secundis) quod egetur ut ventus refrigescat ad 0.",
+                "wind-cooldown": "Tempus (in p.m. secundis) quod exspectatur ut ventus refrigescat ad 0.",
                 "wind-cycle-delay": "Tempus (in p.m. secundis) in cyclo venti (finis refrigerii - principium immutationi)",
                 "wind-repeats": "Quantitas repetitionum cycli venti. Mora inter cyclos definiri potest infra."
             },
