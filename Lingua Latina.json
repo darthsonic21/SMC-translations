@@ -1,5 +1,5 @@
 {
-    "locale": "Lingua Latina",
+    "locale": "Latina",
     "strings": {
         "constants": {
             "1_map-palettes": "Ordinarius/Terra|Subterraneus (caeruleus)|Arx (canus)|Subaqueanus (viridis)|Caelum (prasinus)|Glacies (aeria)|Vulcanus (ruber)|Domus Phasmatum (purpureus)|Praemium (flavus)|Acta (brunnea)|Mundus Stellarum (caesius)|Silva (fusca)|Navigium Caeli (brunneum-atrum)",
@@ -11,7 +11,7 @@
                 "no": "Minime",
                 "close": "Oblittera",
                 "download": "Importa",
-                "next": "Sequens",
+                "next": "Procede",
                 "confirm": "Sanci",
                 "confirm-click": "Pulsa iterum ut sancias",
                 "proceed": "Procede",
@@ -199,7 +199,7 @@
                 "level-select": "SPECTACULUM ELIGE",
                 "pick-gamestyle": "FORMAM LUDI ELIGE",
                 "pick-theme": "THEMA ELIGE",
-                "empty-card": "CHARTA VACIVA SPECTACULI",
+                "empty-card": "CHARTA VACUA SPECTACULI",
                 "level-name": "Nomen spectaculi",
                 "size-preset": "Statutae magnitudines"
             },
@@ -209,7 +209,7 @@
                 "compact": "Artus",
                 "production": "Productionis",
                 "create-level": "Fabricemus!",
-                "create-lss-entry": "Et privatam perscriptionem in LSS crea"
+                "create-lss-entry": "Etiam privatam perscriptionem in LSS crea"
             },
             "tooltips": {
                 "play": "Lude",
@@ -224,7 +224,7 @@
                 "import-code-placeholder": "Pone codicem tuum spectaculi, tunc botonem EXPORTA pulsa. "
             },
             "text": {
-                "gamestyle-notice": "Formam elige! In ludo hoc, omnis forma originem similat. Ergo formae ludi non sunt consociabiles, sic cogita de forma quam tu uti vis.",
+                "gamestyle-notice": "Formam elige! In ludo hoc, omnis forma originem similat. Ergo formae ludi non sunt consociabiles, sic arbitrare de forma quam tu uti vis.",
                 "theme-notice": "Nunc elige thema et nomen spectaculi tui!\nPostea hos mutare potes. Thema in fabrica mutari potest.",
                 "delete-warning": "Hoc spectaculum delere vis?\nSi contingat ut hoc ludere vel mutare voles postea, serva codicem spectaculi in computatro tuo primum.",
                 "code-notice": "Hunc codicem spectaculi ad alios partire potes! Et suademus ut codices serves asservationi.",
@@ -240,7 +240,7 @@
         "regular-play": {
             "labels": {
                 "made-by": "Ex fabrica",
-                "no-desc": "Nulla expositio huic spectaculo statutus est.",
+                "no-desc": "Nulla expositio huic spectaculo statuta est.",
                 "time": "TEMPUS"
             },
             "html": {
@@ -303,7 +303,7 @@
                 "backup-settings": "Optiones autoservandi et subsidiarii"
             },
             "tileset-menu": {
-                "footer": "Iconem grupi tegularum pulsa ut paginam eius aperiias.[scale=0.5]\n\n[/scale]Iconem grupi tegularum trahe ad taleam dilectorum ut id intres ubique in fabrica.",
+                "footer": "Iconem grupus tegularum pulsa ut paginam eius aperiias.[scale=0.5]\n\n[/scale]Iconem grupus tegularum trahe ad taleam dilectorum ut id intres ubique in fabrica.",
                 "go-back": "Redi ad omnes tegulas"
             },
             "mini-toolbar": {
@@ -346,7 +346,7 @@
                 "bg-gradient-header": "aut colorem gradientem elige!",
                 "pick-gradient": "Elige\ncolorem gradientem",
                 "offset-y": "Compensa Y[scale=0.5]\nPixeles ante principium coloris gradientis[/scale]",
-                "gradient-scale": "Magnitudo[scale=0.5]\nAltitudo directi multiplicatur ab:[/scale]",
+                "gradient-scale": "Magnitudo[scale=0.5]\nAltitudo directi multiplicatur per:[/scale]",
                 "level-music-header": "Musica spectaculi (huic scaenae)",
                 "other-music-header": "Alia musica (Appellitur pro omnibus scaenis)",
                 "map-theme": "Thema scaenae",
@@ -401,7 +401,7 @@
                 "edit-sync-settings": "Optiones synchronizationis muta",
                 "prompt-backup-notice": "[scale=0.75]Note omnem ... ut subsidiarium importes[/scale]\n[scale=0.5][color=#CCCCCC](Suadetur in SMC interretis)[/color][/scale]",
                 "create-restore-point": "[scale=0.75]Manibus tuis fac\npunctum restutionis[/scale]",
-                "view-restore-points": "[scale=0.75]Vide/Ute\npunctum restutionis[/scale]",
+                "view-restore-points": "[scale=0.75]Vide/Utere\npunctum restutionis[/scale]",
                 "download-level": "[scale=0.75]Spectaculum hoc importa[/scale]"
             },
             "tooltips": {
@@ -423,7 +423,7 @@
                 "bg-loop-notice": "Plurimi muri tantum iterat horizontaliter, sed sunt muri qui iterare verticaliter possunt (e.g. interior arcis). Optiones has adaptare potes hic.",
                 "playtest-music": "Musicam pertempta",
                 "text-formatting": "[scale=0.8]Scriptiones in BBCodes involvere potes ut species earum mutes.\n\n[color=#58A8F0][[][/]color=#cc0000][/color][color=#cc0000]Color scriptionis[/color][color=#58A8F0][[][/]/color][/color]\n[color=#58A8F0][[][/]background=#ff00ff][/color][background=#ff00ff]color muri[/background][color=#58A8F0][[][/]/background][/color]\n\n[color=#58A8F0][[][/]scale=0.5][/color][scale=0.5]Magnitudem scriptionis muta[/scale][color=#58A8F0][[][/]/scale][/color]\n[/offsety][/scale]",
-                "favorites-bar": "Talea dilectorum te indulget ut res consuetas confisces et sumas. Semper in talea instrumentorum est, sed eam removere potes cum spectaculi fabricas.\n[scale=0.75][color=#CCCCCC]Boto pro habilitando/debilitando: F[/color][/scale]",
+                "favorites-bar": "Talea dilectorum te indulget ut res consuetas confisces et sumas. Semper in talea instrumentorum est, sed eam removere potes cum spectaculum fabricas.\n[scale=0.75][color=#CCCCCC]Boto pro habilitando/debilitando: F[/color][/scale]",
                 "mini-toolbar": "Haec minor talea instrumentorum est semper visibilis cum habilitatur, et indulget ut mutes celeriter strata.\n[scale=0.75][color=#CCCCCC]Boto pro habilitando/debilitando: M[/color][/scale]",
                 "inactive-layer-opacity": "Cum stratum tegularum mutas, tegulae aliae translucidae erunt. Ponere 100 hoc debilitabit, ponere 0 strata occultabit.",
                 "trail-tool-frame-count": "Cum spectaculum pertemptas, Marius vestigium visibilem relinquere potest. Hoc est quantitas imaginum quam Marius relinquit.\nAdiunctum vestigii in talea instrumentorum est, in solo sinistero. (in pertemptando).",
@@ -437,14 +437,14 @@
                 "1_water-modes": "Debilis|Semper (tegulas aquae non eget)|Tecta aqua (antiqua)|Tecta aqua (moderna)",
                 "2_water-modes": "Debilis|Semper (tegulas aquae non eget)|Tecta aqua",
                 "bg-loop-methods": "Debilis|Itera horizontaliter|Itera verticaliter|Itera omnes|Noli iterare|Tantum horizontaliter|Tantum verticaliter",
-                "bg-scroll-speed-h": "←← CelerISSIMA!|← Celeris|← Mediana|← Segniter|← Segnissime|Debilis|→ Segnissime|→ Segniter|→ Mediana|→ Celeris|→→ CelerISSIMA!",
-                "bg-scroll-speed-v": "↑↑ CelerISSIMA!|↑ Celeris|↑ Mediana|↑ Segniter|↑ Segnissime|Debilis|↓ Segnissime|↓ Segniter|↓ Mediana|↓ Celeris|↓↓ CelerISSIMA!",
+                "bg-scroll-speed-h": "←← CELERRIMA!|← Celeris|← Mediana|← Tarda|← Tardissima|Debilis|→ Tardissima|→ Tarda|→ Mediana|→ Celeris|→→ CELERRIMA!",
+                "bg-scroll-speed-v": "↑↑ CELERRIMA!|↑ Celeris|↑ Mediana|↑ Tarda|↑ Tardissima|Debilis|↓ Tardissima|↓ Tarda|↓ Mediana|↓ Celeris|↓↓ CELERRIMA!",
                 "level-desc-placeholder": "Scribe coniectionem brevem (arbitrariam) spectaculi tui, eius narrationis, aut quidquam quod ludionem adiuvabit.",
-                "editor-music": "Nihil (silens)|Musica spectaculi|Musica spectaculi (obfuscata)|★ Cotidie musica specialis muta|♪ Brothers At Home (Musica specialis #1)|♪ Morning Drive (Musica specialis #2)|♪ Lunch Break (Musica specialis #3)|♪ The Road is Full Of Dangers (SMRPG)|♪ Creative Exercise (Mario Paint)"
+                "editor-music": "Nihil (silens)|Musica spectaculi|Musica spectaculi (obfuscata)|★ Cotidie musicam specialem muta|♪ Brothers At Home (Musica specialis #1)|♪ Morning Drive (Musica specialis #2)|♪ Lunch Break (Musica specialis #3)|♪ The Road is Full Of Dangers (SMRPG)|♪ Creative Exercise (Mario Paint)"
             },
             "text": {
                 "obj-pipe": "[scale=0.75]Tubi in hac pagina quasi [/scale]res[scale=0.75] agunt (non [/scale]tegulae[scale=0.75]), et in tegulas rerum eunt. Hi tubi porrigere et mutari possunt ut porrigant et adtenuent per tempus.[/scale]",
-                "pipe-sprite-spawner": "[scale=0.75]Hic generator invisibilis rerum est. Si generator tubi creare vis, eum in tubum trahe! Primum eum statue.[/scale]",
+                "pipe-sprite-spawner": "[scale=0.75]Hic generator invisibilis rerum est. Si generatorem tubi creare vis, eum in tubum trahe! Primum eum statue.[/scale]",
                 "electric-tiles": "Eae sunt tegulae electricae quae plurimas creaturas animantes volnerare possunt. Res metallici, velut Mario Metallicus, electricitatem temporaliter conducere possunt!",
                 "scenery-doors": "Notitus es: hae ianuae decorandae. Si ianuas operatorias petis, ad tabulam ITINERA ire pulsando iconem TUBI in solo.",
                 "advanced-platform": "Pegma Provectum\n[scale=0.75]Haec pegmata multimodis mutari possunt! Tegulae quae iuxta ea sunt conversationem eorum afflectare possunt.[/scale]",
@@ -479,20 +479,20 @@
                 "on-off-timer-block": "ON-OFF Cubus horologii",
                 "magma-block": "Cubus calidus",
                 "frost-block": "Cubus frigidus",
-                "snow-block": "Cubus nivis",
-                "yellow-dotted-line-block": "Cubus cum directum punctorum flavorum",
-                "green-dotted-line-block": "Cubus cum directum punctorum viridium",
-                "red-dotted-line-block": "Cubus cum directum punctorum rubrorum",
-                "blue-dotted-line-block": "Cubus cum directum punctorum caeruleorum",
-                "rock-block": "Cubus saxi",
+                "snow-block": "Cubus nivalis",
+                "yellow-dotted-line-block": "Cubus cum directo punctorum flavorum",
+                "green-dotted-line-block": "Cubus cum directo punctorum viridium",
+                "red-dotted-line-block": "Cubus cum directo punctorum rubrorum",
+                "blue-dotted-line-block": "Cubus cum directo punctorum caeruleorum",
+                "rock-block": "Cubus saxeus",
                 "standard-coin": "Nummus ordinarius",
                 "goal-orb": "Sphaera victoriae",
                 "yoshi-egg": "Ovum draconis",
-                "springboard": "Axulus saltans",
-                "springboard-static": "Axulus saltans (statarius)",
-                "springball": "Sphaera saltans",
-                "sideways-springboard": "Axulus saltans limus",
-                "sideways-springboard-static": "Axulus saltans limus (statarius)",
+                "springboard": "Trampolinum",
+                "springboard-static": "Trampolinum (statarium)",
+                "springball": "Sphaera saltandi",
+                "sideways-springboard": "Trampolinum limum",
+                "sideways-springboard-static": "Trampolinum limum (statarium)",
                 "p-switch": "P-Epitonium",
                 "p-switch-reusable": "P-Epitonium (infinitum)",
                 "p-coin": "P-Nummus",
@@ -543,8 +543,8 @@
                 "vine-sprout": "Germen labruscae",
                 "vine-bean": "Faba labruscae",
                 "npc": "Histrio",
-                "flip-panel": "Axulus rotans",
-                "snowball": "Globus nivis",
+                "flip-panel": "Tabula rotans",
+                "snowball": "Pila nivalis",
                 "gift-box": "Arca doni",
                 "bubble": "Bullitus",
                 "parachute": "Decidiculum",
@@ -701,11 +701,11 @@
                 "pipe-lakitu": "Lakitus tubi",
                 "bouncy-spiny-egg": "Ovum spinae spongens",
                 "beach-koopa": "Actae Kupa[s]Obstacula calcitrat",
-                "beach-koopa-sliding": "Actae kupa labens[s]Slides down if placed on slopes",
+                "beach-koopa-sliding": "Actae kupa labens[s]Si in clivum ponitur, labitur deorsus",
                 "green-beach-koopa": "Actae Kupa viridis",
                 "red-beach-koopa": "Actae Kupa rubra",
                 "blue-beach-koopa": "Actae Kupa caerulea",
-                "blue-beach-koopa-sliding": "Actae Kupa caerulea labens[s]Si in clivi ponitur, labit deorsus",
+                "blue-beach-koopa-sliding": "Actae Kupa caerulea labens[s]Si in clivum ponitur, labitur deorsus",
                 "yellow-beach-koopa": "Actae Kupa flava",
                 "bombshell-beach-koopa": "Actae Pyrokupa",
                 "fast-goomba": "Gumburrens",
@@ -733,8 +733,8 @@
                 "ninji": "Ninji",
                 "pokey-smw": "Cacturris[s]Ludionem subsequitur",
                 "pokey-nsmb": "Cacturris[s]Promovet in directo",
-                "snow-pokey-smw": "Cacturris nivis[s]Ludionem subsequitur",
-                "snow-pokey-nsmb": "Cacturris nivis[s]Promovet in directo",
+                "snow-pokey-smw": "Cacturris nivalis[s]Ludionem subsequitur",
+                "snow-pokey-nsmb": "Cacturris nivalis[s]Promovet in directo",
                 "spike": "Dens",
                 "spike-ball": "Globus dentium",
                 "dino-torch": "Dino-Facula",
@@ -808,7 +808,7 @@
                 "fast-paragoomba": "Caeli Gumburrens",
                 "blargg": "Blarga",
                 "skeleblargg": "Sceleblarga",
-                "boom-boom": "Praetoriae",
+                "boom-boom": "Praetorianus",
                 "bowser": "Caligula",
                 "king-boo": "Imperator Phasmatum",
                 "super-mushroom": "Fungus magnus",
@@ -1031,7 +1031,7 @@
                 "period-offset": "Compensatio periodi",
                 "magnitude-info": "Abstantia per quam {0} promovebit, ante reversionem.\n[sub]Numeri positivi: {1}\nNumeri negativi: {2}[/sub]",
                 "cycle-duration-info": "Tempus (in p.m. secundis) quod exspectatur cyclo completo sinus ({0}) (cum reversione).\n[sub](Hoc minus quam dimidium magnitudinis esse non potest.)[/sub]",
-                "period-offset-example": "Ad punctum speciale in cyclo sinus, e.g. {0} in polo opposito sinus incipiet si ponis dimidium periodi.",
+                "period-offset-example": "Ad punctum speciale in cyclo sinus, e.g. {0} in polo opposito sinus incipit si ponis dimidium periodi.",
                 "the-platform": "pegma",
                 "the-amp": "Amp"
             },
@@ -1066,7 +1066,7 @@
                 },
                 "tooltips": {
                     "amount-in-block": "Quantitas rerum in cubo",
-                    "amount-in-block-optional": "Si cubus rem habet, pinnaculum numeri huius continebit.",
+                    "amount-in-block-optional": "Si cubus rem habet, pinnaculum numeri huius continet.",
                     "timer-info": "Horologium incipe cum feritur primum. Cum 0 pervenit, cubus unam rem solam habebit.\n[scale=0.75][color=#CCCCCC]Linque 0 ut horologium debilitaretur.[/color][/scale]",
                     "progressive-info": "Si Marius est parvus, semper fungum da.",
                     "star-chainer-info": "Cum cubum feritur et ludio potestatem stellae habet, semper stellam da.",
@@ -1087,16 +1087,16 @@
                     "launch-vector": "Velocitas {0} manumittendi",
                     "random-vector": "+ velocitas fortuita {0}",
                     "cosmetic-notice": "Extra aream maiorem collisui, classes omnes cosmeticae sunt.",
-                    "object-cap": "Quantitas maxima rerum, quae ab arca hostium creatur, et quae vivere possunt uno tempore. Si hostes, qui ab arca hac creantur, superantur, arca alios creabit.",
+                    "object-cap": "Quantitas maxima rerum, quae ab arca hostium creatur, et quae vivere possunt uno tempore. Si hostes, qui ab arca hac creantur, superantur, arca alios creat.",
                     "delays": "Mora creandi est tempus (in p.m. secundis) inter omnem cyclum creandi, mora incipiendi est tempus quod exspectatur inceptioni cycli creandi.",
                     "launch-velocity": "Velocitas rei cum ab arca hostium manumittitur.",
-                    "random-velocity": "Velocitas fortuita arbitraria quae additur in velocitatem initialem (ute numeros negativos subtractum).",
+                    "random-velocity": "Velocitas fortuita arbitraria quae additur in velocitatem initialem (utere numeros negativos subtractum).",
                     "appearances": "Arca hostium|Magna arca hostium|Arca praemiorum|Magna arca praemiorum"
                 },
                 "invis-spawner": {
                     "spawn-delay-info": "Tempus (in p.m. secundis) inter omnem cyclum creandi.",
                     "start-delay-info": "Cum ludio in amplitudine est, mane per tempus hoc antequam res prima creatur.",
-                    "sprite-cap-info": "Quantitas maxima rerum, quae a generatore creatur, et quae vivere possunt uno tempore.  Si hostes, qui a generatore hoc creantur, superantur, generator alios creabit.\n[sub]Pone 0 ut terminum rerum non habeat.[/sub]",
+                    "sprite-cap-info": "Quantitas maxima rerum, quae a generatore creatur, et quae vivere possunt uno tempore.  Si hostes, qui a generatore hoc creantur, superantur, generator alios creat.\n[sub]Pone 0 ut terminum rerum non habeat.[/sub]",
                     "tagging-info": "Unum vel pluria pittacia (quae separantur a diastematibus) quae hoc generatorem adloquuntur in ludo.",
                     "spawning-objects": "Crea res...",
                     "spawn-conditions": "Cum legitur|Cum in scrinio|Cum ludio in amplitudine speciali est",
@@ -1254,13 +1254,13 @@
                     "hp-info": "SP (Sospitatis Puncta) est quantitas vulnerum quae exspectatur pro clade ({0}).",
                     "hp-info-fireball": "Notitus es: 5 sphaerae ignis idem quod 1 SP",
                     "attack-delay-info": "Tempus (in p.m. secundis) inter impetus.",
-                    "attack-cycle-info": "Si impetus nonnulli habilitantur, {0} omnis impetus faciet in sequentia arbitraria. Postea, cyclus novus impetuum incipit, in quo sequentia impetuum iterum recombinatur.\n\n[sub]Cum optione 'crebritudo impetus', impetus aliquotiens occurare potest per cyclum![/sub]",
-                    "bb-attack-phase": "Praetoriae aut partem impetus automatice augmentare, cum SP amittitur, aut in una parte manere potest.",
-                    "bb-attack-frequency": "Impetus frequentior difficultatem ad pugnam addit, et opportunitas proterendi in impetu provolandi brevior est.\n[sub]In impetu provolandi, etsi ad 'Prope ibidem' statuitur, est opportunitas (1 p.m. secunda) duci proterendo.[/sub]",
-                    "bb-movement-speed": "Velocitas maxima agitatus, in pixelibus/p.m. secundam.\n[sub]In parte ultima (modus vellicandi), haec multiplicatur ab 50%[/sub]",
-                    "bb-traction": "Cum frictione maiore, Praetoriae revertere celerior potest, at cum frictione parva, revertit difficiliter.",
+                    "attack-cycle-info": "Si impetus nonnulli habilitantur, {0} omnis impetus facit in sequentia arbitraria. Postea, cyclus novus impetuum incipit, in quo sequentia impetuum iterum recombinatur.\n\n[sub]Cum optione 'crebritudo impetus', impetus aliquotiens occurare potest per cyclum![/sub]",
+                    "bb-attack-phase": "Praetorianus aut partem impetus automatice augmentare, cum SP amittitur, aut in una parte manere potest.",
+                    "bb-attack-frequency": "Impetus frequentiorem difficultatem ad pugnam addit, et opportunitas proterendi in impetu provolandi brevior est.\n[sub]In impetu provolandi, etsi ad 'Prope ibidem' statuitur, est opportunitas (1 p.m. secunda) duci proterendo.[/sub]",
+                    "bb-movement-speed": "Velocitas maxima agitatus, in pixelibus/p.m. secundam.\n[sub]In parte ultima (modus vellicandi), haec multiplicatur per 50%[/sub]",
+                    "bb-traction": "Cum frictione maiore, Praetorianus revertere celerior potest, at cum frictione parva, revertit difficiliter.",
                     "bb-takeoff-strength": "Fortitudo saltandi cum salit in aerem.\n[sub]Notitus es: usui modi alae tantum est.[/sub]",
-                    "bb-wings": "Si alas datur, Praetoriae volare et cernuare ad ludionem potest.\n[sub]Cum 'Muta cum vulneratur' statuitur, Praetoriae a modo terrae ad modum alae (et vice versa) mutat quotienscumque SP amittitur.[/sub]",
+                    "bb-wings": "Si alas datur, Praetorianus volare et cernuare ad ludionem potest.\n[sub]Cum 'Muta cum vulneratur' statuitur, Praetorianus a modo terrae ad modum alae (et vice versa) mutat quotienscumque SP amittitur.[/sub]",
                     "bw-defeat-events": "Cum Caligula superatur, hoc eventum (arbitrarium) automatice evenit.",
                     "bw-movement-speed": "Velocitas agitatus Caligulae cum inter impetus ambulat, in pixelibus/p.m. secundam.",
                     "bw-walking-mode": "Caligula aut manere aut inerrare potest. Optio areae circuitus Caligulam in ponte continere potest, at optio ultima arenae magnae facitur.",
@@ -1326,7 +1326,7 @@
                 "logout": "Exi",
                 "logged-in-as": "Inis ut {0}",
                 "x-levels-on-lss": "{0} specutaculi in Level Share Square",
-                "log-out-confirmation": "Exi vis?",
+                "log-out-confirmation": "Exire vis?",
                 "offline-notice": "Inconexus es, sic adiuncta LSS uti non potes.",
                 "accessibility": "accessibilitas"
             },
@@ -1403,7 +1403,7 @@
                 "volume-reduction": "Detrimentum magnitudinis soni",
                 "play-wind-sfx": "Effectus venti modula",
                 "buildup": "Paulatim muta",
-                "cooldown": "Refrigerium"
+                "cooldown": "Otium"
             },
             "html": {
                 "intensity": "Minuta|Mediana|Maxima",
@@ -1430,15 +1430,15 @@
                 "color-hex": "Color specialis in HEX forma.\n\nExempla:\n[scale=0.75][color=#C8C8C8]C8C8C8 pro cano[/color]\n[color=#F8C0F0]F8C0F0 pro rosee[/color][scale=0.5][/scale]\n\nSuademus ut colorem elector utaris ut numerum HEX optatum invenias.[/scale]",
                 "palette": "Color effectus, qui cosmeticus est.",
                 "two-way-movement": "Particulas permittit ut ad angulum oppositum eant.",
-                "water-check": "Omnis particula effectus pertemptabit utrum in aqua est an non. Si non est in aqua, ea aut vanescet aut ibit alio.",
+                "water-check": "Omnis particula effectus pertemptabit utrum in aqua est an non. Si non est in aqua, ea aut vanescit aut it alio.",
                 "water-check-player": "Effectus differt si ludio in aqua est.",
                 "affected-audio": "Afflecta sonos, musicam, aut utrasque.",
                 "volume-reduction": "Quantitas decibelum a qua magnitudo soni minoratur.",
                 "wind-strength": "Fortitudo venti. Fortitudo fortimior res repellet potenter.",
                 "wind-buildup": "Tempus (in p.m. secundis) quod exspectatur ut ventus fortitudinem fortimamam perveniat.",
                 "wind-duration": "Duratio flandi venti (notitus es: haec tempum immutationis non complectit.)",
-                "wind-cooldown": "Tempus (in p.m. secundis) quod exspectatur ut ventus refrigescat ad 0.",
-                "wind-cycle-delay": "Tempus (in p.m. secundis) in cyclo venti (finis refrigerii - principium immutationi)",
+                "wind-cooldown": "Tempus (in p.m. secundis) quod exspectatur ut ventus cesset ad 0.",
+                "wind-cycle-delay": "Tempus (in p.m. secundis) in cyclo venti (finis otii - principium immutationi)",
                 "wind-repeats": "Quantitas repetitionum cycli venti. Mora inter cyclos definiri potest infra."
             },
             "palettes": {
@@ -1447,7 +1447,7 @@
                 "1_snow": "Nix ordinaria",
                 "2_snow": "Nix ordinaria|Bruma Smaragdina|Frigus Frigidus|Albedo Algida|Refrigescare Rubrum|Hiemps Tenebricosa|Crystallus Citri",
                 "1_sand": "Cataegis harenarum ordinaria|Condimentum Rubrum|Flamen Afarum|Harena Aurea|Ventus Tristis|Cineres Affulentes|Solis occasus|Aura Calida",
-                "2_sand": "Cataegis harenarum ordinaria|Felicitas Flava|Album Nivis|Afflatus Aethon|Procella Paludis|Violaceus Ventus|Memoriae Decolores|Harena Aurorae",
+                "2_sand": "Cataegis harenarum ordinaria|Felicitas Flava|Album Nivalis|Afflatus Aethon|Procella Paludis|Violaceus Ventus|Memoriae Decolores|Harena Aurorae",
                 "1_embers": "Candores ordinarii|Lumen Aurantium|Essentia Amethysti|Sapphirus Sublucens|Spacium Rubrum|Calor Canus|Lux Aurea|Tumultus Toxicus",
                 "2_embers": "Candores ordinarii|Tenebra Atra|Toxicum Purpureum|Substantia Barathri|Atramentum Caeruleum|Ballucae Regales",
                 "1_leaf": "Viridis|Autumnus Ruber|Inaquosum Flavum|Frigus Candidum|Aestas Smaragdina|Folii Veris|Frondes Malvaceae|Pulchritudo Cerasii",
@@ -1475,12 +1475,12 @@
             "level-sync-new": {
                 "enter-link": "Pone coniunctionem spectaculi tui in LSS, cum quo codicem spectaculi synchronizare vis.",
                 "info-label-1": "Hoc adiuncto habilitato, cum spectaculum tuum servas in ludo, id mutabitur automatice in Level Share Square quoque.",
-                "info-label-2": "Cum fabricam aperis, ludus te monebit si codex in situ interretialis novior est. Hoc adiunctum ute cum fabricas in multis computatris!",
+                "info-label-2": "Cum fabricam aperis, ludus te monet si codex in situ interretialis novior est. Hoc adiunctum ute cum fabricas in multis computatris!",
                 "sync-success": "Spectaculum tuum synchronizatur cum perscriptione eo in Level Share Square! Euax!"
             },
             "level-sync-edit": {
                 "sync-select": "Quando synchronizare vis?",
-                "cooldown-notice": "Notitus es: synchronizationes refrigerium (20 p.m. secundae) habet.",
+                "cooldown-notice": "Notitus es: synchronizationes otium (20 p.m. secundae) habet.",
                 "sync-options": "Pausa synchronizationem|Quotienscumque ludus servat|Cum a fabrica exeo",
                 "desync": "Synchronizationem debilita",
                 "cancel-sync": "Synchronizationem interrumpe",
@@ -1490,7 +1490,7 @@
             },
             "level-sync-compare": {
                 "new-ver-on-site": "Versio novior huius spectaculi in Level Share Square est. Synchronizare vis?",
-                "restore-point-notice": "Punctum restutionis locale creabitur si contingat revertere vis.",
+                "restore-point-notice": "Punctum restutionis locale creatur si contingat revertere vis.",
                 "local-version": "Versio localis",
                 "cloud-version": "Versio nubis",
                 "last-edited": "Proxume mutatur",
