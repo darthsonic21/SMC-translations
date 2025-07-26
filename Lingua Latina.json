@@ -2,8 +2,8 @@
     "locale": "Latina",
     "strings": {
         "constants": {
-            "1_map-palettes": "Ordinarius/Terra|Subterraneus (caeruleus)|Arx (canus)|Subaqueanus (viridis)|Caelum (prasinus)|Glacies (aeria)|Vulcanus (ruber)|Domus Phasmatum (purpureus)|Praemium (flavus)|Acta (brunnea)|Mundus Stellaris (caesius)|Silva (fusca)|Navigium Caeli (brunneum-atrum)|Ruina (cana)",
-            "2_map-palettes": "Ordinarius"
+            "1_map-palettes": "Communis/Terra|Subterraneus (caeruleus)|Arx (canus)|Subaqueanus (viridis)|Caelum (prasinus)|Glacies (aeria)|Vulcanus (ruber)|Domus Phasmatum (purpureus)|Praemium (flavus)|Acta (brunnea)|Mundus Stellaris (caesius)|Silva (fusca)|Navigium Caeli (brunneum-atrum)|Ruina (cana)",
+            "2_map-palettes": "Communis"
         },
         "common": {
             "buttons": {
@@ -11,7 +11,7 @@
                 "no": "Minime",
                 "close": "Oblittera",
                 "download": "Importa",
-                "next": "Procede",
+                "next": "Perge",
                 "confirm": "Sanci",
                 "confirm-click": "Pulsa iterum ut sancias",
                 "proceed": "Procede",
@@ -54,7 +54,7 @@
                 "notation": "{0} {1}"
             },
             "words": {
-                "keyboard": "plectrologium",
+                "keyboard": "claviatura",
                 "controller": "moderator ludi",
                 "language": "lingua",
                 "characters": "literulae",
@@ -157,7 +157,7 @@
                 "surface-area": "Area superficiei",
                 "max-tiles": "maxima quantitas tegularum est {0}",
                 "min-tiles": "Minima quantitas est {0}",
-                "current-map-size": "magnitudo scaenae in praesenti",
+                "current-map-size": "magnitudo scaenae nunc",
                 "select-x": "{0} elige",
                 "mode": "Modus",
                 "appearance": "Species",
@@ -211,7 +211,7 @@
             },
             "buttons": {
                 "create-new": "SPECTACULUM NOVUM CREA",
-                "import-code": "CODICEM SPECTACULI IMPORTA",
+                "import-code": "IMPORTA CODICEM SPECTACULI",
                 "compact": "Artus",
                 "production": "Productionis",
                 "create-level": "Fabricemus!",
@@ -227,7 +227,7 @@
             "html": {
                 "level-name-placeholder": "Postea semper hoc mutare potes",
                 "level-size-presets": "Horizontalis (sine plure altitudine)|Horizontalis (cum altitudine)|Verticalis|Metroidvania|Unum scrinium",
-                "import-code-placeholder": "Pone codicem tuum spectaculi, tunc botonem EXPORTA pulsa. "
+                "import-code-placeholder": "Pone codicem tuum spectaculi, tum botonem EXPORTA pulsa. "
             },
             "text": {
                 "gamestyle-notice": "Formam elige! In ludo hoc, omnis forma originem similat. Ergo formae ludi non sunt consociabiles, sic arbitrare de forma quam tu uti vis.",
@@ -251,7 +251,7 @@
                 "time": "TEMPUS"
             },
             "html": {
-                "level-code-placeholder": "Pone codicem spectaculi et LUDE pulsa!"
+                "level-code-placeholder": "Pone codicem spectaculi ac LUDE pulsa!"
             }
         },
         "toolbar": {
@@ -266,7 +266,7 @@
                 "maps": "Scaenae",
                 "settings": "Optiones",
                 "playtest": "Pertempta",
-                "save-quit": "Serva et exi"
+                "save-quit": "Serva exique"
             },
             "sidebar": {
                 "mainBlocks": "Cubi generales",
@@ -277,19 +277,19 @@
                 "poison": "Toxicum",
                 "cryo": "Fluidus frigidus",
                 "electricity": "Electricitas",
-                "conveyors": "[!]Conveyor Belts",
-                "escalators": "[!]Escalators",
+                "conveyors": "Traductores",
+                "escalators": "Scalae ferentes",
                 "spikes": "Aculei et tegulae fatiferae",
                 "climbables": "Res ascendendi",
                 "doors": "Ianuae decorandi",
-                "mainObjects": "Res commiscuae",
+                "mainObjects": "Res vulgares",
                 "powerUps": "Potestates et dracones",
                 "platforms": "Pegmata",
                 "switches": "Epitonia",
                 "goals": "Scopi et puncta media",
                 "advanced": "Tegulae provectae",
                 "envChangers": "Mutator circumiecti",
-                "mainEnemies": "Hostes commiscui",
+                "mainEnemies": "Hostes vulgares",
                 "shellEnemies": "Hostes testudinei",
                 "waterEnemies": "Hostes aquae",
                 "castleEnemies": "Hostes arcis",
@@ -478,7 +478,7 @@
                 "current-gen": "Creat amnem qui res deflat aut desugit",
                 "tag-block": "Cubus qui pittacia habilitat aut debilitat",
                 "music-changer": "Muta, incipe, aut desine musicam scaenae, cum optionibus arbitrariis vanescendi",
-                "cheep-cheeps": "Cora-Cora\n[scale=0.75]Cora-Corae multos agitatus AR (artificiosae rationis) habent. Pone cursorem tuum super illas ut gnoscas![/scale]",
+                "cheep-cheeps": "Cora-Cora\n[scale=0.75]Cora-Corae multos agitatus AR (artificiosae rationis) habent. Pone cursorem tuum super illas ut noveris![/scale]",
                 "more-aquatic-enemies": "Alii hostes aquae",
                 "stretch-tiles": "[scale=0.75]Replica deorsum ut alias tegulas Porriga invenias![/scale]",
                 "artillery-tiles": "Aliae tegulae cognatae\n[scale=0.75]Illae sunt tegulae arbitrariae quae partes rerum superarum imitant.[/scale]",
@@ -542,7 +542,7 @@
                 "checkpoint-flag": "Vexillum puncti medii",
                 "goal-tape": "Chordula scopi",
                 "goal-card": "Charta scopi",
-                "light-bulb": "Lucinaria",
+                "light-bulb": "Lumen",
                 "light-block": "Cubus lucis",
                 "heavy-stone": "Saxum (res)",
                 "weight": "Pondus",
