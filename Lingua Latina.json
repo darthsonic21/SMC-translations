@@ -10,14 +10,14 @@
                 "yes": "Ita",
                 "no": "Minime",
                 "close": "Oblittera",
-                "download": "Importa",
+                "download": "Deduc",
                 "next": "Perge",
                 "confirm": "Approba",
                 "confirm-click": "Pulsa iterum ut approbes",
                 "proceed": "Procede",
                 "cancel": "Retexe",
                 "play": "Lude",
-                "load": "Exporta",
+                "load": "Importa",
                 "go-back": "Redi",
                 "delete": "Dele",
                 "rename": "Transnomina",
@@ -211,7 +211,7 @@
             },
             "buttons": {
                 "create-new": "CREA SPECTACULUM NOVUM",
-                "import-code": "DEDUC CODICEM SPECTACULI",
+                "import-code": "IMPORTA CODICEM SPECTACULI",
                 "compact": "Artus",
                 "production": "Productionis",
                 "create-level": "Fabricemus!",
@@ -227,7 +227,7 @@
             "html": {
                 "level-name-placeholder": "Postea semper hoc mutare potes",
                 "level-size-presets": "Horizontalis (sine plure altitudine)|Horizontalis (cum altitudine)|Verticalis|Metroidvania|Unum scrinium",
-                "import-code-placeholder": "Pone codicem tuum spectaculi, tum botonem EXPORTA pulsa. "
+                "import-code-placeholder": "Pone codicem tuum spectaculi, tum botonem IMPORTA pulsa. "
             },
             "text": {
                 "gamestyle-notice": "Elige formam! In ludo hoc, quaeque forma originem suam similat. Formae ludi igitur non sunt consociabiles, arbitrare de forma quam tu uti vis.",
