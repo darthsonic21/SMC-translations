@@ -418,7 +418,7 @@
                 "edit-sync-settings": "Optiones synchronizationis muta",
                 "prompt-backup-notice": "[scale=0.75]Note omn. ... ut tutum importes[/scale]\n[scale=0.5][color=#CCCCCC](Suadetur in SMC interretialis)[/color][/scale]",
                 "create-restore-point": "[scale=0.75]Manibus tuis fac\npunctum restutionis[/scale]",
-                "view-restore-points": "[scale=0.75]Vide/Utere\npunctum restutionis[/scale]",
+                "view-restore-points": "[scale=0.75]Vide/Utere\npuncto restutionis[/scale]",
                 "download-level": "[scale=0.75]Spectaculum hoc deduc[/scale]"
             },
             "tooltips": {
@@ -1092,8 +1092,8 @@
                 "text": {
                     "tagging-notice": "Cum debilitatur, generator habilitari potest vocando pittacio eius (e.g. per Tegulam Pittacii).",
                     "sinewave-tool": "Angulus et amplitudo sinus statui possunt trahendo instrumento \\[---].",
-                    "lock-unlock-direction": "Utere botonem sagittae supra ut directionem aspicientem offirmas/disseres.",
-                    "quick-and-precise-angle": "Utere botonem sinistros ut angulum celeriter constituas, aut utere agrum scriptionis ut angulum certium constituas."
+                    "lock-unlock-direction": "Utere botone sagittae supra ut directionem aspicientem offirmas/disseres.",
+                    "quick-and-precise-angle": "Utere botone sinistros ut angulum celeriter constituas, aut utere agrum scriptionis ut angulum certium constituas."
                 }
             },
             "startpoint": {
