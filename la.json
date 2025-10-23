@@ -2,7 +2,7 @@
     "locale": "la",
     "strings": {
         "constants": {
-            "1_map-palettes": "Vulgaris/Campus|Subterraneus (caeruleus)|Arx (canus)|Subaqueanus (viridis)|Caelum (prasinus)|Glacies (aeria)|Vulcanus (ruber)|Domus Phasmatum (purpureus)|Praemium (flavus)|Acta (brunnea)|Mundus Stellaris (caesius)|Silva (fusca)|Navigium Caeli (brunneum-atrum)|Ruina (cana)",
+            "1_map-palettes": "Vulgaris/Campus|Subterraneus (caeruleus)|Arx (canus)|Subaqueanus (viridis)|Caelum (prasinus)|Glacies (aeria)|Vulcanus (ruber)|Domus Phasmatum (purpureus)|Praemium (flavus)|Acta (brunnea)|Mundus Stellaris (caesius)|Silva (fusca)|Navigium Caeli (brunneum-atrum)|Ruina (cana)|Savanna (fulva)",
             "2_map-palettes": "Vulgaris"
         },
         "common": {
@@ -58,6 +58,8 @@
                 "controller": "moderator ludi",
                 "language": "lingua",
                 "characters": "litterae",
+                "text": "scriptio",
+                "image": "imago",
                 "music": "musica",
                 "remix": "remisce",
                 "decibels": "decibeles",
@@ -72,6 +74,8 @@
                 "stop": "desine",
                 "loop": "itera",
                 "silent": "silens",
+                "reverse": "retrovers.",
+                "dynamic": "dynamic.",
                 "name": "nomen",
                 "wait": "dege",
                 "main": "principium",
@@ -81,11 +85,16 @@
                 "right": "dextrorsus",
                 "up": "sursum",
                 "down": "deorsum",
+                "top": "summum",
+                "bottom": "solum",
+                "out": "foris",
+                "in": "intra",
                 "width": "latitudo",
                 "height": "altitudo",
                 "opacity": "opacitas",
                 "stationary": "statari.",
                 "optional": "facultativ.",
+                "search": "Quaere",
                 "layers": {
                     "one": "stratum",
                     "other": "strata"
@@ -101,6 +110,10 @@
                 "generators": {
                     "one": "generator",
                     "other": "generatores"
+                },
+                "liquids": {
+                    "one": "Liquor",
+                    "other": "Liquores"
                 },
                 "objects": {
                     "one": "res",
@@ -144,6 +157,7 @@
                 "press-x-again-to-confirm": "Pulsa {0} iterum ut sancias",
                 "press-any-key": "Pulsa quemquam botonem",
                 "nothing-to-see": "Nihil videndum!",
+                "try-another-search-query": "[!]Try another seach query.",
                 "x-settings": "{0} optiones",
                 "x-tags": "{0} pittacia",
                 "active-on-start": "Activus in principio",
@@ -171,7 +185,12 @@
                 "duration": "Duratio",
                 "repeats": "Iterans",
                 "delay": "Mora",
-                "other": "Al."
+                "fade-time": "[!]Fade time",
+                "transition-time": "[!]Transition time",
+                "other": "Al.",
+                "misc": "[!]Miscellaneous",
+                "search-results": "[!]Search results",
+                "name-already-exists": "[!]Name already exists"
             },
             "menu-options": {
                 "default": "Defalta",
@@ -186,6 +205,7 @@
                 "standard": "Ordinari.",
                 "more-buttons": "Alii botones",
                 "reset-to-default": "Redi ad defaltam",
+                "dont-change": "[!]Don't change",
                 "unapplicable": "Indign."
             }
         },
@@ -275,8 +295,8 @@
                 "objPipes": "Tubi porrigentes",
                 "water": "Aqua",
                 "lava": "Lava",
-                "poison": "Fluidus toxicus",
-                "cryo": "Fluidus frigidus",
+                "poison": "Liquor toxicus",
+                "cryo": "Liquor frigidus",
                 "electricity": "Electricitas",
                 "conveyors": "Traductores",
                 "escalators": "Scalae ferentes",
@@ -357,7 +377,7 @@
                 "v-autoscroll": "Verticale\nautoreplicandi",
                 "bg-color-header": "Colorem muri elige",
                 "pick-color": "Elige\ncolorem:",
-                "custom-rgb": "Specialis\nRGB:",
+                "custom-hex": "Specialis HEX:",
                 "bg-gradient-header": "aut colorem gradientem!",
                 "pick-gradient": "Elige\ncolorem gradientem",
                 "offset-y": "Compensa Y[scale=0.5]\nPixeles ante principium coloris gradientis[/scale]",
@@ -440,8 +460,8 @@
                 "map-screen-size": "Amplitudinem scrinii cuiusque scaenae mutare potes.\n[sub]Amplitudo minor scrinii terminum atrum habebit. Res quae sub his sunt, extrariae sunt[/sub]",
                 "sync-rotating-sprites": "Cum habilitatur, res quae circum punctum centrale rotant (e.g. {0} aut {1}) semper se movebunt, etiamsi extrariae e scrinio sunt.",
                 "disable-offscreen-indicators": "Habilita hanc optionem ut indicatores extrarii numquam se ostendant, etiamsi ludio eos habilitat.\n[sub]Oportet uti hanc cum opportuna est, ut accessibilitas affirmata sit.[/sub]",
-                "change-bg": "Muta\nmurum",
-                "change-bg-palette": "Muta\ncolores muri",
+                "edit-bg": "Muta murum",
+                "edit-bg-palette": "Muta colores muri",
                 "bg-loop-notice": "Plurimi muri tantum iterat horizontaliter, sed sunt muri qui iterare verticaliter possunt (e.g. interior arcis). Optiones has adaptare potes hic.",
                 "playtest-music": "Pertempta musicam",
                 "text-formatting": "[scale=0.8]Scriptiones in BBCodes involvere potes ut species earum mutes.\n\n[color=#58A8F0][[][/]color=#cc0000][/color][color=#cc0000]Color scriptionis[/color][color=#58A8F0][[][/]/color][/color]\n[color=#58A8F0][[][/]background=#ff00ff][/color][background=#ff00ff]color muri[/background][color=#58A8F0][[][/]/background][/color]\n\n[color=#58A8F0][[][/]scale=0.5][/color][scale=0.5]Magnitudem scriptionis muta[/scale][color=#58A8F0][[][/]/scale][/color]\n[/offsety][/scale]",
@@ -450,14 +470,12 @@
                 "inactive-layer-opacity": "Cum stratum tegularum mutas, tegulae aliae translucidae erunt. Ponere 100 hoc debilitabit, ponere 0 strata occultabit.",
                 "trail-tool-frame-count": "Cum spectaculum pertemptas, Marius vestigium visibilem relinquere potest. Hoc est quantitas imaginum quas Marius relinquit.\nQualitas vestigii in talea instrumentorum est, in solo sinistro. (cum pertemptas).",
                 "last-sync": "Synchronizatio novissima",
-                "backup-interval-notice": "Notitus es: Hoc non est in tempore reali, sed in tempore quod transit in fabrica."
+                "backup-interval-notice": "Nota bene: Hoc non est in tempore reali, sed in tempore quod transit in fabrica."
             },
             "html": {
                 "destination-name-example": "E.g. 'a cavo'",
                 "entryway-name-example": "E.g. 'in arcem'",
                 "darkness-values": "Debilis|25% (Tenebrae ambientes)|50%|75%|100% (Ablepsia)",
-                "1_water-modes": "Debilis|Semper (tegulas aquarias non eget)|Tecta aqua (antiqua)|Tecta aqua (moderna)",
-                "2_water-modes": "Debilis|Semper (tegulas aquarias non eget)|Tecta aqua",
                 "screen-size-presets": "Defalta|Legatum|SNES|GBA",
                 "bg-loop-methods": "Debilis|Itera horizontaliter|Itera verticaliter|Itera omnes|Noli iterare|Tantum horizontaliter|Tantum verticaliter",
                 "bg-scroll-speed-h": "←← CELERRIMA!|← Celeris|← Mediana|← Tarda|← Tardissima|Debilis|→ Tardissima|→ Tarda|→ Mediana|→ Celeris|→→ CELERRIMA!",
@@ -471,8 +489,8 @@
                 "obj-pipe": "[scale=0.75]Tubi in hac pagina quasi [/scale]res[scale=0.75] agunt (non [/scale]tegulae[scale=0.75]), et in tegulas rerum eunt. Hi tubi porrigere et mutari possunt ut porrigant et attenuent per tempus.[/scale]",
                 "pipe-sprite-spawner": "[scale=0.75]Hic generator invisibilis rerum est. Si generatorem tubi creare vis, eum in tubum trahe! Primum eum statue.[/scale]",
                 "electric-tiles": "Eae sunt tegulae electricae quae plurimas creaturas animantes vulnerare possunt. Res metallici, ut Marius Metallicus, electricitatem temporaliter conducere possunt!",
-                "escalators": "Notitus es: Quaeque scalae e tegulis clivosis constare debent, et tegulas motrori in utrisque finibus habere debent ut transitus agri deceat.",
-                "scenery-doors": "Notitus es: Hae ianuae decorandi sunt. Si ianuas fungentes petis, i ad tabulam ITINERA pulsando icone TUBI infra.",
+                "escalators": "Nota bene: Quaeque scalae e tegulis clivosis constare debent, et tegulas motrori in utrisque finibus habere debent ut transitus agri deceat.",
+                "scenery-doors": "Nota bene: Hae ianuae decorandi sunt. Si ianuas fungentes petis, i ad tabulam ITINERA pulsando icone TUBI infra.",
                 "scenery-doors-short": "Decorationes ianuarum",
                 "advanced-platform": "Pegma provectum\n[scale=0.75]Haec pegmata multimodis mutari possunt! Tegulae quae iuxta ea sunt conversationem eorum afficire possunt.[/scale]",
                 "persistent-area-tile": "Res creatas in una area tenet",
@@ -483,6 +501,9 @@
                 "invis-sprite-spawner": "Generator invisibilis rerum, qui in tubos trahi potest",
                 "current-gen": "Creat amnem qui res repellit aut sugit",
                 "tag-block": "Cubus qui pittacia habilitat aut debilitat",
+                "background-changer": "Crea, nova, aut remove unus vel plus muri in tempore reali.",
+                "background-color-changer": "Nova colorem muri, ibidem aut per tempus.",
+                "background-gradient-changer": "Nova aut statue colores gradientes",
                 "music-changer": "Muta, incipe, aut desine musicam scaenae, cum optionibus facultativis vanescendi",
                 "cheep-cheeps": "Cora Cora\n[scale=0.75]Cora Corae multos motus artificiosae rationis habent. Pone cursorem tuum super illas ut noveris![/scale]",
                 "more-aquatic-enemies": "Alii hostes aquarii",
@@ -526,6 +547,7 @@
                 "red-pow-block": "Cubus POW ruber",
                 "arcade-pow-block": "Cubus POW Arcade",
                 "standard-coin": "Nummus ordinarius",
+                "hidden-coin": "Nummus occultus",
                 "goal-orb": "Sphaera victoriae",
                 "yoshi-egg": "Ovum draconis",
                 "springboard": "Trampolinum",
@@ -590,7 +612,7 @@
                 "bubble": "Bulla",
                 "parachute": "Decidiculum",
                 "moving-coin": "Nummus mobilis",
-                "hidden-coin": "Nummus occultus",
+                "treasure-chest": "Thesaurus",
                 "red-coin-ring": "Anulus sestertii",
                 "red-coin": "Sestertius",
                 "flame-pumpkin": "Cucurbita ignis",
@@ -616,6 +638,7 @@
                 "soccer-ball": "Pedifollium",
                 "ring": "Anulus",
                 "kirby-coin": "Kirby nummus",
+                "message-sign": "Signum nuntii",
                 "goomba": "Gumba",
                 "galoomba": "Galumba",
                 "goombrat": "Gumbuer",
@@ -890,6 +913,10 @@
                 "bully": "Vexator",
                 "chill-bully": "Nixator",
                 "snailicorn": "Cochleacornus",
+                "grrrol": "Volutator",
+                "mega-grrrol": "Magnus Volutator",
+                "big-steely": "Saxum Sisyphi",
+                "hoppo": "Hippoglobamus",
                 "boom-boom": "Praetorianus",
                 "bowser": "Caligula",
                 "king-boo": "Imperator Phasmatum",
@@ -939,6 +966,9 @@
                 "small-one-way-wall-down": "Murus Parvus Unae Directionis (Deorsum)",
                 "small-one-way-wall-left": "Murus Parvus Unae Directionis (Sinistrorsus)",
                 "mount-blockade": "Obstructio draconum",
+                "background-changer": "Mutator muri",
+                "background-color-changer": "Mutator coloris muri",
+                "background-gradient-changer": "Mutator colorum gradientium",
                 "music-changer": "Mutator musicae"
             },
             "tile-tooltips": {
@@ -1016,7 +1046,8 @@
                 "coForsakenCity": "Urbs Relicta[s]Transitus/Celeste",
                 "coNorfair": "Norfair[s]Transitus/Metroid",
                 "coButterBuilding": "Aedificium Butyri[s]Transitus/Kirby",
-                "boneyard": "Terra ossea"
+                "boneyard": "Terra ossea",
+                "savanna": "Savanna"
             }
         },
         "customizers": {
@@ -1087,7 +1118,8 @@
                     "linear": "Linearis",
                     "linear-dynamic": "Linearis (dynamicus)",
                     "chase-player": "Ludionem subseque",
-                    "evade-player": "Evade ludione"
+                    "evade-player": "Evade ludione",
+                    "music-changing-options": "Noli mutare musicam|Utere defalta scaenae|Muta musicam in:"
                 },
                 "text": {
                     "tagging-notice": "Cum debilitatur, generator habilitari potest vocando pittacio eius (e.g. per Tegulam Pittacii).",
@@ -1139,7 +1171,7 @@
                 },
                 "tooltips": {
                     "music-to-pick": "Elige musicam quam audire vis. Musica etiam manere potest, sine mutatione.",
-                    "cm-url-info": "Optione musicae specialis electa, pone coniunctionem originis musicae.\n\n[sub]Notitus es: Ad plicam musicae conectere debet, non ad paginam ubi est.[/sub]"
+                    "cm-url-info": "Optione musicae specialis electa, pone coniunctionem originis musicae.\n\n[sub]Nota bene: Ad plicam musicae conectere debet, non ad paginam ubi est.[/sub]"
                 },
                 "html": {
                     "misc-music-options": "Noli mutare|Defalta scaenae|Silentium|Specialis"
@@ -1221,7 +1253,8 @@
                     "tagging-info": "Pittacia (quae separantur a spatiis) quae hoc generatorem alloquuntur in ludo.",
                     "spawning-objects": "Crea res...",
                     "spawn-conditions": "Cum apparet|Cum in scrinio|Cum ludio in amplitudine speciali est",
-                    "spawn-conditions-info": "Conditio quae exspectatur ut res novae creentur. P-Tegulae etiam operabitur in optione 1."
+                    "spawn-conditions-info": "Conditio quae exspectatur ut res novae creentur. P-Tegulae etiam operabitur in optione 1.",
+                    "spawn-animation": "Animatio creandi"
                 },
                 "goal-and-checkpoints": {
                     "rightwards-pole-layer": "Tegula dextri temonis",
@@ -1335,6 +1368,7 @@
                 },
                 "npc": {
                     "skins": "Species",
+                    "sign-skins": "Ligneum|Ligneum (Pendens)|Metallicum|Metallicum (Pendens)|Haerens epistolium",
                     "pop-up-msg": "Nuntium ostenditur",
                     "keep-this-short": "(Scribe breve hic!)",
                     "keep-this-short-too": "(Etiam scribe breve hic!)",
@@ -1350,14 +1384,29 @@
                     "behavior-info": "Conversatio histrionis, motus et/aut animationis.\n[sub]Quisque histrio optiones differentes conversationis habere potest, sed nonnulli otiosus manere possunt.[/sub]",
                     "dialogue-placeholder": "Quid histrio dicit?",
                     "stay-idle": "Otiosus",
+                    "stay-idle-face-front": "Mane otiosum (facies prae est)",
                     "hop-repeatedly": "Saltans crebriter",
                     "peace-after-dialogue": "Salutans post diverbium",
+                    "twirl-after-dialogue": "[!]Twirl after dialogue",
                     "wander-around": "Vagans",
                     "wander-walk-swim": "Vagans (ambulans/natans)",
+                    "chuckster-left": "[!]Chuckster (left)",
+                    "chuckster-right": "[!]Chuckster (right)",
+                    "chuckster-up": "[!]Chuckster (up)",
+                    "chuckster-patrol": "[!]Chuckster (patrol)",
                     "sit-face-left": "Sedens (sinistrorsus)",
                     "sit-face-right": "Sedens (dextrorsus)",
                     "float-in-place": "Fluitans (statarius)",
-                    "glad": "Laetus"
+                    "glad": "Laetus",
+                    "frown": "[!]Frown",
+                    "upset": "[!]Upset",
+                    "dance": "[!]Dance",
+                    "run-away": "[!]Run away"
+                },
+                "message-sign": {
+                    "content-type": "[!]Content type",
+                    "sign-content": "[!]Sign content",
+                    "dialogue-placeholder": "[!]What's written on this sign?"
                 },
                 "arrow-cloud": {
                     "mode-info": "Motus nubis sagittariae. Tres posteriores optiones sunt incommodae optioni statariae",
@@ -1424,14 +1473,14 @@
                 },
                 "tooltips": {
                     "hp-info": "SP (Sospitatis Puncta) est quantitas vulnerum quae exspectata ut {0} vincatur.",
-                    "hp-info-fireball": "Notitus es: 5 sphaerae ignis idem quod 1 SP sunt",
+                    "hp-info-fireball": "Nota bene: 5 sphaerae ignis idem quod 1 SP sunt",
                     "attack-delay-info": "Tempus (in p.m. secundis) inter impetus.",
                     "attack-cycle-info": "Si aliquot impetus habilitantur, {0} quemque impetus facit in sequentia fortuita. Postea, cyclus novus impetuum incipit, in quo sequentia impetuum iterum fortuito restituitur.\n\n[sub]Cum optione 'crebritudo impetus', impetus aliquotiens fieri possunt per cyclum![/sub]",
                     "bb-attack-phase": "Praetorianus aut partem impetus automatice augmere, cum SP amittitur, aut in una parte manere potest.",
                     "bb-attack-frequency": "Impetus frequentiores difficultatem pugna addere potest, et opportunitas conculcandi in impetu provolandi brevior est.\n[sub]In impetu provolandi, etsi ad 'Prope statim' statuitur, est opportunitas (1 p.m. secunda) ut ludio ducem conculcet.[/sub]",
                     "bb-movement-speed": "Velocitas maxima motus, in pixelibus/p.m. secundam.\n[sub]In parte ultima (modus pavoris), haec multiplicatur per 50%[/sub]",
                     "bb-traction": "Cum frictione maiore, Praetorianus revertere celerior potest, at cum frictione parva, revertit difficiliter.",
-                    "bb-takeoff-strength": "Fortitudo saltandi cum salit in aere.\n[sub]Notitus es: usus modi alae tantum est.[/sub]",
+                    "bb-takeoff-strength": "Fortitudo saltandi cum salit in aere.\n[sub]Nota bene: usus modi alae tantum est.[/sub]",
                     "bb-wings": "Si alas datur, Praetorianus volare et cernuare ad ludionem potest.\n[sub]Cum 'Muta cum vulneratur' statuitur, Praetorianus a modo terrae ad modum alae (et vice versa) mutat quotienscumque SP amittitur.[/sub]",
                     "bw-defeat-events": "Cum Caligula vincitur, hoc eventum (facultativum) automatice perfungitur.",
                     "bw-movement-speed": "Velocitas motus Caligulae cum inter impetus ambulat, in pixelibus/p.m. secundam.",
@@ -1469,6 +1518,18 @@
                     "disguised-enemy": "Hostis apparere potest quasi Caligula est! Simulatio eius revelatur cum vincitur.",
                     "intro-anim-unavailable": "Animationes introductionis ducis in hac forma ludi absentes sunt."
                 }
+            },
+            "env-changers": {
+                "one-time-usage-info": "[!]When the player gets in range, the changer will perform its effects, then deload (until the map is re-visited).",
+                "transition-method": "[!]Transition method",
+                "transition-options": "[!]Instant|Cross-fade|Queued fade",
+                "ignored-bg-layer-notice-1": "[!]This layer is currently unaffected.",
+                "ignored-bg-layer-notice-2": "[!]Toggle '{0}' to set up the new {1}!",
+                "update-the-bg": "[!]Update the {0}",
+                "bg-transition-data-notice": "[!](Transition data applies to all background layers)",
+                "keep-current-image": "[!]Keep current image",
+                "reverse-color-info": "[!]Makes the color reverse back to the color prior before the transition started.",
+                "dynamic-music-transition-info": "[!]If enabled, the new music will start at the same point in time as were the current song is."
             },
             "mapsnap": {
                 "info": "Instrumentum MapSnap - Optiones subtilitatis",
@@ -1535,7 +1596,7 @@
                 "graphics-settings": "Optiones graphicae",
                 "account-settings": "Optiones inscriptionis LSS",
                 "accessibility-options": "Optiones accessibilitatis",
-                "frame-skip": "Neglege imagos cum celeritas ludi est tarda ut tardescendum prohibeat.\n[scale=0.75][color=#CCCCCC]Notitus es: in celeritate tardissima, problemae collisionis fieri possunt. Sine neglegendo imaginum, ludo tardescet sub 60 FPS.[/color][/scale=0.75]",
+                "frame-skip": "Neglege imagos cum celeritas ludi est tarda ut tardescendum prohibeat.\n[scale=0.75][color=#CCCCCC]Nota bene: in celeritate tardissima, problemae collisionis fieri possunt. Sine neglegendo imaginum, ludo tardescet sub 60 FPS.[/color][/scale=0.75]",
                 "reduced-particles": "Compelle terminum severiorem particulis ut tardescere minoretur."
             }
         },
@@ -1563,7 +1624,20 @@
                 "color-f": "Operimentum coloris",
                 "vol-f": "Detrimentum magnitudinis soni",
                 "muffle-f": "Sonus obvolutus",
-                "wind-g": "Generator venti"
+                "wind-g": "Generator venti",
+                "Water-l": "[!]Water",
+                "OWater-l": "[!]Ocean Water (Classic)",
+                "MWater-l": "[!]Ocean Water (Modern)",
+                "DBWater-l": "[!]Dark Blue Water",
+                "CWater-l": "[!]Cave Water",
+                "RWater-l": "[!]Retro Water",
+                "Lava-l": "[!]Lava",
+                "CLava-l": "[!]Cave Lava",
+                "RLava-l": "[!]Retro Lava",
+                "Poison-l": "[!]Poison",
+                "RPoison-l": "[!]Retro Poison",
+                "Cryo-l": "[!]Cryo",
+                "RCryo-l": "[!]Retro Cryo"
             },
             "properties": {
                 "intensity": "Intensitas",
@@ -1618,7 +1692,7 @@
                 "volume-reduction": "Quantitas decibelum a qua magnitudo soni minoratur.",
                 "wind-strength": "Fortitudo venti. Fortitudo fortior res repellet potentius.",
                 "wind-buildup": "Tempus (in p.m. secundis) quod transit ut ventus fortitudinem maximam perveniat.",
-                "wind-duration": "Duratio spirantis venti (notitus es: haec tempus immutationis non continet.)",
+                "wind-duration": "Duratio spirantis venti (nota bene: haec tempus immutationis non continet.)",
                 "wind-cooldown": "Tempus (in p.m. secundis) quod transit ut ventus cesset ad 0.",
                 "wind-cycle-delay": "Tempus (in p.m. secundis) in cyclo venti (finis otii - principium immutationi)",
                 "wind-repeats": "Quantitas repetitionum cycli venti. Mora inter cyclos statui potest infra."
@@ -1662,7 +1736,7 @@
             },
             "level-sync-edit": {
                 "sync-select": "Quando synchronizare vis?",
-                "cooldown-notice": "Notitus es: synchronizationes otium (20 p.m. secundae) habet.",
+                "cooldown-notice": "Nota bene: synchronizationes otium (20 p.m. secundae) habet.",
                 "sync-options": "Pausa synchronizationem|Quotienscumque ludus se servat|Cum a fabrica exeo",
                 "desync": "Synchronizationem debilita",
                 "cancel-sync": "Synchronizationem interrumpe",
@@ -1720,6 +1794,32 @@
                 "obj-digging-chuck": "Aurelii fodientes effodere possunt petras, meteora, et pilas nivales. Noli ponere hanc rem in aut prope clivos, ea enim modo terrae planae deformatur.",
                 "obj-whistling-chuck": "Aurelii insibilantes excitare possunt hostes dormientes et invocare res e cavernis talpae cubisque rotantibus. Etiam pittacia habilitare possunt!"
             },
+            "image-manager": {
+                "bg-selector": "[!]Background selector",
+                "manage-images": "[!]Manage images",
+                "remove-bg": "[!]Remove background",
+                "add-image": "[!]Add image",
+                "edit-image": "[!]Edit image",
+                "my-images": "[!]My images",
+                "custom-image-manager-info": "[!]You can add custom images here, for use in custom backgrounds & message signs.\nAfter creating an image, you can select them in the prior tab.",
+                "image-info-cbg": "[!]Adding an image for a custom background?\n{0}* The target dimensions in pixels are {1}512 x 432{2}\n* Current map screen size in pixels: {1}{3} {2}{4}",
+                "image-info-sign": "[!]Adding an image for a message sign?\n{0}* The image will adapt to the message box size automatically (border size: 8 pixels).{1}",
+                "image-info-webm": "[!]Notes regarding animated images:\n{0}* Images need to be in webm format.\n* Due to technical limitations, these images cannot be scaled automatically.{1}",
+                "image-name": "[!]Image name",
+                "image-name-example": "[!]E.g. 'Striped Hills'",
+                "external-image-url": "[!]External image URL",
+                "invalid-image-url": "[!]Invalid image URL",
+                "update-image-notice": "[!]In order for all custom images to update, the level has to reload. Do you want to reload now?",
+                "delete-image-notice": "[!]Warning: deleting a custom image will also remove any backgrounds in the level that use it.",
+                "no-custom-images-notice": "[!]When you add custom images, you'll be able to pick them here.",
+                "hills": "[!]Hills & Mountains",
+                "caves": "[!]Caves",
+                "skies": "[!]Clouds & Skies",
+                "foliage": "[!]Forests & Foliage",
+                "aquatic": "[!]Aquatic",
+                "castles": "[!]Castles & Fortresses",
+                "ghostly": "[!]Ghostly"
+            },
             "music-manager": {
                 "music-selector": "Elige musicam",
                 "manage-custom-music": "Administra musicam specialem",
@@ -1763,7 +1863,7 @@
                 "add-custom-music": "Musicam specialem adde",
                 "custom-music-tab-header": "Hic, addere et administrare musicam specialem huic spectaculo. Musicam specialem eligi potest in pagina priori.",
                 "custom-music-tab-help": "Nomen musicae tuae agnitioni tantum est. Punctum iterandi est tempus (in p.m. secundis) in quo musica tua remodulatur. Etiam magnitudinem soni musicae tuae adaptare potes.",
-                "custom-music-delete-prompt": "Hunc pulsa ut hanc musicam deleas.\n[scale=0.5][color=#CCCCCC]Notitus es: musica a scaenis horologiisque etiam delebitur.[/color][/scale]",
+                "custom-music-delete-prompt": "Hunc pulsa ut hanc musicam deleas.\n[scale=0.5][color=#CCCCCC]Nota bene: musica a scaenis horologiisque etiam delebitur.[/color][/scale]",
                 "unnamed-music": "Musica sine nomine",
                 "insert-url": "Pulsa ut coniunctionem originis ponas",
                 "source-url": "Coniunctio ad originem musicae extrariae"
@@ -1782,7 +1882,8 @@
                 "level-restored-prev-ver": "Spectaculum restitutum est ad versionem priorem!",
                 "not-your-level": "Hic spectaculum tuum non est.",
                 "level-not-found": "Hic spectaculum inveniri non potest.",
-                "visit-level-list": "Visne visitare indicem spectaculorum?"
+                "visit-level-list": "Visne visitare indicem spectaculorum?",
+                "saving-level-and-reloading": "Spectaculum seravtur et legitur..."
             }
         }
     }
