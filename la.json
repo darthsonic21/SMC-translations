@@ -251,13 +251,13 @@
                 "import-code-placeholder": "Pone codicem tuum spectaculi, tum botonem IMPORTA pulsa. "
             },
             "text": {
-                "gamestyle-notice": "Elige formam! In ludo hoc, quaeque forma originem suam similat. Formae ludi igitur non sunt consociabiles, arbitrare de forma quam tu uti vis.",
+                "gamestyle-notice": "Elige formam! In ludo hoc, quaeque forma originem suam similat. Formae ludi igitur non sunt consociabiles, arbitrare de forma qua tu uti vis.",
                 "theme-notice": "Nunc elige thema et nomen spectaculi tui!\nPostea haec mutare potes. Thema in fabrica mutari potest.",
                 "cloud-backup-need-login": "In Level Share Square non iniris. Cum inscriptione, tutum nubis habilitare potes spectaculo tuo.",
                 "delete-warning": "Visne hoc spectaculum delere?\nSi contingat ut hoc ludere vel mutare voles postea, primum serva codicem spectaculi in computatro tuo.",
                 "code-notice": "Hunc codicem spectaculi ad alios ludiones partire potes! Et oportet servare codices tuto.",
-                "compact-notice": "Codices arti habet solas informationes quae necessariae sunt ut spectaculum tuum faciat, sine informationibus quae servatae sunt factoribus spectaculi.",
-                "production-notice": "Codex productionis servat informationes quae est adjutabilis dum spectaculum facis, e.g. res in talea dilectorum.",
+                "compact-notice": "Codices arti habet solam informationem quae necessaria est ut spectaculum tuum faciat, sine informatione quae servata est factoribus spectaculi.",
+                "production-notice": "Codex productionis servat informationem quae est adjutabilis dum spectaculum facis, e.g. res in talea dilectorum.",
                 "import-code-notice": "Pone codicem spectaculi, spectaculum in ludo servabitur. Oportet te saepe facere tutum spectaculi tui servando codice in computatro tuo et/aut in LSS.",
                 "first-paste-code": "Primum codicem spectaculi tuum pone debes.",
                 "unrecognized-code": "Hic codex spectaculi legi non potest.",
@@ -331,7 +331,7 @@
                 "bgc-settings": "Colorem muri muta",
                 "music-settings": "Musicam muta",
                 "level-desc": "Expositionem spectaculi muta",
-                "level-stats": "Informationes et status spectaculi",
+                "level-stats": "Informatio et status spectaculi",
                 "toolbar-settings": "Optiones taleae instrumentorum",
                 "backup-settings": "Optiones autoservandi et tuti"
             },
@@ -514,7 +514,7 @@
                 "chucks": "Aurelii multos modos artificiosae rationis habet, e.g. ludionem subsequens, projectiles iaciens, pittacia habilitans quoque!",
                 "numeric-layer-name-error": "Nomina strati modo numeros habere non possunt.",
                 "duplicate-layer-name-error": "Eheu! Nomina duplicata strati habere non potes.",
-                "view-map-code": "Ecce codex scaenae: informationes omnes de scaena tua habet. Tu codicem hunc uti potes ut exemplarem identicum spectaculo alio addas, vel ut scaenam duplicatam huic spectaculo crees.",
+                "view-map-code": "Ecce codex scaenae: informationem omnem de scaena tua habet. Tu codice hoc uti potes ut exemplarem identicum spectaculo alio addas, vel ut scaenam duplicatam huic spectaculo crees.",
                 "import-map-code": "Pone codicem scaenae. Codices spectaculorum acquiri potest pulsanda icone PARTI in charta scaenae."
             },
             "sprite-tooltips": {
@@ -1268,7 +1268,7 @@
                     "flagpole-skip-notice": "Prohibe automatice saltandum ludionis, ne super temonem saltet, creando obstructione invisibili supra (tam alte quam 15 cubi).",
                     "rightwards-pole-layering": "Stratum temonis dextri, quod saepe super ludionem et res alias est.\n[sub]Stratum adaptare potes propter decorationes.[/sub]",
                     "extend-hitbox-upwards-info": "Cum ludio super taeniam victoriae saltat (ad 15 tegulas), scopus etiam habilitatur.\n[sub]Tegulae, quae super taeniam est, hoc prohibere possunt.[/sub]",
-                    "player-respawn-points-info": "Destinatum puncti medii uti potes velut punctum recreandi est, sed etiam destinationem uti potes.\n[sub]Res posterior est utilis abstantiae longae aut recreando ludionis in scaena alia.[/sub]",
+                    "player-respawn-points-info": "Puncto destinato puncti medii uti potes ut punctum recreandi, sed etiam destinatione uti potes.\n[sub]Res posterior est utilis abstantiae longae aut recreando ludionis in scaena alia.[/sub]",
                     "respawning-map": "Scaena in qua ludio recreabitur post mortem.",
                     "respawning-destination": "Destinatio in scaena electa.",
                     "player-respawn-points": "Utere suo puncto recreandi|Utere destinatione velut punctum recreandi est"
@@ -1463,7 +1463,7 @@
                     "chase-stats": "Status venandi",
                     "jumping-stats": "Status saltandi",
                     "environmental-blending": "Admistio circumiecto",
-                    "attack-info": "Informationes impetus",
+                    "attack-info": "Informatio impetus",
                     "browse-attacks": "Index impetuum",
                     "set-animation": "Statue animationem",
                     "disguised-enemy": "Hostis dissimulatus"
@@ -1507,9 +1507,9 @@
                     "bw-attack-desc-flame": "Vomit flammas ad ludionem",
                     "bw-attack-desc-rocking-hammers": "Iacit malleos in succesione celeri",
                     "bw-attack-desc-blazing-hammers": "Iacit malleos inferni ad ludionem",
-                    "bw-attack-desc-mecha-wand": "Caligula virgam utitur ut Robokupas creet. Sed has contra eum uti potes!",
+                    "bw-attack-desc-mecha-wand": "Caligula virga utitur ut Robokupas creet. Sed his contra eum uti potes!",
                     "bw-attack-desc-shell-dash": "Caligula se recondit in testa, quae celeriter versat. Cave!",
-                    "kb-attack-desc-flame": "Vomit flammam phantasicam ad ludionem",
+                    "kb-attack-desc-flame": "Vomit flammam larualem ad ludionem",
                     "kb-attack-desc-dash": "Ludionem destinat",
                     "kb-attack-desc-bottle": "Multas ampullas magicas manumittit. Nonullae excandescunt, una ampulla nympham manumittit cum conculcatur ut Imperatorem stupefiat!",
                     "kb-attack-desc-pepper": "Vomit cucurbitas et piperem. Iace piperem ad os, tum appugno cucurbitis!",
@@ -1535,7 +1535,7 @@
                 "info": "Instrumentum MapSnap - Optiones subtilitatis",
                 "default-button": "Defalta",
                 "fixed-button": "Fixus",
-                "default-info": "Minora errata habet, sed saepe subtilitatem meliorem et magnitudinem plicae maiorem habet. \n\n Pictura scaenarum, quarum longitudo aut altitudo super 510 cubos est, informationes inabsolutas habebunt.",
+                "default-info": "Minora errata habet, sed saepe subtilitatem meliorem et magnitudinem plicae maiorem habet. \n\n Pictura scaenarum, quarum longitudo aut altitudo super 510 cubos est, informationem inabsolutam habebunt.",
                 "fixed-info": "Pluriora errata habet, sed saepe subtilitatem minorem et magnitudinem plicae minorem habet. \n\n Pictura scaenarum, quarum longitudo aut altitudo super 1020 cubos est, subtilitatem minorem habebunt."
             }
         },
@@ -1563,7 +1563,7 @@
                 "logged-in-as": "Inis ut {0}",
                 "x-levels-on-lss": "{0} specutaculi in Level Share Square",
                 "log-out-confirmation": "Exire vis?",
-                "offline-notice": "Inconexus es, ergo qualitates LSS uti non potes.",
+                "offline-notice": "Inconexus es, ergo commoditatibus LSS uti non potes.",
                 "accessibility": "accessibilitas"
             },
             "buttons": {
@@ -1671,7 +1671,7 @@
             },
             "tooltips": {
                 "name": "Nomen quod effectum hunc agnovit, in fabrica modo.",
-                "tags": "Pittacia facultativa (quae separantur a spatiis) quae alloquuntur hunc effectus. Exempli gratia, cubos pittacii uti potes ut hunc effetus afficias.",
+                "tags": "Pittacia facultativa (quae separantur a spatiis) quae alloquuntur hunc effectus. Exempli gratia, cubis pittacii uti potes ut hunc effetus afficias.",
                 "intensity": "Intensitas effectus. In optionibus maioribus, saepe plures particulas creat.[/color]",
                 "movement-angle": "Angulus motus.",
                 "downfall-tilt": "Move decursum sinistrorsus vel dextrorsus leviter, ut effectus venti simulet",
@@ -1764,7 +1764,7 @@
                 "spinjump": "Versare",
                 "hold": "Rem tenere",
                 "run": "Currere",
-                "use-power-up": "Potestatem uti",
+                "use-power-up": "Utere potestate",
                 "look-up": "Videre sursum",
                 "inventory": "Inventarium",
                 "pause": "Pausare",
