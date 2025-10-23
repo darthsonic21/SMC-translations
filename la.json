@@ -458,7 +458,7 @@
                 "darkness-values": "Debilis|25% (Tenebrae ambientes)|50%|75%|100% (Ablepsia)",
                 "1_water-modes": "Debilis|Semper (tegulas aquarias non eget)|Tecta aqua (antiqua)|Tecta aqua (moderna)",
                 "2_water-modes": "Debilis|Semper (tegulas aquarias non eget)|Tecta aqua",
-                "screen-size-presets": "[!]Default|Legacy|SNES|GBA",
+                "screen-size-presets": "Defalta|Legatum|SNES|GBA",
                 "bg-loop-methods": "Debilis|Itera horizontaliter|Itera verticaliter|Itera omnes|Noli iterare|Tantum horizontaliter|Tantum verticaliter",
                 "bg-scroll-speed-h": "←← CELERRIMA!|← Celeris|← Mediana|← Tarda|← Tardissima|Debilis|→ Tardissima|→ Tarda|→ Mediana|→ Celeris|→→ CELERRIMA!",
                 "bg-scroll-speed-v": "↑↑ CELERRIMA!|↑ Celeris|↑ Mediana|↑ Tarda|↑ Tardissima|Debilis|↓ Tardissima|↓ Tarda|↓ Mediana|↓ Celeris|↓↓ CELERRIMA!",
@@ -523,8 +523,8 @@
                 "checkered-brick-block": "Cubus laterum tessellatus",
                 "snowy-brick-block": "Cubus laterum nivalis",
                 "kirby-brick-block": "Cubus laterum Kirby",
-                "red-pow-block": "[!]Red POW Block",
-                "arcade-pow-block": "[!]Arcade POW Block",
+                "red-pow-block": "Cubus POW ruber",
+                "arcade-pow-block": "Cubus POW Arcade",
                 "standard-coin": "Nummus ordinarius",
                 "goal-orb": "Sphaera victoriae",
                 "yoshi-egg": "Ovum draconis",
@@ -887,9 +887,9 @@
                 "large-meteor": "Meteorum magnum",
                 "rock-projectile": "Projectilis saxeus",
                 "kab-omb": "Pyrobalbus",
-                "bully": "[!]Bully",
-                "chill-bully": "[!]Chill Bully",
-                "snailicorn": "[!]Snailicorn",
+                "bully": "Vexator",
+                "chill-bully": "Nixator",
+                "snailicorn": "Cochleacornus",
                 "boom-boom": "Praetorianus",
                 "bowser": "Caligula",
                 "king-boo": "Imperator Phasmatum",
@@ -991,7 +991,7 @@
                 "arch": "Arcuationes (Pontes)",
                 "turnip": "Rapum",
                 "bunting": "Decorationes festivitatis",
-                "vase": "[!]Vases",
+                "vase": "Vasi",
                 "foliage": "Frons[s]Arbores et frutices magni",
                 "ghBrick": "Domus Phasmatum (Lateres)",
                 "ghMain": "Domus Phasmatum (Generalis)",
@@ -1007,10 +1007,10 @@
                 "retroCave": "Cavum antiquum",
                 "retroCastle": "Arx antiqua",
                 "retroUnderwater": "Mare antiquum",
-                "retroSnow": "[!]Retro Snow",
-                "retroDesert": "[!]Retro Desert",
-                "retroForest": "[!]Retro Forest",
-                "retroMountain": "[!]Retro Mountain",
+                "retroSnow": "Nix antiqua",
+                "retroDesert": "Desertum antiquum",
+                "retroForest": "Silva antiqua",
+                "retroMountain": "Mons antiquus",
                 "factory": "Fabrica",
                 "coGreenHill": "Viridis Collis[s]Transitus/Sonic the Hedgehog",
                 "coForsakenCity": "Urbs Relicta[s]Transitus/Celeste",
@@ -1092,8 +1092,8 @@
                 "text": {
                     "tagging-notice": "Cum debilitatur, generator habilitari potest vocando pittacio eius (e.g. per Tegulam Pittacii).",
                     "sinewave-tool": "Angulus et amplitudo sinus statui possunt trahendo instrumento \\[---].",
-                    "lock-unlock-direction": "Utere botone sagittae supra ut directionem aspicientem offirmas/disseres.",
-                    "quick-and-precise-angle": "Utere botone sinistros ut angulum celeriter constituas, aut utere agrum scriptionis ut angulum certium constituas."
+                    "lock-unlock-direction": "Utere botonibus sagittae supra ut directionem aspicientem offirmas/disseres.",
+                    "quick-and-precise-angle": "Utere botonibus sinistris ut angulum celeriter constituas, aut utere agro scriptionis ut angulum certium constituas."
                 }
             },
             "startpoint": {
@@ -1211,7 +1211,7 @@
                     "object-cap": "Quantitas maxima rerum, quae ab arca hostium creatur, et quae vivere possunt uno tempore. Si hostes, qui ab arca hac creantur, vincuntur, arca alios creat.",
                     "delays": "Mora creandi est tempus (in p.m. secundis) inter omnem cyclum creandi, mora incipiendi est tempus quod exspectatur inceptioni cycli creandi.",
                     "launch-velocity": "Velocitas rei cum ab arca hostium manumittitur.",
-                    "random-velocity": "Velocitas fortuita facultativa quae additur in velocitatem initialem (utere numeros negativos subtractum).",
+                    "random-velocity": "Velocitas fortuita facultativa quae additur ad velocitatem initialem (utere numeris negativis ut subtrahar).",
                     "appearances": "Arca hostium|Magna arca hostium|Arca praemiorum|Magna arca praemiorum"
                 },
                 "invis-spawner": {
@@ -1238,7 +1238,7 @@
                     "player-respawn-points-info": "Destinatum puncti medii uti potes velut punctum recreandi est, sed etiam destinationem uti potes.\n[sub]Res posterior est utilis abstantiae longae aut recreando ludionis in scaena alia.[/sub]",
                     "respawning-map": "Scaena in qua ludio recreabitur post mortem.",
                     "respawning-destination": "Destinatio in scaena electa.",
-                    "player-respawn-points": "Utere suum punctum recreandi|Utere destinationem velut punctum recreandi est"
+                    "player-respawn-points": "Utere suo puncto recreandi|Utere destinatione velut punctum recreandi est"
                 },
                 "bill-blasters": {
                     "cannon-type": "Genus cannonis",
@@ -1531,7 +1531,7 @@
                 "skip-death-anim": "Debilita animationem mortis",
                 "play-death-anim": "Habilita nimationem mortis",
                 "edit-keybinds": "Muta botones",
-                "camera-keybinds": "[!]Gameplay camera keybinds\n[sub]Camera may not always be scrollable[/sub]",
+                "camera-keybinds": "Botones camerae in ludo\n[sub]Camera non semper moveri potest[/sub]",
                 "graphics-settings": "Optiones graphicae",
                 "account-settings": "Optiones inscriptionis LSS",
                 "accessibility-options": "Optiones accessibilitatis",
@@ -1677,7 +1677,7 @@
                 "cloud-version": "Versio nubis",
                 "last-edited": "Proxume mutatur",
                 "keep-local-version": "Serva versionem localis",
-                "use-cloud-version": "Utere versionem nubis",
+                "use-cloud-version": "Utere versione nubis",
                 "download-copy": "Importa exemplarem"
             }
         },
@@ -1695,10 +1695,10 @@
                 "inventory": "Inventarium",
                 "pause": "Pausare",
                 "toolbox": "Arca instrumentorum",
-                "space": "[!]Space",
-                "cam": "[!]Cam",
-                "leftAnalog": "[!]Left analog",
-                "rightAnalog": "[!]Right analog"
+                "space": "Spatium",
+                "cam": "Cam",
+                "leftAnalog": "Sinister analog",
+                "rightAnalog": "Dexter analog"
             },
             "toolbox": {
                 "camera": "Cape picturam",
@@ -1753,12 +1753,12 @@
                 "fact": "Fabrica",
                 "sort-by-game-origin": "Colloca secundum originem ludi",
                 "sort-by-level-theme": "Colloca secundum themam",
-                "use-default-music": "Utere defaltam",
+                "use-default-music": "Utere defalta",
                 "edit-music": "Muta musicam",
                 "remove-music": "Dele musicam",
                 "remove-music-warning": "Hic musicam delebit huic categoriae tantum.",
                 "npc-press-play": "Pulsa ▶️ ut musicam praevideas!",
-                "npc-play-prompts": "Optime!|Mirabilis auditu!|Valde amo!",
+                "npc-play-prompts": "Optime!|Mirabilis!|Valde diligo!",
                 "timed-custom-music-notice": "Si musicam specialem addis, eam eligere potes hic.",
                 "add-custom-music": "Musicam specialem adde",
                 "custom-music-tab-header": "Hic, addere et administrare musicam specialem huic spectaculo. Musicam specialem eligi potest in pagina priori.",
