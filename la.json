@@ -1444,9 +1444,9 @@
                     "viewing-attack": "Impetum vides",
                     "attack-frequency-info": "Unus impetus saepe fieri potest! Me vide:",
                     "spew-flame": "Vome flammam",
-                    "rocking-hammer": "Mallei Ppotentes",
+                    "rocking-hammer": "Malleipotentes",
                     "blazing-hammer": "Mallei inferni",
-                    "mecha-wand": "Virga Robotorum",
+                    "mecha-wand": "Virga robotorum",
                     "shell-dash": "Testa provolans",
                     "homing-dash": "Impetus petens",
                     "pumpkins-and-pepper": "Cucurbitae et piper",
@@ -1711,7 +1711,7 @@
                 "current": "Bullae|Particulae aeris"
             },
             "text": {
-                "duplicate-name": "Hoc nomen effectus usus es. Pone nomen novum."
+                "duplicate-name": "Hoc nomen effectus usum est. Pone nomen novum."
             }
         },
         "screen-menus": {
