@@ -156,7 +156,7 @@
                 "press-again-to-confirm": "Pulsa iterum ut sancias",
                 "press-x-again-to-confirm": "Pulsa {0} iterum ut sancias",
                 "press-any-key": "Pulsa quemquam botonem",
-                "nothing-to-see": "Nihil hic!",
+                "nothing-to-see": "Nihil est!",
                 "try-another-search-query": "Conare aliam quaestionem.",
                 "x-settings": "{0} optiones",
                 "x-tags": "{0} pittacia",
@@ -438,7 +438,7 @@
                 "edit-sync-settings": "Optiones synchronizationis muta",
                 "prompt-backup-notice": "[scale=0.75]Note omn. ... ut tutum importes[/scale]\n[scale=0.5][color=#CCCCCC](Suadetur in SMC interretialis)[/color][/scale]",
                 "create-restore-point": "[scale=0.75]Manibus tuis fac\npunctum restutionis[/scale]",
-                "view-restore-points": "[scale=0.75]Vide/Utere\npuncto restutionis[/scale]",
+                "view-restore-points": "[scale=0.75]Vide/Utere\npunct. restutionis[/scale]",
                 "download-level": "[scale=0.75]Spectaculum hoc deduc[/scale]"
             },
             "tooltips": {
@@ -1546,7 +1546,7 @@
                 "editing-control-keybinds": "Botones regiminis mutans",
                 "viewing-debugger": "Emendatorem videns",
                 "control-config-k": "Configuratio regiminis",
-                "control-config-g": "Configuratio regiminis\n[scale=0.65][color=#CCCCCC]Botones tabulae ludi agnitionem numerorum utuntur[/color][/scale]",
+                "control-config-g": "Configuratio regiminis\n[scale=0.65][color=#CCCCCC]Botones tabulae ludi agnitionibus numerorum utuntur[/color][/scale]",
                 "graphics-settings": "Optiones celeritatis ludi et graphicae",
                 "recorder-settings": "Optiones captoris pellicularum in ludo",
                 "in-game-username": "Nomen in ludo",
