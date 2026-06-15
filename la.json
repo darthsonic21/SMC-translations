@@ -2,8 +2,8 @@
     "locale": "la",
     "strings": {
         "constants": {
-            "1_map-palettes": "Vulgaris/Campus|Subterranea (caerulea)|Arx (cana)|Subaqueana (viridis)|Caelum (prasina)|Glacies (aeria)|Vulcanus (rubra)|Domus Phasmatum (purpurea)|Praemium (flava)|Acta (brunnea)|Mundus Stellaris (caerulea)|Silva (fusca)|Navigium Caeli (brunnea-atra)|Ruina (cana)|Savanna (fulva)",
-            "2_map-palettes": "Vulgaris"
+            "1_map-palettes": "Vulgare/Campus|Subterraneum (caeruleum)|Arx (canum)|Subaqueana (viride)|Caelum (prasinum)|Glacies (aerium)|Vulcanus (rubrum)|Domus Phasmatum (purpureum)|Praemium (flavum)|Acta (brunneum)|Mundus Stellaris (caeruleum)|Silva (fuscum)|Navigium Caeli (brunneum-atrum)|Ruina (canum)|Savanna (fulvum)",
+            "2_map-palettes": "Vulgare"
         },
         "common": {
             "buttons": {
